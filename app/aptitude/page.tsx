@@ -1,7 +1,7 @@
 import React from 'react'
 
 export const metadata = {
-    title: "GetPlaced | Aptitude Rounds",
+    title: "GetPlaced - Aptitude Rounds",
     description: "Welcome to the Aptitude Page",
 };
 
