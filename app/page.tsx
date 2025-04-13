@@ -1,7 +1,5 @@
 import React from "react";
-import Image from 'next/image';
 import { Roboto } from 'next/font/google';
-// import AvatarViewer from "../components/avatar";
 import Tooltip from "../components/social-media";
 import CompaniesSlider from "../components/companies-slider";
 

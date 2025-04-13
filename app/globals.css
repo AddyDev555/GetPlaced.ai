@@ -24,9 +24,32 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  overflow-y: hidden;
 }
 
 body.dark {
   background: var(--foreground);
   color: var(--background);
+  overflow-y: hidden;
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 10px;
+  margin-left: 10px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background-color: #ffe446; /* yellow-400 */
+  border-radius: 20px;
+  border: 2px solid #f1f1f1;
+}
+
+/* Optional Firefox support */
+.custom-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: #ffe446 #f1f1f1;
 }
