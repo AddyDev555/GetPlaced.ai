@@ -25,8 +25,8 @@ export default function Navbar({ onToggle }) {
         { name: "Technical", href: "/technical" },
         { name: "Group Discussion", href: "/group-discussion" },
         { name: "HR Interview", href: "/interview" },
-        { name: "Company Questions", href: "/" },
-        { name: "Jobs & Internships", href: "/" },
+        { name: "Company Questions", href: "/company-questions" },
+        { name: "Jobs & Internships", href: "/jobs-internships" },
     ];
 
     return (
