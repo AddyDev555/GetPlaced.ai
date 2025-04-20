@@ -53,9 +53,9 @@ export default function Topics() {
         <div className='h-[75vh] p-2 overflow-y-scroll grid grid-cols-3 gap-2 custom-scrollbar'>
             {topic === null ? (
                 uniqueTopics.map((item, index) => (
-                    <div onClick={() => setTopic(item.Topic)} key={index} className="border p-2 rounded shadow cursor-pointer hover:scale-101">
+                    <div onClick={() => setTopic({ name: item.Topic, logo: item.Logo, subTitle: item.Subtitle })} key={index} className="border p-2 rounded shadow cursor-pointer hover:scale-101">
                         <div className='pl-2 flex space-x-2'>
-                            <i className={`fi ${item.Logo} relative top-0.5 text-[#ffdf20]`}></i>
+                            <i className={`fi ${item.Logo} relative top-0.5 text-yellow-400`}></i>
                             <h2>{item.Topic}</h2>
                         </div>
                         <p className={`${roboto.className} pl-2 pt-2 text-[0.7rem] text-gray-400`}>{item.Subtitle}</p>

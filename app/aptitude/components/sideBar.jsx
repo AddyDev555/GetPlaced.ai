@@ -24,7 +24,7 @@ export default function SideBar() {
             <div className='p-6'>
                 {card_data.map((card, index) => (
                     <div key={index} className='flex space-x-2 rounded p-3'>
-                        <i className={`fi ${card.logoClass} relative top-0.5`}></i>
+                        <i className={`fi ${card.logoClass} text-yellow-400 relative top-0.5`}></i>
                         <h2 className='cursor-pointer'>{card.title}</h2>
                     </div >
                 ))}
