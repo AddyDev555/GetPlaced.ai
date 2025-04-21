@@ -1,18 +1,22 @@
 "use client";
 
-import { useState } from "react";
+import { useState, ReactNode } from "react";
 import Navbar from "../components/navbar";
 import "./globals.css";
-import { Toaster } from 'react-hot-toast';
-import Head from 'next/head';
+import { Toaster } from "react-hot-toast";
+import Head from "next/head";
 
-export default function RootLayout({ children }) {
+interface RootLayoutProps {
+  children: ReactNode;
+}
+
+export default function RootLayout({ children }: RootLayoutProps) {
   const [darkMode, setDarkMode] = useState(false);
 
   return (
     <html lang="en">
       <Head>
-        <link rel="icon" href="/mainLogo.png" type="image/png"/>
+        <link rel="icon" href="/mainLogo.png" type="image/png" />
       </Head>
       <body className={darkMode ? "dark overflow-y-hidden" : "overflow-y-hidden"}>
         <div className="shadow-[0_4px_4px_-2px_rgba(0,0,0,0.1)]">
