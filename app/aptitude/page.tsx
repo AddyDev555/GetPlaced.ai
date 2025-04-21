@@ -1,22 +1,18 @@
 import React from 'react';
-import SideBar from "./components/sideBar";
-import Topics from "./components/topics";
+import AptitudeCombiner from "./components/aptitudes_combiner";
 
 export const metadata = {
     title: "GetPlaced - Aptitude Questions and Answers",
     description: "Welcome to the Aptitude Page",
+    icons: {
+        icon: "/mainLogo.png",
+    },
 };
 
 export default function AptitudePage() {
-
     return (
-        <div className="flex overflow-y-hidden">
-            <div className='w-[18.7%] h-screen overflow-y-hidden border-r-2 border-r-yellow-200'>
-                <SideBar />
-            </div>
-            <div className='p-6 mt-1 w-[80%] m-auto overflow-y-hidden'>
-                <Topics />
-            </div>
+        <div>
+            <AptitudeCombiner />
         </div>
     )
 }

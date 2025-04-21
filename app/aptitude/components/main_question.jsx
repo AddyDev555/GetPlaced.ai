@@ -43,18 +43,17 @@ export default function MainQuestion({ aptData, topic, setTopic }) {
         );
     }
 
-
-
-
-
     return (
         <div>
             <div>
+                <div>
+                    <p className='text-sm cursor-pointer text-gray-400 mb-2'><span className='hover:text-blue-600' onClick={()=>setTopic(null)}>/Arithmetic</span>/{topic.name}</p>
+                </div>
                 <div className="flex items-center gap-2">
                     <i className={`fi ${topic.logo} relative top-0.5 text-xl text-yellow-400`}></i>
                     <h2 className="font-semibold text-xl">{topic.name}</h2>
                 </div>
-                <p className="text-gray-400 my-1 text-xs">{topic.subTitle}</p>
+                <p className="text-gray-400 my-1 text-sm">{topic.subTitle}</p>
             </div>
 
             <div className="mt-2 space-y-2">

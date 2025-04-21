@@ -6,6 +6,9 @@ import CompaniesSlider from "../components/companies-slider";
 export const metadata = {
   title: "Welcome to GetPlaced",
   description: "Welcome to the Landing Page",
+  icons: {
+    icon: "/mainLogo.png",
+  },
 };
 
 const roboto = Roboto({
