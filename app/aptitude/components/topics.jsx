@@ -12,9 +12,8 @@ const roboto = Roboto({
     weight: ['400', '500', '600', '700'],
 });
 
-export default function Topics({ toggleTitle, setToggleTitle }) {
+export default function Topics({topic, setTopic, toggleTitle, setToggleTitle }) {
     const [aptitudeData, setAptitudeData] = useState([]);
-    const [topic, setTopic] = useState(null);
     const uniqueTopics = aptitudeData.filter(
         (item, index, self) =>
             index === self.findIndex((t) => t.Topic === item.Topic)

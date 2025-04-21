@@ -112,11 +112,10 @@ export default function MainQuestion({ aptData, topic, setTopic }) {
                             {isSolution[index] &&
                                 <div className='text-sm px-6.5 text-justify'>
                                     <p className='mt-2'><span className='text-green-600 font-semibold'>Correct Answer:</span> <span className='font-semibold'>{item.Answer?.toUpperCase()}</span></p>
-                                    <p className='text-green-600 font-semibold'>Solution</p>
-                                    {item.Solution}
+                                    {/* <p className='text-green-600 font-semibold'>Solution</p>
+                                    {item.Solution} */}
                                 </div>
                             }
-
                         </div>
                     ))
                 ) : (
