@@ -20,7 +20,10 @@ export default function SideBar({ topic, setTopic, toggleTitle, setToggleTitle }
 
     return (
         <div className={`${roboto.className}`}>
-            <div className='p-6'>
+            <div className='shadow-sm pt-[2.5px] pb-4'>
+                <h1 className='mt-3.5 text-center font-semibold text-lg'>Aptitude Topics</h1>
+            </div>
+            <div className='p-6 pt-3'>
                 {card_data.map((card, index) => (
                     <div onClick={() => {
                         setToggleTitle(card.title);

@@ -12,7 +12,7 @@ const roboto = Roboto({
     weight: ['400', '500', '600', '700'],
 });
 
-export default function Topics({topic, setTopic, toggleTitle, setToggleTitle }) {
+export default function Topics({ topic, setTopic, toggleTitle, setToggleTitle }) {
     const [aptitudeData, setAptitudeData] = useState([]);
     const uniqueTopics = aptitudeData.filter(
         (item, index, self) =>
@@ -65,31 +65,37 @@ export default function Topics({topic, setTopic, toggleTitle, setToggleTitle }) 
                     <p className="text-gray-500">Explore different {toggleTitle} questions and tips.</p>
                 </div>
             ) : toggleTitle === "Arithmetic" ? (
-                <div className="grid grid-cols-3 gap-2">
-                    {uniqueTopics.map((item, index) => (
-                        <div
-                            onClick={() =>
-                                setTopic({
-                                    name: item.Topic,
-                                    logo: item.Logo,
-                                    subTitle: item.Subtitle,
-                                })
-                            }
-                            key={index}
-                            className="border p-2 rounded shadow cursor-pointer hover:scale-101"
-                        >
-                            <div className="pl-2 flex space-x-2">
-                                <i className={`fi ${item.Logo} relative top-0.5 text-yellow-400`}></i>
-                                <h2>{item.Topic}</h2>
+                <div>
+                    <div className={`${roboto.className} flex items-center font-semibold text-lg relative bottom-3`}>
+                        <i className='fi text-yellow-400 relative top-0.5 fi-rs-integral mr-1'></i>
+                        <h1>{toggleTitle} Topics</h1>
+                    </div>
+                    <div className="grid grid-cols-3 gap-2">
+                        {uniqueTopics.map((item, index) => (
+                            <div
+                                onClick={() =>
+                                    setTopic({
+                                        name: item.Topic,
+                                        logo: item.Logo,
+                                        subTitle: item.Subtitle,
+                                    })
+                                }
+                                key={index}
+                                className="border p-2 rounded shadow cursor-pointer hover:scale-101"
+                            >
+                                <div className="pl-2 flex space-x-2">
+                                    <i className={`fi ${item.Logo} relative top-0.5 text-yellow-400`}></i>
+                                    <h2>{item.Topic}</h2>
+                                </div>
+                                <p className={`${roboto.className} pl-2 pt-2 text-[0.7rem] text-gray-400`}>
+                                    {item.Subtitle}
+                                </p>
+                                <p className={`${roboto.className} pl-2 pt-2 text-[0.7rem]`}>
+                                    Total Questions: <strong>{topicCounts[item.Topic] || 0}</strong>
+                                </p>
                             </div>
-                            <p className={`${roboto.className} pl-2 pt-2 text-[0.7rem] text-gray-400`}>
-                                {item.Subtitle}
-                            </p>
-                            <p className={`${roboto.className} pl-2 pt-2 text-[0.7rem]`}>
-                                Total Questions: <strong>{topicCounts[item.Topic] || 0}</strong>
-                            </p>
-                        </div>
-                    ))}
+                        ))}
+                    </div>
                 </div>
             ) : (
                 <div className="text-center">

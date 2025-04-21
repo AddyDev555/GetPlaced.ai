@@ -45,24 +45,30 @@ export default function MainQuestion({ aptData, topic, setTopic }) {
 
     return (
         <div>
-            <div>
+            <div className='flex'>
                 <div>
-                    <p className='text-sm cursor-pointer text-gray-400 mb-2'><span className='hover:text-blue-600' onClick={()=>setTopic(null)}>/Arithmetic</span>/{topic.name}</p>
+                    <div>
+                        <p className='text-sm cursor-pointer text-gray-400 mb-2'><span className='hover:text-yellow-400' onClick={() => setTopic(null)}>/Arithmetic</span>/{topic.name}</p>
+                    </div>
+                    <div className="flex items-center gap-2">
+                        <i className={`fi ${topic.logo} relative top-0.5 text-xl text-yellow-400`}></i>
+                        <h2 className="font-semibold text-xl">{topic.name}</h2>
+                    </div>
+                    <p className="text-gray-400 my-1 text-sm">{topic.subTitle}</p>
                 </div>
-                <div className="flex items-center gap-2">
-                    <i className={`fi ${topic.logo} relative top-0.5 text-xl text-yellow-400`}></i>
-                    <h2 className="font-semibold text-xl">{topic.name}</h2>
+
+                <div className='ml-auto mr-4'>
+                    <i className="fi fi-rr-calculator text-2xl cursor-pointer"></i>
                 </div>
-                <p className="text-gray-400 my-1 text-sm">{topic.subTitle}</p>
             </div>
 
             <div className="mt-2 space-y-2">
                 {topicData.length > 0 ? (
                     topicData.map((item, index) => (
                         <div key={index} className={`p-4 border rounded shadow ${roboto.className}`}>
-                            <p className="text-[0.9rem] font-medium">
-                                Q{index + 1}. {item.Question}
-                            </p>
+                            <div className="text-[0.9rem] font-medium">
+                                Q{index + 1}. {renderFormattedFraction(item.Question)}
+                            </div>
 
                             <div className="grid grid-cols-2 gap-2 mt-4 pl-6">
                                 {Object.entries(item)
