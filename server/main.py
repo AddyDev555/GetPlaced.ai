@@ -26,7 +26,5 @@ def Technical():
             data = json.load(f)  
         return jsonify(data)     
 
-  
-
 if __name__ == "__main__":
     app.run(debug=True)
