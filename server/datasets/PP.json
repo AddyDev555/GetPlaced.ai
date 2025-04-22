@@ -1,0 +1,4412 @@
+[
+    {
+        "Topic": "Number System Questions & Answers",
+        "Question": "Which of the following is not a prime number?",
+        "Option A": 91,
+        "Option B": 97,
+        "Option C": 79,
+        "Option D": 59,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Number System Questions & Answers",
+        "Question": "How many factors for 100? Or how many equal distributions are possible for 100?",
+        "Option A": "6 factors",
+        "Option B": "8 factors",
+        "Option C": "9 factors",
+        "Option D": "10 factors",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Number System Questions & Answers",
+        "Question": "In Mahabalipuram temple there are some magical bells which toll 18 times in a day, simultaneously. But every bells tolls at a different interval of time, but not in a fraction of minutes. The maximum number of bells in the temple?",
+        "Option A": "6 bells",
+        "Option B": "8 bells",
+        "Option C": "10 bells",
+        "Option D": "12 bells",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Number System Questions & Answers",
+        "Question": "Which is the co-prime number pair?",
+        "Option A": "(3,9)",
+        "Option B": "(5,75)",
+        "Option C": "(7,9)",
+        "Option D": "(9,27)",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Number System Questions & Answers",
+        "Question": "If the number 97215A6 is divisible by 11, find the smallest whole number in the place of A.",
+        "Option A": 3,
+        "Option B": 4,
+        "Option C": 6,
+        "Option D": 8,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Number System Questions & Answers",
+        "Question": "476 ** 0 is divisible by both 3 and 11. The non-zero digits in the hundred's and ten's places are respectively:",
+        "Option A": "7 and 4",
+        "Option B": "7 and 5",
+        "Option C": "8 and 5",
+        "Option D": "None of these",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Number System Questions & Answers",
+        "Question": "What is the value of M and N respectively if M39048458N is divisible by 8 and 11, where M and N are single digit integers?",
+        "Option A": "7 and 4",
+        "Option B": "6 and 4",
+        "Option C": "8 and 5",
+        "Option D": "None of these",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Number System Questions & Answers",
+        "Question": "A 3-digit number 4A3 is added to another 3-digit number 984 to give a 4-digit number 13B7, which is divisible by 11. Then (A+B) is",
+        "Option A": 10,
+        "Option B": 11,
+        "Option C": 12,
+        "Option D": 15,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Number System Questions & Answers",
+        "Question": "If the number 42573 * is exactly divisible by 72, then the minimum value of * is:",
+        "Option A": 6,
+        "Option B": 5,
+        "Option C": 7,
+        "Option D": 9,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Number System Questions & Answers",
+        "Question": "551234574 * 1134 = 62N100006916. Find N?",
+        "Option A": 6,
+        "Option B": 5,
+        "Option C": 7,
+        "Option D": 9,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Number System Questions & Answers",
+        "Question": "The numbers 1 to 29 are written side by side as follows: 1234567891011......2829. If the number is divided by 9, then what is the remainder?",
+        "Option A": 6,
+        "Option B": 5,
+        "Option C": 4,
+        "Option D": 3,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Number System Questions & Answers",
+        "Question": "What is the unit digit in the product 3^65 × 6^59 × 7^71",
+        "Option A": 6,
+        "Option B": 5,
+        "Option C": 4,
+        "Option D": 3,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Number System Questions & Answers",
+        "Question": "What is the 499th digit from the right in (4300)^249?",
+        "Option A": 6,
+        "Option B": 5,
+        "Option C": 4,
+        "Option D": 3,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Number System Questions & Answers",
+        "Question": "A number when divided by a divisor leaves a remainder of 24. When twice the original number is divided by the same divisor, the remainder is 11. What is the value of the divisor?",
+        "Option A": 26,
+        "Option B": 35,
+        "Option C": 37,
+        "Option D": 27,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Number System Questions & Answers",
+        "Question": "When a number is divided by 56 it gives the remainder 29, if the same number is divided by 8, What will be the remainder?",
+        "Option A": 6,
+        "Option B": 5,
+        "Option C": 3,
+        "Option D": 7,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Number System Questions & Answers",
+        "Question": "When a number is divided by 56 it gives the remainder 29, if the same number is divided by 9, What will be the remainder?",
+        "Option A": 6,
+        "Option B": 5,
+        "Option C": 3,
+        "Option D": "Cannot be determined",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Number System Questions & Answers",
+        "Question": "The number obtained by interchanging the two digits of a two-digit number is less than the original number by 18. The sum of the two digits of the number is 16. What is the original number?",
+        "Option A": 97,
+        "Option B": 69,
+        "Option C": 83,
+        "Option D": 92,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Number System Questions & Answers",
+        "Question": "How many zeros are there in 100! (100 factorial)?",
+        "Option A": 15,
+        "Option B": 29,
+        "Option C": 33,
+        "Option D": 24,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "HCF and LCM Questions & Answers",
+        "Question": "Find the HCF of 72,288 and 1080",
+        "Option A": 36,
+        "Option B": 72,
+        "Option C": 144,
+        "Option D": 288,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "HCF and LCM Questions & Answers",
+        "Question": "The product of two numbers is 2268. If their HCF is 9,what is their LCM?",
+        "Option A": 240,
+        "Option B": 280,
+        "Option C": 124,
+        "Option D": 252,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "HCF and LCM Questions & Answers",
+        "Question": "Three numbers are in the ratio of 3 : 4 : 5 and their L.C.M. is 2400. Their H.C.F. is:",
+        "Option A": 40,
+        "Option B": 80,
+        "Option C": 120,
+        "Option D": 200,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "HCF and LCM Questions & Answers",
+        "Question": "HCF of two numbers is 12 and their sum is 288. How many such pairs of numbers is possible?",
+        "Option A": 3,
+        "Option B": 2,
+        "Option C": 4,
+        "Option D": 1,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "HCF and LCM Questions & Answers",
+        "Question": "The number of number pairs lying between 40 and 100 with their HCF as 15 is",
+        "Option A": 3,
+        "Option B": 2,
+        "Option C": 4,
+        "Option D": 1,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "HCF and LCM Questions & Answers",
+        "Question": "What is the minimum number of identical square tiles to required fit in a rectangular floor of dimension 720*540?",
+        "Option A": 13,
+        "Option B": 12,
+        "Option C": 14,
+        "Option D": 11,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "HCF and LCM Questions & Answers",
+        "Question": "Six bells commence tolling together and toll at intervals of 2, 4, 6, 8 10 and 12 seconds respectively. In 30 minutes, how many times do they toll together?",
+        "Option A": 13,
+        "Option B": 16,
+        "Option C": 14,
+        "Option D": 15,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "HCF and LCM Questions & Answers",
+        "Question": "In a meet, persons from five different places have assembled in Bangalore High School. From the five places the persons come to represent are 42,60,210,90 and 84. What is the minimum number of rooms that would be required to accommodate so that each room has the same number of occupants and occupants are all from the same places?",
+        "Option A": 44,
+        "Option B": 62,
+        "Option C": 81,
+        "Option D": 96,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "HCF and LCM Questions & Answers",
+        "Question": "Find the greatest number that will divide 43, 91 and 183 so as to leave the same remainder in each case.",
+        "Option A": 13,
+        "Option B": 2,
+        "Option C": 4,
+        "Option D": 11,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "HCF and LCM Questions & Answers",
+        "Question": "The least number which when divided by 5, 6 , 7 and 8 leaves a remainder 3, but when divided by 9 leaves no remainder, is:",
+        "Option A": 1325,
+        "Option B": 840,
+        "Option C": 1683,
+        "Option D": 1563,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "HCF and LCM Questions & Answers",
+        "Question": "What is the least number, which when divided by 7, 8 and 11 always gives 6 as the remainder?",
+        "Option A": 613,
+        "Option B": 662,
+        "Option C": 624,
+        "Option D": 622,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "HCF and LCM Questions & Answers",
+        "Question": "What is the least number, which when divided by 7, 8 and 11 gives 6 , 7 and 10 as the remainders respectively?",
+        "Option A": 615,
+        "Option B": 662,
+        "Option C": 612,
+        "Option D": 622,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "HCF and LCM Questions & Answers",
+        "Question": "5 farmers have 7,9,11,13 & 14 apple trees ,respectively in their orchards .So far each of them discovered that every tree in their orchard bore same number of apples .Further if the third farmer gives one apple to the first ,and fifth gives three to each of the second and the fourth , they would all have exactly the same number of apples .What were the yields per tree in the orchards of the third and fourth farmers ?",
+        "Option A": "17 & 9",
+        "Option B": "9 & 11",
+        "Option C": "9 & 9",
+        "Option D": "11 & 9",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Average Questions & Answers",
+        "Question": "What is the average of the following set of numbers: 302, 152, 132, 122, 112?",
+        "Option A": 140,
+        "Option B": 154,
+        "Option C": 160,
+        "Option D": 164,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Average Questions & Answers",
+        "Question": "The average age of A, B and C is 26 years. If the average age of A and C is 29 years, what is the age of B in a year?",
+        "Option A": 25,
+        "Option B": 28,
+        "Option C": 21,
+        "Option D": 24,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Average Questions & Answers",
+        "Question": "A cricketer scored 180 runs in the first test and 258 runs in the second. How many runs should he score in the third test so that his average score in the three tests would be 230 runs?",
+        "Option A": 200,
+        "Option B": 252,
+        "Option C": 270,
+        "Option D": 280,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Average Questions & Answers",
+        "Question": "Average of ten positive numbers is x. If each number is increased by 10%, then x :",
+        "Option A": "Increased by 10",
+        "Option B": "Increased by 10%",
+        "Option C": "Increased by 100",
+        "Option D": "Increased by 100%",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Average Questions & Answers",
+        "Question": "Average weight of 10 boys is more than the average weight of 15 girls by 5 kg. If the total weight of the 10 boys is 550 kg, what is the average of the 10 boys and 15 girls together?",
+        "Option A": 50,
+        "Option B": 51,
+        "Option C": 52,
+        "Option D": 53,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Average Questions & Answers",
+        "Question": "In Arun's opinion, his weight is greater than 65 kg but less than 72 kg. His brother does not agree with Arun and he thinks that Arun's weight is greater than 60 kg but less than 70 kg. His mother's view is that his weight cannot be greater than 68 kg. If all are them are correct in their estimation, what is the average of different probable weights of Arun?",
+        "Option A": 64,
+        "Option B": 66,
+        "Option C": 67,
+        "Option D": 68,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Average Questions & Answers",
+        "Question": "Three years ago, the average age of a family of 5 members was 17 years. A baby having been born, the average age of the family is the same today . The present age of the baby is:",
+        "Option A": "2 years",
+        "Option B": "1 years",
+        "Option C": "3 years",
+        "Option D": "0 years",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Average Questions & Answers",
+        "Question": "The average weight of 3 men A, B and C is 84 kg. Another man D joins the group and the average now becomes 80 kg. If another man E, whose weight is 3 kg more than that of D, replaces A then the average weight of B, C, D and E becomes 79 kg. The weight of A is:",
+        "Option A": "75 kg",
+        "Option B": "71 kg",
+        "Option C": "72 kg",
+        "Option D": "73 kg",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Average Questions & Answers",
+        "Question": "The average age of 39 students and a teacher of a Class are 11 years. If the age of teacher is excluded the average age of class is reduced by 1. What is the age of the teacher?",
+        "Option A": 50,
+        "Option B": 40,
+        "Option C": 30,
+        "Option D": 20,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Average Questions & Answers",
+        "Question": "Average weight of 11 students is 30 kg. If the average weight increases by 0.5 kg when Suresh, one of the students leaves the group, what is the Suresh’s weight?",
+        "Option A": "30 kg",
+        "Option B": "20 kg",
+        "Option C": "10 kg",
+        "Option D": "25 kg",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Average Questions & Answers",
+        "Question": "The average score of a cricketer for ten matches is 38.9 runs. If the average for the first six matches is 42, then find the average for the last four matches.",
+        "Option A": 31.5,
+        "Option B": 33,
+        "Option C": 34.25,
+        "Option D": 36.75,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Average Questions & Answers",
+        "Question": "The average monthly income of a family of four earning members was Rs. 15130. One of the daughters in the family got married and left home, so the average monthly income of the family came down to Rs. 14660. What is the monthly income of the married daughter?",
+        "Option A": "Rs.12000",
+        "Option B": "Rs.15350",
+        "Option C": "Rs.16540",
+        "Option D": "Cannot be determined",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Average Questions & Answers",
+        "Question": "The captain of a cricket team of 11 members is 26 years old and the wicket keeper is 3 years older. If the ages of these two are excluded, the average age of the remaining players is one year less than the average age of the whole team. What is the average age of the team?",
+        "Option A": 22,
+        "Option B": 23,
+        "Option C": 26,
+        "Option D": 29,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Average Questions & Answers",
+        "Question": "A student's mark was wrongly entered as 83 instead of 63. Due to that the average marks for the class got increased by half 1/2. What is the number of students in the class?",
+        "Option A": 40,
+        "Option B": 25,
+        "Option C": 30,
+        "Option D": 35,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Average Questions & Answers",
+        "Question": "A Batsman makes a score of 87 runs in the 17th inning and thus increases his average by 3. Find his average after the 17th inning.",
+        "Option A": 30,
+        "Option B": 33,
+        "Option C": 36,
+        "Option D": 39,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Average Questions & Answers",
+        "Question": "There were 35 students in a hostel. Due to the admission of 7 new students the expenses of the mess were increased by Rs.42 per day while the average expenditure per head diminished by Re 1. What was the original expenditure of the mess?",
+        "Option A": 420,
+        "Option B": 460,
+        "Option C": 500,
+        "Option D": 540,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Average Questions & Answers",
+        "Question": "Nine persons went to a hotel for taking their meals. Eight of them spent Rs.12 each on their meals and the ninth spent Rs.8 more than the average expenditure of all the nine. What was the total money spent by them.",
+        "Option A": "Rs.144",
+        "Option B": "Rs.104",
+        "Option C": "Rs.116",
+        "Option D": "Rs.117",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Average Questions & Answers",
+        "Question": "When a student weighing 45 kgs left a class, the average weight of the remaining 59 students increased by 200g. What is the average weight of the remaining 59 students?",
+        "Option A": "50 kg",
+        "Option B": "57 kg",
+        "Option C": "56.8 kg",
+        "Option D": "51 kg",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Average Questions & Answers",
+        "Question": "The average wages of a worker during a fortnight comprising 15 consecutive working days was Rs.90 per day. During the first 7 days, his average wages was Rs.87/day and the average wages during the last 7 days was Rs.92 /day. What was his wage on the 8th day?",
+        "Option A": "Rs.97",
+        "Option B": "Rs.87",
+        "Option C": "Rs.92",
+        "Option D": "Rs.85",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Average Questions & Answers",
+        "Question": "The average wages of a worker during a fortnight comprising 15 consecutive working days was Rs.90 per day. During the first 8 days, his average wages was Rs.87/day and the average wages during the last 8 days was Rs.92 /day. What was his wage on the 8th day?",
+        "Option A": "Rs.82",
+        "Option B": "Rs.87",
+        "Option C": "Rs.92",
+        "Option D": "Rs.85",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Average Questions & Answers",
+        "Question": "The average salary of all the workers in a workshop is Rs.8000. The average salary of 7 technicians is Rs.12000 and the average salary of the rest is Rs.6000. The total number of workers in the workshop is:",
+        "Option A": 21,
+        "Option B": 14,
+        "Option C": 7,
+        "Option D": 20,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Average Questions & Answers",
+        "Question": "40% of the employees in a factory are workers. All the remaining employees are executives. The annual income of each worker is Rs. 390. The annual income of each executive is Rs. 420. What is the average annual income of all the employees in the factory together?",
+        "Option A": "Rs.400",
+        "Option B": "Rs.405",
+        "Option C": "Rs.410",
+        "Option D": "Rs.408",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Average Questions & Answers",
+        "Question": "The average age of a class is 15.8 years. The average age of the boys in the class is 16.4 yrs while that of the girls is 15.4 years. What is the ratio of boys to girls in the class?",
+        "Option A": "3:5",
+        "Option B": "4:5",
+        "Option C": "5:4",
+        "Option D": "2:3",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Average Questions & Answers",
+        "Question": "A library has an average of 510 visitors on Sundays and 240 on other days. The average number of visitors per day in a month of 30 days beginning with a Sunday is",
+        "Option A": 300,
+        "Option B": 285,
+        "Option C": 315,
+        "Option D": 420,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Average Questions & Answers",
+        "Question": "If the average marks of three batches of 55, 60 and 45 students respectively is 50, 55, 60, then the average marks of all the students is:",
+        "Option A": 53.23,
+        "Option B": 54.69,
+        "Option C": 55.23,
+        "Option D": 56.69,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Average Questions & Answers",
+        "Question": "The total age of the ages of class of 75 girls is 1050 years, the average age of 25 of them is 12 years and that of another 25 is 16 years. Find the average age of the remaining girls?",
+        "Option A": 14,
+        "Option B": 15,
+        "Option C": 16,
+        "Option D": 17,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Average Questions & Answers",
+        "Question": "The difference between two angles of a triangle is 24°. The average of the same two angles is 54°. What is the value of the greatest angle of the triangle?",
+        "Option A": 72,
+        "Option B": 66,
+        "Option C": 108,
+        "Option D": 42,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Average Questions & Answers",
+        "Question": "A student finds the average of 10 positive integers. Each integer contains two digits. By mistake, the boy interchanges the digits of one number say ba for ab. Due to this, the average becomes 1.8 less than the previous one. What was the difference of the two digits a and b?",
+        "Option A": 4,
+        "Option B": 3,
+        "Option C": 2,
+        "Option D": 8,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Average Questions & Answers",
+        "Question": "A motorist travels to a place 150 km away at an average speed of 50 km per hour and returns at 30 km per hour. His average speed for the whole journey in km per hour is :",
+        "Option A": 35,
+        "Option B": 40,
+        "Option C": 45,
+        "Option D": 37.5,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Average Questions & Answers",
+        "Question": "In a class of 60 students, the average marks of the first 45 students is 80, while the average marks of the remaining 15 students is 90. What is the average marks of the entire class?",
+        "Option A": 85,
+        "Option B": 82.5,
+        "Option C": 87.5,
+        "Option D": 88,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Arithmetic Progression Questions & Answers",
+        "Question": "A man ate 100 bananas in five days, each day eating 6 more than the previous day. How many bananas did he eat on the first day?",
+        "Option A": "12 bananas",
+        "Option B": "16 bananas",
+        "Option C": "8 bananas",
+        "Option D": "24 bananas",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Arithmetic Progression Questions & Answers",
+        "Question": "A, B, C and D are four consecutive even numbers respectively and their average is 65. What is the product of A and D?",
+        "Option A": 4224,
+        "Option B": 4200,
+        "Option C": 4216,
+        "Option D": 4500,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Arithmetic Progression Questions & Answers",
+        "Question": "The average of 5 consecutive odd numbers A, B, C, D and E is 47. What is the product of A and D?",
+        "Option A": 2021,
+        "Option B": 2193,
+        "Option C": 2107,
+        "Option D": 2397,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Arithmetic Progression Questions & Answers",
+        "Question": "The sum of 3 consecutive even numbers is 44 more than the average of these numbers. What will be the highest of these numbers?",
+        "Option A": 20,
+        "Option B": 22,
+        "Option C": 24,
+        "Option D": 26,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Arithmetic Progression Questions & Answers",
+        "Question": "Find the value of 400 + 404 + 408 + ……. + 800",
+        "Option A": 57000,
+        "Option B": 57500,
+        "Option C": 60000,
+        "Option D": 60600,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Arithmetic Progression Questions & Answers",
+        "Question": "The sequence 28, 22, x, y, 4 is an AP. Find the values of x and y.",
+        "Option A": "x = 14, y = -2",
+        "Option B": "x = 16, y = 10",
+        "Option C": "x = 18, y = 2",
+        "Option D": "x = 20, y = 4",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Arithmetic Progression Questions & Answers",
+        "Question": "Find the 5th term of the arithmetic progression 1, 4, 7, ….",
+        "Option A": 14,
+        "Option B": 16,
+        "Option C": 10,
+        "Option D": 13,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Arithmetic Progression Questions & Answers",
+        "Question": "If the first, second and last terms of the AP are 5, 9, 101, respectively, find the total number of terms in the AP.",
+        "Option A": 25,
+        "Option B": 24,
+        "Option C": 21,
+        "Option D": 22,
+        "Option E": null,
+        "Answer": "E"
+    },
+    {
+        "Topic": "Arithmetic Progression Questions & Answers",
+        "Question": "The sum of first ten natural number is",
+        "Option A": 55,
+        "Option B": 45,
+        "Option C": 65,
+        "Option D": 110,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Simple Interest Questions & Answers",
+        "Question": "A sum of Rs 12,500 amounts to Rs. 15,500 in the 4 years at the rate of simple interest. Find the rate percent",
+        "Option A": "3%",
+        "Option B": "4%",
+        "Option C": "5%",
+        "Option D": "6%",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Simple Interest Questions & Answers",
+        "Question": "Rs. 800 becomes Rs. 956 in 3 years at a certain rate of simple interest. If the rate of interest is increased by 4%, what amount will Rs. 800 become in 3 years.",
+        "Option A": 952,
+        "Option B": 752,
+        "Option C": 1052,
+        "Option D": 156,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Simple Interest Questions & Answers",
+        "Question": "In how many years Rs 150 will produce the same interest at 8% as Rs. 800 produce in 3 years at 9/2%",
+        "Option A": 9,
+        "Option B": 7,
+        "Option C": 5,
+        "Option D": 8,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Simple Interest Questions & Answers",
+        "Question": "A sum of money amounts to Rs 9800 after 5 years and Rs 12005 after 8 years at the same rate of simple interest. The rate of interest per annum is",
+        "Option A": "5%",
+        "Option B": "8%",
+        "Option C": "12%",
+        "Option D": "15%",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Simple Interest Questions & Answers",
+        "Question": "The rate of interest for the first 2 years is 4% per annum, for the next 3 years is 7.5% per annum and for the period beyond 5 years 12.5% per annum. If a man gets Rs 1075 as a simple interest for 6 years, how much money did he deposit?",
+        "Option A": 2500,
+        "Option B": 3000,
+        "Option C": 3500,
+        "Option D": 4000,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Simple Interest Questions & Answers",
+        "Question": "Satish took a loan at 10% p.a. S.I. After 4 years, he returned the principal along with the interest. If he returns in all Rs. 3500, what is the principal amount?",
+        "Option A": 2500,
+        "Option B": 3000,
+        "Option C": 3500,
+        "Option D": 4000,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Simple Interest Questions & Answers",
+        "Question": "Find the simple interest on Rs 7000 at 50/3 % for 9 months",
+        "Option A": 765,
+        "Option B": 830,
+        "Option C": 735,
+        "Option D": 875,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Simple Interest Questions & Answers",
+        "Question": "Find the simple interest on the Rs. 2000 at 25/4% per annum for the period from 4th Feb 2005 to 18th April 2005",
+        "Option A": 25,
+        "Option B": 30,
+        "Option C": 35,
+        "Option D": 40,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Simple Interest Questions & Answers",
+        "Question": "If A lends Rs. 3500 to B at 10% p.a. and B lends the same sum to C at 11.5% p.a., then the gain of B (in Rs.) in a period of 3 years is",
+        "Option A": 150,
+        "Option B": 257.75,
+        "Option C": 175.25,
+        "Option D": 157.5,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Simple Interest Questions & Answers",
+        "Question": "At what rate percent per annum will the simple interest on a sum of money be 2/5 of the amount in 10 years",
+        "Option A": 5,
+        "Option B": 10,
+        "Option C": 4,
+        "Option D": 8,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Simple Interest Questions & Answers",
+        "Question": "A sum becomes five times of itself in 20 years. It will become 7 times itself in how many years?",
+        "Option A": null,
+        "Option B": null,
+        "Option C": null,
+        "Option D": null,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Simple Interest Questions & Answers",
+        "Question": "Raju has invested Rs. 5000 for 2 years at the rate of 8%. How much more money he should invest at the rate of 15% to get the overall interest of 10%? (Assume Simple interest)",
+        "Option A": 2000,
+        "Option B": 3000,
+        "Option C": 3500,
+        "Option D": 4000,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Simple Interest Questions & Answers",
+        "Question": "A sum of Rs. 1550 was lent partially at 5% and partially at 8% per annum simple interest. The total interest received after 4 years was Rs. 400. The ratio of the money lent at 5% to that lent at 8% is:",
+        "Option A": "2:15",
+        "Option B": "16:3",
+        "Option C": "16:15",
+        "Option D": "15:16",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Simple Interest Questions & Answers",
+        "Question": "What annual payment will discharge a debt of Rs.6450 due in 4 years at 5% simple interest?",
+        "Option A": "Rs.1500",
+        "Option B": "Rs.1835",
+        "Option C": "Rs.1935",
+        "Option D": "Rs.1950",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Simple Interest Questions & Answers",
+        "Question": "A sum of Rs.6450 is borrowed at 5% simple interest and is paid back in 4 equal annual installments. What is amount of each installment?",
+        "Option A": "Rs.1500",
+        "Option B": "Rs.1800",
+        "Option C": "Rs.1935",
+        "Option D": "Rs.1950",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Ratio and Proportion Questions & Answers",
+        "Question": "A and B together have Rs. 1210. If 4/15 of A's amount is equal to 2/5 of B's amount, how much amount does B have?",
+        "Option A": "Rs.460",
+        "Option B": "Rs.484",
+        "Option C": "Rs.550",
+        "Option D": "Rs.664",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Ratio and Proportion Questions & Answers",
+        "Question": "Two numbers are respectively 20% and 50% more than a third number. The ratio of the two numbers is:",
+        "Option A": "2 : 5",
+        "Option B": "3 : 5",
+        "Option C": "4 : 5",
+        "Option D": "6 : 7",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Ratio and Proportion Questions & Answers",
+        "Question": "A sum of money is to be distributed among A, B, C, D in the proportion of 5 : 2 : 4 : 3. If C gets Rs. 1000 more than D, what is B's share?",
+        "Option A": "Rs. 500",
+        "Option B": "Rs. 1500",
+        "Option C": "Rs. 2000",
+        "Option D": "None of these",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Ratio and Proportion Questions & Answers",
+        "Question": "Seats for Mathematics, Physics and Biology in a school are in the ratio 5 : 7 : 8. There is a proposal to increase these seats by 40%, 50% and 75% respectively. What will be the ratio of increased seats?",
+        "Option A": "2 : 3 : 4",
+        "Option B": "6 : 7 : 8",
+        "Option C": "6 : 8 : 9",
+        "Option D": "None of these",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Ratio and Proportion Questions & Answers",
+        "Question": "In a mixture 60 litres, the ratio of milk and water 2 : 1. If this ratio is to be 1 : 2, then the quantity of water to be further added is:",
+        "Option A": "20 litres",
+        "Option B": "30 litres",
+        "Option C": "40 litres",
+        "Option D": "60 litres",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Ratio and Proportion Questions & Answers",
+        "Question": "The sum of three numbers is 98. If the ratio of the first to second is 2 :3 and that of the second to the third is 5 : 8, then the second number is:",
+        "Option A": 20,
+        "Option B": 30,
+        "Option C": 48,
+        "Option D": 58,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Ratio and Proportion Questions & Answers",
+        "Question": "If Rs. 782 be divided into three parts, proportional to 1/2 :2/3 :3/4 , then the first part is:",
+        "Option A": "Rs. 182",
+        "Option B": "Rs. 190",
+        "Option C": "Rs. 196",
+        "Option D": "Rs. 204",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Ratio and Proportion Questions & Answers",
+        "Question": "Two number are in the ratio 3 : 5. If 9 is subtracted from each, the new numbers are in the ratio 12 : 23. The smaller number is:",
+        "Option A": 27,
+        "Option B": 33,
+        "Option C": 49,
+        "Option D": 55,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Ratio and Proportion Questions & Answers",
+        "Question": "In a bag, there are coins of 25 p, 10 p and 5 p in the ratio of 1 : 2 : 3. If there is Rs. 30 in all, how many 5 p coins are there?",
+        "Option A": 50,
+        "Option B": 100,
+        "Option C": 150,
+        "Option D": 200,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Ratio and Proportion Questions & Answers",
+        "Question": "5600 is to be divided into A, B, C, and D in such a way that the ratio of share of A: B is 1: 2, B: C is 3: 1, and C: D is 2: 3. Find the sum of (A and C) and (B and C).",
+        "Option A": "Rs 2400, Rs 3000",
+        "Option B": "Rs 2000, Rs 3000",
+        "Option C": "Rs 2400, Rs 3200",
+        "Option D": "Rs 2000, Rs 3200",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Ratio and Proportion Questions & Answers",
+        "Question": "The price of silver-biscuit is directly proportional to the square of its weight. A person broke down the silver-biscuit in the ratio of 3: 2: 1, and faces a loss of Rs 4620. Find the initial price of silver-biscuit.",
+        "Option A": 7520,
+        "Option B": 7530,
+        "Option C": 7450,
+        "Option D": 7560,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Ratio and Proportion Questions & Answers",
+        "Question": "The ratio of the incomes of Chetan and Dinesh is 3:4. The ratio of their expenditures is 5:7. If each of them saves Rs.200, find the incomes of both?",
+        "Option A": "Rs.600, Rs.800",
+        "Option B": "Rs.1200, Rs.1600",
+        "Option C": "Rs.1500, Rs.2000",
+        "Option D": "Rs.1800, Rs.2400",
+        "Option E": null,
+        "Answer": "E"
+    },
+    {
+        "Topic": "Ratio and Proportion Questions & Answers",
+        "Question": "By selling 6 oranges for Rs. 100 a man loses 20% , how many oranges should he sell for Rs100 to gain 20%?",
+        "Option A": 4,
+        "Option B": 5,
+        "Option C": 6,
+        "Option D": 7,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Ratio and Proportion Questions & Answers",
+        "Question": "Present ages of Sameer and Anand are in the ratio of 5 : 4 respectively. Three years hence, the ratio of their ages will become 11 : 9 respectively. What is Anand's present age in years?",
+        "Option A": 24,
+        "Option B": 27,
+        "Option C": 40,
+        "Option D": "Cannot be determined",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Partnership Questions & Answers",
+        "Question": "A and B invest in a business in the ratio 3 : 2. If 5% of the total profit goes to charity and A's share is Rs. 855, the total profit is:",
+        "Option A": "Rs. 1425",
+        "Option B": "Rs. 1500",
+        "Option C": "Rs. 1537.50",
+        "Option D": "Rs. 1576",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Partnership Questions & Answers",
+        "Question": "A, B and C jointly thought of engaging themselves in a business venture. It was agreed that A would invest Rs. 6500 for 6 months, B, Rs. 8400 for 5 months and C, Rs. 10,000 for 3 months. A wants to be the working member for which he was to receive 5% of the profits. The profit earned was Rs. 7400. Calculate the share of B in the profit.",
+        "Option A": "Rs. 1900",
+        "Option B": "Rs. 2660",
+        "Option C": "Rs. 2800",
+        "Option D": "Rs. 2840",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Partnership Questions & Answers",
+        "Question": "Three partners shared the profit in a business in the ratio 5 : 7 : 8. They had partnered for 14 months, 8 months and 7 months respectively. What was the ratio of their investments?",
+        "Option A": "5 : 7 : 8",
+        "Option B": "20 : 49 : 64",
+        "Option C": "38 : 28 : 21",
+        "Option D": "None of these",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Partnership Questions & Answers",
+        "Question": "A and B entered into partnership with capitals in the ratio 4 : 5. After 3 months, A withdrew ¼ of his capital and B withdrew ⅕ of his capital. The gain at the end of 10 months was Rs. 760. A's share in this profit is:",
+        "Option A": "Rs. 330",
+        "Option B": "Rs. 360",
+        "Option C": "Rs. 380",
+        "Option D": "Rs. 430",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Partnership Questions & Answers",
+        "Question": "A and B started a partnership business investing some amount in the ratio of 3 : 5. C joined them after six months with an amount equal to that of B. In what proportion should the profit at the end of one year be distributed among A, B and C?",
+        "Option A": "3 : 5 : 2",
+        "Option B": "3 : 5 : 5",
+        "Option C": "6 : 10 : 5",
+        "Option D": "Data inadequate",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Partnership Questions & Answers",
+        "Question": "A, B, C rent a pasture. A puts 10 oxen for 7 months, B puts 12 oxen for 5 months and C puts 15 oxen for 3 months for grazing. If the rent of the pasture is Rs. 175, how much must C pay as his share of rent?",
+        "Option A": "Rs. 45",
+        "Option B": "Rs. 50",
+        "Option C": "Rs. 55",
+        "Option D": "Rs. 60",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Mixture and Alligation Questions & Answers",
+        "Question": "A grocer has two types of rice and their price are 38 Rs/kg and 26 Rs/kg. He want to make a new type of rice by mixing old types. In what ratio old types should be mixed so that the price of new type would be 30 Rs/kg.",
+        "Option A": "1:2",
+        "Option B": "1:3",
+        "Option C": "2:1",
+        "Option D": "3:1",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Mixture and Alligation Questions & Answers",
+        "Question": "The cost of Type 1 rice is Rs. 15 per kg and Type 2 rice is Rs. 20 per kg. If both Type 1 and Type 2 are mixed in the ratio of 2 : 3, then the price per kg of the mixed variety of rice is:",
+        "Option A": "Rs. 16/kg",
+        "Option B": "Rs. 17/kg",
+        "Option C": "Rs. 18/kg",
+        "Option D": "Rs. 19/kg",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Mixture and Alligation Questions & Answers",
+        "Question": "A shopkeeper has 50 kg of rice. A part of which he sells at 10% profit and remaining at 5% loss. He gains 7% on the whole. Find the quantity sold at 10% profit.",
+        "Option A": "40 kg",
+        "Option B": "15 kg",
+        "Option C": "35 kg",
+        "Option D": "20 kg",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Mixture and Alligation Questions & Answers",
+        "Question": "A,B, and C are metals. A is 22 times as heavy as C and B is 3 times as heavy as C. In what ratio should A and B be mixed, so that the mixture is 13 times heavier than C?",
+        "Option A": "8:11",
+        "Option B": "10:9",
+        "Option C": "8:17",
+        "Option D": "5:8",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Mixture and Alligation Questions & Answers",
+        "Question": "How many kilogram of sugar costing Rs. 9 per kg must be mixed with 27 kg of sugar costing Rs. 7 per kg so that there may be a gain of 10% by selling the mixture at Rs. 9.24 per kg?",
+        "Option A": "84 kg",
+        "Option B": "94 kg",
+        "Option C": "73 kg",
+        "Option D": "63 kg",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Mixture and Alligation Questions & Answers",
+        "Question": "Tea worth Rs. 126 per kg and Rs. 135 per kg are mixed with a third variety in the ratio 1 : 1 : 2. If the mixture is worth Rs. 153 per kg, the price of the third variety per kg will be:",
+        "Option A": "Rs. 165.5",
+        "Option B": "Rs. 170.5",
+        "Option C": "Rs. 175.5",
+        "Option D": "Rs. 180.5",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Mixture and Alligation Questions & Answers",
+        "Question": "In what ratio must a person mix three kinds of metal costing Rs.60/kg, Rs.75/kg and Rs.100 /kg so that the resultant alloy when sold at Rs.96/kg results in a gain of 20%?",
+        "Option A": "4:2:1",
+        "Option B": "2:1:2",
+        "Option C": "5:4:1",
+        "Option D": "1:4:2",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Mixture and Alligation Questions & Answers",
+        "Question": "A mixture of wine and water contains 80% wine. In 50 liters of such a mixture, how many liters of water are required to increase the percentage of water to 50%?",
+        "Option A": 40,
+        "Option B": 20,
+        "Option C": 50,
+        "Option D": 30,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Mixture and Alligation Questions & Answers",
+        "Question": "Two vessels A and B contain alcohol and water in the ratio 7:5 and 17:7 respectively. In what ratio should the mixtures from two vessels A and B be mixed to get a new mixture containing alcohol and water in the ratio 5:3?",
+        "Option A": "2:3",
+        "Option B": "2:1",
+        "Option C": "4:3",
+        "Option D": "3:1",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Mixture and Alligation Questions & Answers",
+        "Question": "Two mixtures A and B has milk and water in the ratio 2 : 1 and 2 : 3 respectively. If A and B are mixed in the ratio 1:1 , what is the ratio of milk and water in the new mixture?",
+        "Option A": "8:1",
+        "Option B": "7:3",
+        "Option C": "8:7",
+        "Option D": "5:8",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Mixture and Alligation Questions & Answers",
+        "Question": "Two tank contain mixtures of milk and water in the ratio 4:1 and 1:1 respectively .The volumes of two tank is in the ratio 3:4. What is the ratio of milk and water, if contents of both the tank are mixed?",
+        "Option A": "14:13",
+        "Option B": "11:4",
+        "Option C": "21:17",
+        "Option D": "22:13",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Mixture and Alligation Questions & Answers",
+        "Question": "In what ratio should the water and milk be mixed to get a profit of 20% by selling the mixture at the cost price of the milk?",
+        "Option A": "1:2",
+        "Option B": "2:3",
+        "Option C": "1:5",
+        "Option D": "3:5",
+        "Option E": null,
+        "Answer": "E"
+    },
+    {
+        "Topic": "Mixture and Alligation Questions & Answers",
+        "Question": "A mixture of 70 litres of wine and water contains 10% water. How much water should be added to make 25% water in the resulting mixture?",
+        "Option A": "1 litre",
+        "Option B": "15 litre",
+        "Option C": "2 litres",
+        "Option D": "14 litres",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Mixture and Alligation Questions & Answers",
+        "Question": "A mixture of 80 litres of wine and water contains wine and water in the ratio 3:1. How much wine should be added to make the ratio 4:1 in the resulting mixture?",
+        "Option A": "20 litres",
+        "Option B": "40 litres",
+        "Option C": "16 litres",
+        "Option D": "18 litres",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Mixture and Alligation Questions & Answers",
+        "Question": "A cask contains alcohol solution with concentration 18%. If 6 Liters of this mixture is taken out and replaced with water, then concentration drops to 15%. What is the original volume in the cask.",
+        "Option A": "16 litre",
+        "Option B": "25 litre",
+        "Option C": "36 litres",
+        "Option D": "32 litres",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Mixture and Alligation Questions & Answers",
+        "Question": "A vessel is filled with liquid, 3 parts of which are water and 5 parts syrup. How much of the mixture must be drawn off and replaced with water so that the mixture may be half water and half syrup?",
+        "Option A": "1/3",
+        "Option B": "1/4",
+        "Option C": "1/5",
+        "Option D": "1/6",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Mixture and Alligation Questions & Answers",
+        "Question": "A can contains a mixture of two liquids A and B is the ratio 7 : 5. When 9 litres of mixture are drawn off and the can is filled with B, the ratio of A and B becomes 7 : 9. How many litres of liquid A was contained by the can initially?",
+        "Option A": 10,
+        "Option B": 20,
+        "Option C": 21,
+        "Option D": 25,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Mixture and Alligation Questions & Answers",
+        "Question": "8 litres are drawn from a cask full of wine and is then filled with water. This operation is performed three more times. The ratio of the quantity of wine now left in cask to that of water is 16 : 65. How much wine did the cask hold originally?",
+        "Option A": "18 litres",
+        "Option B": "24 litres",
+        "Option C": "32 litres",
+        "Option D": "42 litres",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Mixture and Alligation Questions & Answers",
+        "Question": "There was 40 litre milk in a bucket. 4 litre liquid of the bucket was replaced by water. This process was repeated two times again. Find the quantity of milk in the bucket at last.",
+        "Option A": "18 litres",
+        "Option B": "24.53 litres",
+        "Option C": "32.56 litres",
+        "Option D": "29.16 litres",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Chain Rule Questions & Answers",
+        "Question": "4 mat-weavers can weave 4 mats in 4 days. At the same rate, how many mats would be woven by 8 mat-weavers in 8 days?",
+        "Option A": 4,
+        "Option B": 8,
+        "Option C": 12,
+        "Option D": 16,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Chain Rule Questions & Answers",
+        "Question": "A certain number of persons can dig a trench 100 m long, 50 m broad and 10 m deep in 10 days. The same number of persons can dig another trench 20 m broad and 15 m deep in 30 days. The length of the second trench is :",
+        "Option A": 400,
+        "Option B": 800,
+        "Option C": 500,
+        "Option D": 600,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Chain Rule Questions & Answers",
+        "Question": "If 30 labourers working 7 hours a day can finish a piece of work in 18 days, how many labourers working 6 hours a day can finish it in 30 days",
+        "Option A": 15,
+        "Option B": 21,
+        "Option C": 22,
+        "Option D": 25,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Chain Rule Questions & Answers",
+        "Question": "If 18 pumps can raise 2170 tonnes of water in 10 days, working 7 hours a day, in how many days will 16 pumps raise 1736 tonnes, working 9 hours a day?",
+        "Option A": 7,
+        "Option B": 8,
+        "Option C": 4,
+        "Option D": 10,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Chain Rule Questions & Answers",
+        "Question": "A garrison of 500 men had provisions for 27 days. After 3 days a reinforcement of 300 men arrived. For how many more days will the remaining food last now?",
+        "Option A": 15,
+        "Option B": 16,
+        "Option C": "17 1/2",
+        "Option D": 18,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Chain Rule Questions & Answers",
+        "Question": "A wheel that has 12 cogs is meshed with a larger wheels of 24 cogs. When the smaller wheel has made 40 revolutions, the number made by the larger wheel is:",
+        "Option A": 14,
+        "Option B": 20,
+        "Option C": 12,
+        "Option D": 30,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Chain Rule Questions & Answers",
+        "Question": "In a camp, there is a meal for 120 men or 200 children. If 150 children have taken the meal, how many men will be catered to with the remaining meal ?",
+        "Option A": 20,
+        "Option B": 30,
+        "Option C": 40,
+        "Option D": 50,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Chain Rule Questions & Answers",
+        "Question": "A certain number of men can finish a piece of work in 100 days. If there were 10 men less, it would take 10 days more for the work to be finished. How many men were there originally?",
+        "Option A": 110,
+        "Option B": 70,
+        "Option C": 90,
+        "Option D": 100,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Chain Rule Questions & Answers",
+        "Question": "A contractor undertook to do a certain piece of work in 18 days. He employed certain number of men but 12 of them being absent from the very 1st day, the rest could finish the work in 30 days. Find the number of men originally employed",
+        "Option A": 20,
+        "Option B": 25,
+        "Option C": 27,
+        "Option D": 30,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Chain Rule Questions & Answers",
+        "Question": "A contractor undertakes to do a piece of work in 40 days. He engages 100 men at the beginning and 100 more after 35 days and completes the work in stipulated time. If he had not engaged the additional men, how many days behind schedule would it be finished?",
+        "Option A": 5,
+        "Option B": 6,
+        "Option C": 7,
+        "Option D": 8,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Chain Rule Questions & Answers",
+        "Question": "A contractor employed 30 men to complete the project in 100 days. But later on he realized that just after 25 days only 20% of the work had been completed.- How many extra days, than the scheduled time are required?",
+        "Option A": 25,
+        "Option B": 30,
+        "Option C": 22,
+        "Option D": 28,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Chain Rule Questions & Answers",
+        "Question": "A contractor employed 30 men to complete the project in 100 days. But later on he realized that just after 25 days only 20% of the work had been completed.- How many extra days, than the scheduled time are required?- To complete the work on the scheduled time how many men he has to increase",
+        "Option A": 15,
+        "Option B": 20,
+        "Option C": 10,
+        "Option D": 12,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Chain Rule Questions & Answers",
+        "Question": "A contractor employed 30 men to complete the project in 100 days. But later on he realized that just after 25 days only 20% of the work had been completed.- If the amount of work is also increased by 20% of the actual work, then how many extra days are required ( in comparison with scheduled time) but the number of men remained constant.",
+        "Option A": 25,
+        "Option B": 50,
+        "Option C": 75,
+        "Option D": 28,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Chain Rule Questions & Answers",
+        "Question": "A contractor employed 30 men to complete the project in 100 days. But later on he realized that just after 25 days only 20% of the work had been completed- How many men should be increased so that the work will be completed in 25 days less than the scheduled time.",
+        "Option A": 25,
+        "Option B": 30,
+        "Option C": 22,
+        "Option D": 28,
+        "Option E": null,
+        "Answer": "E"
+    },
+    {
+        "Topic": "Chain Rule Questions & Answers",
+        "Question": "If 5 engines consume 6 metric tonnes of coal when each is running 9 hours a day, how much coal (in metric tonnes) will be needed for 8 engines, each running 10 hours a day, it being given that 3 engines of the former type consume as much as 4 engines of latter type?",
+        "Option A": 10,
+        "Option B": 8,
+        "Option C": 9,
+        "Option D": 15,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Chain Rule Questions & Answers",
+        "Question": "If 6 men and 8 boys can do a piece of work in 10 days and 26 men and 48 boys can do the same in 2 days, the time taken by 15 men and 20 boys to do the same type of work will be :",
+        "Option A": "5 days",
+        "Option B": "4 days",
+        "Option C": "6 days",
+        "Option D": "7 days",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Chain Rule Questions & Answers",
+        "Question": "5 men and 5 women earn Rs. 660 in 3 days. 10 men and 20 women earn Rs. 3500 in 5 days. In how many days can 6 men and 4 women earn Rs. 1060?",
+        "Option A": "5 days",
+        "Option B": "4 days",
+        "Option C": "6 days",
+        "Option D": "7 days",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Chain Rule Questions & Answers",
+        "Question": "2 children and 3 men can do a work in 12 days while 3 children and 2 men can do the same work in 10 days. How many days it will take to complete the same work if 1 child and 1 man work together?",
+        "Option A": "25 days",
+        "Option B": "17 days",
+        "Option C": "17 3/11",
+        "Option D": "27 3/11",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Time and Work Questions & Answers",
+        "Question": "Amruta can do a piece of work in 20 days. Narendra is 25% more efficient than Amruta. The number of days taken by Narendra to do the same piece of work is:",
+        "Option A": 15,
+        "Option B": 16,
+        "Option C": 18,
+        "Option D": 25,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Time and Work Questions & Answers",
+        "Question": "A can finish a work in 24 days. B in 9 days and C in 12 days. B and C start the work but are forced to leave after 3 days. The remaining work was done by A in:",
+        "Option A": "5 days",
+        "Option B": "6 days",
+        "Option C": "10 days",
+        "Option D": "10 1/2 days",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Time and Work Questions & Answers",
+        "Question": "Pawan and Raghav can do a piece of work in 9 days and 12 days respectively. If they work for a day alternatively, Pawan beginning, in how many days, the work will be completed?",
+        "Option A": "4 1/2days",
+        "Option B": "5 days",
+        "Option C": "9 1/4days",
+        "Option D": "10 1/4days",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Time and Work Questions & Answers",
+        "Question": "A can do a work in 12 days. B is 60% more efficient than A. In how many days will B complete the work?",
+        "Option A": "7 1/2days",
+        "Option B": "14 days",
+        "Option C": "9 1/4days",
+        "Option D": "10 1/4days",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Time and Work Questions & Answers",
+        "Question": "A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day?",
+        "Option A": "12 days",
+        "Option B": "15 days",
+        "Option C": "16 days",
+        "Option D": "18 days",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Time and Work Questions & Answers",
+        "Question": "Suhan can do a work in 12 days and Simran can do the same in 36 days. With Rahul they can do the job in 8 days. So, Rahul can do the job in :",
+        "Option A": "72 days",
+        "Option B": "68 days",
+        "Option C": "30 days",
+        "Option D": "80 days",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Time and Work Questions & Answers",
+        "Question": "P is thrice as good a workman as Q and, therefore, is able to finish a job in 60 days less than Q. Working together, they can do it in :",
+        "Option A": "45 days",
+        "Option B": "22 1/2 days",
+        "Option C": "30 days",
+        "Option D": "12 1/2 days",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Time and Work Questions & Answers",
+        "Question": "P and Q can do a work in 18 days and 24 days respectively. They worked together for 8 days and then P left. The remaining work was finished by Q in",
+        "Option A": "5 days",
+        "Option B": "6 1/2 days",
+        "Option C": "5 1/3 days",
+        "Option D": "12 1/3 days",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Time and Work Questions & Answers",
+        "Question": "The number of days in which A and B together can finish a piece of work is 12 days less than the time taken by A alone and 27 days less than the time taken by B alone to finish the work. If A and B completed the work in 15 days with the help of C and got a total compensation of Rs 3000 for the work, then what is the share of C?",
+        "Option A": 400,
+        "Option B": 600,
+        "Option C": 550,
+        "Option D": 500,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Time and Work Questions & Answers",
+        "Question": "On a certain day, Ram works at 11/7th of his usual rate of doing work and finished the work 28 minutes earlier than the usual time required. Had Ram worked at 7/11th of his usual rate of doing work then the time taken by him to complete the work would have been how much more than the usual time required?",
+        "Option A": "70 min",
+        "Option B": "44 min",
+        "Option C": "53 min",
+        "Option D": "63 min",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Time and Work Questions & Answers",
+        "Question": "A and B can do a work in 12 days, B and C can do the same work in 15 days, and C and A can do the same work in 20 days. A, B and C will complete the work together in:",
+        "Option A": "14 days",
+        "Option B": "12 days",
+        "Option C": "10 days",
+        "Option D": "15 days",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Time and Work Questions & Answers",
+        "Question": "A can plough a farm in same time as B and C together can do it. If A and B together do the same in 20 days and C in 100 days then B could do it alone in:",
+        "Option A": "50 days",
+        "Option B": "25 days",
+        "Option C": "75 days",
+        "Option D": "65 days",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Time and Work Questions & Answers",
+        "Question": "A and B can finish a work in T days. If A and B alone can do this work in (T + 3) and (T + 12) days respectively, find the value of T.",
+        "Option A": "3 days",
+        "Option B": "6 days",
+        "Option C": "12 days",
+        "Option D": null,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Time and Work Questions & Answers",
+        "Question": "A can complete a piece of work in 36 days, B in 54 days and C in 72 days. All the three began the work together but A left 8 days before the completion of the work and B 12 days before the completion of work. Only C worked up to the end. In how many days was the work completed?",
+        "Option A": "24 days",
+        "Option B": "25 days",
+        "Option C": "27 days",
+        "Option D": "30 days",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Races and Games Questions & Answers",
+        "Question": "In a 200 metres race A beats B by 35 m or 7 seconds. A's time over the course is:",
+        "Option A": "44 sec",
+        "Option B": "22 sec",
+        "Option C": "33 sec",
+        "Option D": "10 sec",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Races and Games Questions & Answers",
+        "Question": "A can run 22.5 m while B runs 25 m. In a kilometre race B beats A by:",
+        "Option A": "160 m",
+        "Option B": "140 m",
+        "Option C": "120 m",
+        "Option D": "100 m",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Races and Games Questions & Answers",
+        "Question": "In a 500 m race, the ratio of the speeds of two contestants A and B is 3 : 4. A has a start of 140 m. Then, A wins by:",
+        "Option A": "60 m",
+        "Option B": "40 m",
+        "Option C": "20 m",
+        "Option D": "10 m",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Races and Games Questions & Answers",
+        "Question": "A runs 1 2/3 times as fast as B. If A gives B a start of 80 m, how far must the winning post be so that A and B might reach it at the same time?",
+        "Option A": "200 m",
+        "Option B": "240 m",
+        "Option C": "300 m",
+        "Option D": "100 m",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Races and Games Questions & Answers",
+        "Question": "In a 100 m race, A can beat B by 25 m and B can beat C by 4 m. In the same race, A can beat C by:",
+        "Option A": "21 m",
+        "Option B": "26 m",
+        "Option C": "28 m",
+        "Option D": "29 m",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Races and Games Questions & Answers",
+        "Question": "In a race of 200m, A can beat B by 31m and C by 18m. In a race of 350m, C will beat B by:",
+        "Option A": "22.75 m",
+        "Option B": "25 m",
+        "Option C": "19.5 m",
+        "Option D": "7 4/7m",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Races and Games Questions & Answers",
+        "Question": "Three runners A, B and C run a race, with runner A finishing 12m ahead of runner B and 18m ahead of runner C, while runner B finishes 8m ahead of runner C. Each runner travels entire distance at a constant speed. What was the length of the race?",
+        "Option A": "36 metres",
+        "Option B": "48 metres",
+        "Option C": "60 metres",
+        "Option D": "72 metres",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Races and Games Questions & Answers",
+        "Question": "A train approaches a tunnel AB. Inside the tunnel is a cat located at a point that is 3/8 th of the distance AB measured from the entrance A. When the train whistles the cat runs. If the cat moves to the entrance of the tunnel, A, the train catches the cat exactly at the entrance. If the cat moves to the exit, B, the train catches the cat at exactly the exit. Ratio of the speed of train to speed of cat?",
+        "Option A": "3 : 1",
+        "Option B": "4 : 1",
+        "Option C": "5 : 1",
+        "Option D": "None of these",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Logarithm Questions & Answers",
+        "Question": "1.\nI\nf\n a\n2\n+\nb\n2\n =\n c\n2\n,\n t\nh\ne\nn\n 1\nlog\n(\nc\n+\na\n)\nb\n +\n  1\nlog\n(\nc\n−\na\n)\nb\n =",
+        "Option A": 1,
+        "Option B": 2,
+        "Option C": -1,
+        "Option D": -2,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Logarithm Questions & Answers",
+        "Question": "If log 2 = 0.3010, then the number of digits in (2)^100 is?",
+        "Option A": 30,
+        "Option B": 28,
+        "Option C": 33,
+        "Option D": 31,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Logarithm Questions & Answers",
+        "Question": "I\nf\n l\no\ng\n4\nX\n +\n l\no\ng\n4\n1\n6\n =\n 1\n2\n t\nh\ne\nn\n t\nh\ne\n v\na\nl\nu\ne\n o\nf\n X\n i\ns\n?",
+        "Option A": 18,
+        "Option B": 24,
+        "Option C": 16,
+        "Option D": 12,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Logarithm Questions & Answers",
+        "Question": "If 2logX = 5logY + 3, then the relation between X and Y is?",
+        "Option A": "X^2 = 100Y^2",
+        "Option B": "X^1/5 = 1000*Y^1/2",
+        "Option C": "X^2 = 100*Y^5",
+        "Option D": "X^2 = Y^5 + 1000",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Logarithm Questions & Answers",
+        "Question": "I\nf\n l\no\ng\n7\n2\n =\n m\n,\n t\nh\ne\nn\n l\no\ng\n49\n28\n i\ns\n e\nq\nu\na\nl\n t\no",
+        "Option A": "2(1 + 2m)",
+        "Option B": "(1 + 2m)/2",
+        "Option C": "2/(1 + 2m)",
+        "Option D": "1 + m",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Logarithm Questions & Answers",
+        "Question": "I\nf\n l\no\ng\n10\nX\n =\n Y\n,\n t\nh\ne\nn\n l\no\ng\n1000\nX\n2\n i\ns\n e\nq\nu\na\nl\n t\no",
+        "Option A": "Y^2",
+        "Option B": "2Y",
+        "Option C": "3Y/2",
+        "Option D": "(2/3)Y",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Logarithm Questions & Answers",
+        "Question": "2\nlog\n3\n7\n-\n 7\nlog\n3\n2\n =\n ?",
+        "Option A": "log\n2\n7",
+        "Option B": "log\n7",
+        "Option C": 5,
+        "Option D": 0,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Logarithm Questions & Answers",
+        "Question": "I\nf\n log\n10\n7\n =\n a\n,\n t\nh\ne\nn\n  log\n10\n1\n70\n i\ns\n e\nq\nu\na\nl\n t\no\n:",
+        "Option A": "- (1 + a)",
+        "Option B": "(1 + a)-1",
+        "Option C": "a/10",
+        "Option D": "1/10",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Logarithm Questions & Answers",
+        "Question": "I\nf\n l\no\ng\n10\n 5\n+\nl\no\ng\n10\n(\n5\nx\n+\n1\n)\n =\n  l\no\ng\n10\n(\nx\n+\n5\n)\n+\n1\n,\n t\nh\ne\nn\n x\n i\ns\n e\nq\nu\na\nl\n t\no\n:",
+        "Option A": 1,
+        "Option B": 3,
+        "Option C": 5,
+        "Option D": 10,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Logarithm Questions & Answers",
+        "Question": "T\nh\ne\n v\na\nl\nu\ne\n o\nf\n (\n1\nlog\n3\n(\n60\n)\n)\n+\n(\n1\nlog\n4\n(\n60\n)\n)\n+\n(\n1\nlog\n5\n(\n60\n)\n)\n i\ns\n:",
+        "Option A": 0,
+        "Option B": 1,
+        "Option C": 5,
+        "Option D": 60,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Logarithm Questions & Answers",
+        "Question": "I\nf\n  l\no\ng\nx\n y\n =\n 100\n a\nn\nd\n  l\no\ng\n2\n x\n =\n 10\n,\n t\nh\ne\nn\n t\nh\ne\n v\na\nl\nu\ne\n o\nf\n y\n i\ns\n:",
+        "Option A": "2^10",
+        "Option B": "2^100",
+        "Option C": "2^1000",
+        "Option D": "2^10000",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Logarithm Questions & Answers",
+        "Question": "T\nh\ne\n v\na\nl\nu\ne\n o\nf\n l\no\ng\n2\n16\n i\ns\n:",
+        "Option A": "1/8",
+        "Option B": 4,
+        "Option C": 8,
+        "Option D": 16,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Logarithm Questions & Answers",
+        "Question": "F\ni\nn\nd\n t\nh\ne\n v\na\nl\nu\ne\n o\nf\n  l\no\ng\n2\n 2\n+\n l\no\ng\n2\n 2\n2\n+\n l\no\ng\n2\n 2\n3\n+\n .\n.\n.\n.\n.\n.\n.\n.\n +\n l\no\ng\n2\n 2\nn\n.",
+        "Option A": "n(n+1)/2",
+        "Option B": "n+1",
+        "Option C": "n",
+        "Option D": "2n",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Logarithm Questions & Answers",
+        "Question": "Express 2 log x + 3 log y = log a in logarithm free form.",
+        "Option A": "x",
+        "Option B": "x^2y^3",
+        "Option C": "y",
+        "Option D": "xy",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Logarithm Questions & Answers",
+        "Question": "F\ni\nn\nd\n t\nh\ne\n v\na\nl\nu\ne\n o\nf\n x\n,\n i\nf\n l\no\ng\n10\n(\nx\n−\n10\n)\n=\n1.",
+        "Option A": 20,
+        "Option B": 30,
+        "Option C": 40,
+        "Option D": 50,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Logarithm Questions & Answers",
+        "Question": "Find the value of x, if log (x+5) + log (x-5) = 4 log 2 + 2 log 3",
+        "Option A": 15,
+        "Option B": 12,
+        "Option C": 13,
+        "Option D": 25,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Logarithm Questions & Answers",
+        "Question": "Solve for x, if (log 225/log15) = log x",
+        "Option A": 100,
+        "Option B": 200,
+        "Option C": 150,
+        "Option D": 250,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Percentage Questions & Answers",
+        "Question": "25% of 24 + 25% of 32 – 14% of 350 =?",
+        "Option A": -35,
+        "Option B": 35,
+        "Option C": -30,
+        "Option D": 30,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Percentage Questions & Answers",
+        "Question": "If X% of 465 is 623, find 465% of X + 60",
+        "Option A": 623,
+        "Option B": 643,
+        "Option C": 683,
+        "Option D": 720,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Percentage Questions & Answers",
+        "Question": "An agent gets a commission of 2.5% on the sales of cloth. If on a certain day, he gets Rs. 12.50 as commission, the cloth sold through him on that day is worth",
+        "Option A": "Rs. 500",
+        "Option B": "Rs. 1000",
+        "Option C": "Rs. 1250",
+        "Option D": "Rs. 1500",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Percentage Questions & Answers",
+        "Question": "To a sugar solution of 6 L containing 25% sugar, 2L of water is added. The percentage of sugar In the new solution is",
+        "Option A": "20.83%",
+        "Option B": "18.75%",
+        "Option C": "16.67%",
+        "Option D": "14.58%",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Percentage Questions & Answers",
+        "Question": "In a College there are 1800 students. Last day except 4% of the boys all the students were present in the college. Today except 5% of the girls all the students are present in the college, but in both the days number of students present in the college, were same. The number of girls in the college is?",
+        "Option A": 800,
+        "Option B": 1000,
+        "Option C": 1200,
+        "Option D": 1400,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Percentage Questions & Answers",
+        "Question": "Ankita is 25 years old. If Rahul’s age is 25% greater than that of Ankita then how much percent Ankita’s age is less than Rahul’s age?",
+        "Option A": "16.67%",
+        "Option B": "20%",
+        "Option C": "25%",
+        "Option D": "33.33%",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Percentage Questions & Answers",
+        "Question": "The price of shirt is increased by 15% and then reduced by 15%. The final price of the shirt is:",
+        "Option A": "97% of original price",
+        "Option B": "85% of original price",
+        "Option C": "98.25% of original price",
+        "Option D": "97.75% of original price",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Percentage Questions & Answers",
+        "Question": "Entry fee in an exhibition was Re.1. Later, this was reduced by 25% which increased the sale by 20%",
+        "Option A": 75,
+        "Option B": 65,
+        "Option C": 60,
+        "Option D": 70,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Percentage Questions & Answers",
+        "Question": "Due to the reduction of 20% price in wheat, A man can get 10 kg more for Rs 600. New rate of wheat per kg is–?",
+        "Option A": "Rs. 15 per kg",
+        "Option B": "Rs. 19 per kg",
+        "Option C": "Rs. 12 per kg",
+        "Option D": "Rs. 17 per kg",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Percentage Questions & Answers",
+        "Question": "The cost of packaging of the oranges is 20% the cost of fresh oranges themselves. The cost of oranges increased by 30% but the cost of packaging decreased by 50%, then the percentage change of the cost of packed oranges, if the cost of packed oranges is equal to the sum of the cost of fresh oranges and cost of packaging",
+        "Option A": "10%",
+        "Option B": "15%",
+        "Option C": "16.66%",
+        "Option D": "14.66%",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Percentage Questions & Answers",
+        "Question": "The tank-full petrol in Arun’s motor-cycle last for 10 days. If he starts using 25% more every day, how many days will the tank-full petrol last?",
+        "Option A": "7 days",
+        "Option B": "8 days",
+        "Option C": "9 days",
+        "Option D": "6 days",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Percentage Questions & Answers",
+        "Question": "The number of seats in a cinema hall is decreased by 8% and also the price of the ticket is increased by 4 percent. What is the effect on the revenue collected?",
+        "Option A": "Increased by 4.5%",
+        "Option B": "Increased by 2.25%",
+        "Option C": "Decreased by 2%",
+        "Option D": "Decreased by 4.32%",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Percentage Questions & Answers",
+        "Question": "When the price of rice is increased by 30 percent, a family reduces its consumption such that the expenditure is only 20 percent more than before. If 50 kg of rice is consumed by family before, then find the new consumption of family (approx.)",
+        "Option A": "46 kg",
+        "Option B": "48 kg",
+        "Option C": "42 kg",
+        "Option D": "41 kg",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Percentage Questions & Answers",
+        "Question": "In an election between two candidates, one got 55% of the total valid votes, 20% of the votes were invalid. If the total number of votes was 7500, the number of valid votes that the other candidate got, was:",
+        "Option A": "1700 votes",
+        "Option B": "2700 votes",
+        "Option C": "1950 votes",
+        "Option D": "2500 votes",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Percentage Questions & Answers",
+        "Question": "In the month of January, the Railway Police caught 4000 ticketless travelers. In February, the number rose to 5%. However, due to constant vigil by the Police and the Railway staff, the number reduced by 5% in March and in April it further reduced by 10%. The total number of ticketless travelers caught in the month of April was:",
+        "Option A": 3291,
+        "Option B": 3491,
+        "Option C": 3591,
+        "Option D": 3640,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Percentage Questions & Answers",
+        "Question": "In summer, the length, breadth and height of a cuboid increases by 10%, 10% and 20% respectively. Find the percentage increase in cuboid's volume.",
+        "Option A": "35% increase",
+        "Option B": "48% increase",
+        "Option C": "40.2% increase",
+        "Option D": "45.2% increase",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Percentage Questions & Answers",
+        "Question": "From the salary of an officer 15% is documented as house rent, 10% of the rest he spends on children’s education and 10% of the balance he spends on clothes, then he is left with Rs. 8262. Find his total salary.",
+        "Option A": "Rs. 12000",
+        "Option B": "Rs. 15000",
+        "Option C": "Rs. 17500",
+        "Option D": "Rs. 24000",
+        "Option E": null,
+        "Answer": "E"
+    },
+    {
+        "Topic": "Percentage Questions & Answers",
+        "Question": "The price of a car is Rs. 4,50,000. It was insured for 80% of its price. The car was damaged completely in an accident and the insurance company paid 90% of the insurance. What was the difference between the price of the car and the amount received?",
+        "Option A": "Rs. 1,45,000",
+        "Option B": "Rs. 1,40,500",
+        "Option C": "Rs. 1,36,000",
+        "Option D": "Rs. 1,26,000",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Percentage Questions & Answers",
+        "Question": "Sohan spends 23% of an amount of money on an insurance policy, 33% on food, 19% on children’s education and 16% on recreation. He deposits the remaining amount of Rs. 504 in bank. How much did he spend on food and insurance together?",
+        "Option A": "Rs. 3036",
+        "Option B": "Rs. 1500",
+        "Option C": "Rs. 1836",
+        "Option D": "Rs. 3136",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Percentage Questions & Answers",
+        "Question": "A student multiplied a number by 3/5 instead of 5/3. What is the percentage error in the calculation?",
+        "Option A": "30%",
+        "Option B": "20%",
+        "Option C": "60%",
+        "Option D": "64%",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Percentage Questions & Answers",
+        "Question": "A large watermelon weighs 20 kg with 96% of its weight being water. It is allowed to stand in the sun and some of the water evaporates so that only 95% of its weight is water. Its reduced weight will be:",
+        "Option A": "16kg",
+        "Option B": "19kg",
+        "Option C": "20kg",
+        "Option D": "18kg",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Percentage Questions & Answers",
+        "Question": "Fresh fruits contain 75% while dry fruits contain 20% water. If the weight of dry fruits is 300 kg, what was its total weight when it was fresh?",
+        "Option A": "400 kg",
+        "Option B": "950 kg",
+        "Option C": "960 kg",
+        "Option D": "875 kg",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Percentage Questions & Answers",
+        "Question": "A salary is 40 percent more than B's salary is 30 percent less than C. If the difference between the salary of C and A is 1200 rupees, then what is the monthly income of C",
+        "Option A": 80000,
+        "Option B": 70000,
+        "Option C": 90000,
+        "Option D": 60000,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Percentage Questions & Answers",
+        "Question": "A got 30% of the maximum marks in an examination and failed by 10 marks. However, B who took the same examination got 40% of the total marks and got 15 marks more than the passing marks. What were the passing marks in the examination?",
+        "Option A": 65,
+        "Option B": 85,
+        "Option C": 75,
+        "Option D": 80,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Percentage Questions & Answers",
+        "Question": "There are 5000 students in a school. The next year it was found that the number of boys and girls increased by 10% and 15% respectively making the total number of students in school as 5600. Find the number of girls originally in the school?",
+        "Option A": 2200,
+        "Option B": 2400,
+        "Option C": 2000,
+        "Option D": 2800,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Percentage Questions & Answers",
+        "Question": ".A Sales Executive gets a commission on total sales at 8%. If the sale is exceeded Rs.10,000 he gets an additional commission as a bonus of 4% on the excess of sales over Rs.10,000. If he gets the total commission of Rs.950, then the bonus he received is?",
+        "Option A": 200,
+        "Option B": 150,
+        "Option C": 100,
+        "Option D": 50,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Percentage Questions & Answers",
+        "Question": "Alisha goes to a supermarket and bought things worth rupees 60, out of which 40 paise went on sales tax. If the tax rate is 10 percent, then what was the cost of tax free items?",
+        "Option A": 55.6,
+        "Option B": 56,
+        "Option C": 57.2,
+        "Option D": 58.4,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Percentage Questions & Answers",
+        "Question": "In a class, 60% of the students are boys and in an examination, 80% of the girls scored more than 40 marks(Maximum Marks:150). If 60% of the total students scored more than 40 marks in the same exam, what is the fraction of the boys who scored 40 marks or less.",
+        "Option A": "7/15",
+        "Option B": "2/15",
+        "Option C": "8/15",
+        "Option D": "4/5",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Percentage Questions & Answers",
+        "Question": "In an examination, 50% of the students passed in Science and 75% passed in Social, while 20% students failed in both the subjects. If 270 students passed in both subjects, find the total number of students who appeared in the exam?",
+        "Option A": 500,
+        "Option B": 600,
+        "Option C": 700,
+        "Option D": 800,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Ages Questions & Answers",
+        "Question": "The sum of ages of 5 children born at the intervals of 3 years each is 50 years. What is the age of the youngest child?",
+        "Option A": "4 years",
+        "Option B": "8 years",
+        "Option C": "10 years",
+        "Option D": "None of these",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Ages Questions & Answers",
+        "Question": "Sachin is younger than Rahul by 7 years. If their ages are in the respective ratio of 7 : 9, how old is Sachin?",
+        "Option A": "16 years",
+        "Option B": "18 years",
+        "Option C": "28 years",
+        "Option D": "24.5 years",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Ages Questions & Answers",
+        "Question": "The present ages of three persons in proportions 4 : 7 : 9. Eight years ago, the sum of their ages was 56. Find their present ages (in years).",
+        "Option A": "8, 20, 28",
+        "Option B": "16, 28, 36",
+        "Option C": "20, 35, 45",
+        "Option D": "None of these",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Ages Questions & Answers",
+        "Question": "Five years ago, A was thrice as old as B and ten years later, A shall be twice as old as B. What are the present ages of A and B?",
+        "Option A": "50,20",
+        "Option B": "40,50",
+        "Option C": "40,20",
+        "Option D": "60,30",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Ages Questions & Answers",
+        "Question": "Present ages of Sameer and Anand are in the ratio of 5 : 4 respectively. Three years hence, the ratio of their ages will become 11 : 9 respectively. What is Anand's present age in years?",
+        "Option A": 24,
+        "Option B": 27,
+        "Option C": 40,
+        "Option D": "Cannot be determined",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Ages Questions & Answers",
+        "Question": "A father said to his son, \"I was as old as you are at the present at the time of your birth\". If the father's age is 38 years now, the son's age five years back was:",
+        "Option A": "14 years",
+        "Option B": "19 years",
+        "Option C": "33 years",
+        "Option D": "38 years",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Ages Questions & Answers",
+        "Question": "A is two years older than B who is twice as old as C. If the total of the ages of A, B and C be 27, then how old is B?",
+        "Option A": 7,
+        "Option B": 8,
+        "Option C": 9,
+        "Option D": 10,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Ages Questions & Answers",
+        "Question": "Ayesha's father was 38 years of age when she was born while her mother was 36 years old when her brother four years younger to her was born. What is the difference between the ages of her parents?",
+        "Option A": "2 years",
+        "Option B": "4 years",
+        "Option C": "6 years",
+        "Option D": "8 years",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Ages Questions & Answers",
+        "Question": "Q is as much younger than R as he is older than T. If the sum of the ages of R and T is 50 years, what is definitely the difference between R and Q's age?",
+        "Option A": "1 year",
+        "Option B": "2 years",
+        "Option C": "25 years",
+        "Option D": "Data inadequate",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Ages Questions & Answers",
+        "Question": "Father is four times the age of his daughter. If after 5 years, he would be three times of daughter’s age, then further after 5 years, how many times he would be of his daughter’s age?",
+        "Option A": 1.5,
+        "Option B": 2,
+        "Option C": 2.5,
+        "Option D": 3,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Ages Questions & Answers",
+        "Question": "What is John's present age, if after 15 years his age will be 5 times his age 5 years back?",
+        "Option A": "7.5 years",
+        "Option B": "10 years",
+        "Option C": "12.5 years",
+        "Option D": "15 years",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Ages Questions & Answers",
+        "Question": "A and b are 50 and 70 years old how many years ago was ratio of their ages 2:3",
+        "Option A": "15 years",
+        "Option B": "20 years",
+        "Option C": "13 years",
+        "Option D": "10 years",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Ages Questions & Answers",
+        "Question": "\"I have four friends. What is my age?\nStatements:\nI.Average of our ages is 85 years\nII.All of us are of the same age,",
+        "Option A": "Statement I alone is sufficient",
+        "Option B": "Statement II alone is sufficient",
+        "Option C": "Both statements put together are sufficient",
+        "Option D": "Both the statements even put together are not sufficient",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Ages Questions & Answers",
+        "Question": "The present age of the father is 4 years more than thrice the age of his son Three years later father's age will be 10 years more than twice the age of his son.What is the present age of father in years",
+        "Option A": "51 years",
+        "Option B": "21 years",
+        "Option C": "31 years",
+        "Option D": "30 years",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Ages Questions & Answers",
+        "Question": "The present age of father is 4 years more than four times the present age of his son and the present age of mother is 6 years less than the present age of her husband. If the ratio of the present age of son to that of father is 2 : 9 and the present age of grandfather to that of mother is 2 : 1, then find the present age of grandfather.",
+        "Option A": "50 years",
+        "Option B": "70 years",
+        "Option C": "30 years",
+        "Option D": "60 years",
+        "Option E": null,
+        "Answer": "E"
+    },
+    {
+        "Topic": "Ages Questions & Answers",
+        "Question": "Ram is five years elder to his youngest sibling Shreya. Shreya is two years younger than her brother Ritesh. Ritesh is 13 years old and is Ram's brother. How old will Ram be in two years from now?",
+        "Option A": "16 years",
+        "Option B": "19 years",
+        "Option C": "17 years",
+        "Option D": "18 years",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Ages Questions & Answers",
+        "Question": "Four times the difference in ages of C and A is one more than the age of B. percentage of A's age to C's age is 75%. if the ratio of B's age 5 years hence to C's age 1 year ago is 4:3. Find the average of ages A and C.",
+        "Option A": "16 years",
+        "Option B": "19 years",
+        "Option C": "15 years",
+        "Option D": "14 years",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Ages Questions & Answers",
+        "Question": "The ages of two persons differ by 16 years. If 6 years ago, the elder one was 3 times as old as the younger one, find their present ages.",
+        "Option A": "16 years and 40 years",
+        "Option B": "14 years and 30 years",
+        "Option C": "15 years and 45 years",
+        "Option D": "14 years and 28 years",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Ages Questions & Answers",
+        "Question": "Four times the age of a mother is equal to nine times the age of her daughter. After nine years the mother's age will be twice her daughter's age. What is the present age of the daughter?",
+        "Option A": "34 years",
+        "Option B": "36 years",
+        "Option C": "33 years",
+        "Option D": "38 years",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Ages Questions & Answers",
+        "Question": "Two years ago Sam's age was 4.5 times the age of his son. Six years ago, his age was twice the square of the age of his son. What is the present age of Sam's son ?",
+        "Option A": "14 years",
+        "Option B": "20 years",
+        "Option C": "10 years",
+        "Option D": "30 years",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Ages Questions & Answers",
+        "Question": "If 6 years are subtracted from the present age of Gagan and the remainder is divided by 18, then the present age of his grandson Anup is obtained. If Anup is 2 years younger to Madan whose age is 5 years, then what is Gagan's present age?",
+        "Option A": "48 years",
+        "Option B": "60 years",
+        "Option C": "84 years",
+        "Option D": "96 years",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Ages Questions & Answers",
+        "Question": "The average age of A and B is 20 years. If C were to replace A, the average would be 19 and the average age of C and A would be 21. The ages of A, B and C respectively are:",
+        "Option A": "18, 22, 20",
+        "Option B": "18, 20, 22",
+        "Option C": "22, 18, 20",
+        "Option D": "22, 20, 18",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Pipes and Cistern Questions & Answers",
+        "Question": "A pipe can fill a bucket in 5 hours but due to a hole at the bottom it takes 6 hours to fill the bucket. How much time will it take to empty the bucket if it was full?",
+        "Option A": "25 hours",
+        "Option B": "30 hours",
+        "Option C": "35 hours",
+        "Option D": "40 hours",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Pipes and Cistern Questions & Answers",
+        "Question": "Pipe A and B can fill a tank in 15 minutes and 10 minutes respectively. Pipe C can empty the tank in 5 minutes. Pipe A and B are opened simultaneously and after 4 minute pipe C is also opened. In what time the tank will be emptied?",
+        "Option A": "25 mins",
+        "Option B": "30 mins",
+        "Option C": "35 mins",
+        "Option D": "20 mins",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Pipes and Cistern Questions & Answers",
+        "Question": "Two pipes A and B can fill a cistern in 4 hrs. Had they been opened separately, then B would have taken 6 hrs more than A to fill the cistern. How much time will be taken by A to fill the cistern separately?",
+        "Option A": "1 hour",
+        "Option B": "2 hours",
+        "Option C": "6 hours",
+        "Option D": "8 hours",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Pipes and Cistern Questions & Answers",
+        "Question": "Two pipes A and B can fill a tank in 36 minutes and 45 minutes, another pipes C can empty the tank in 30 minutes. Pipes A and B are opened first and then 7 minutes later pipes C is also opened. Find the time taken to fill the tank.",
+        "Option A": "40 mins",
+        "Option B": "35 mins",
+        "Option C": "42 mins",
+        "Option D": "46 mins",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Pipes and Cistern Questions & Answers",
+        "Question": "Two pipes A and B can fill a tank in 24 minutes and 32 minutes respectively. If both the pipes are opened simultaneously, after how much time should B be closed so that the tank is full in 18 minutes?",
+        "Option A": "4 mins",
+        "Option B": "2 mins",
+        "Option C": "8 mins",
+        "Option D": "6 mins",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Pipes and Cistern Questions & Answers",
+        "Question": "Two pipes can fill a small tank in 7 hr and 8 hr respectively. A leakage was found when two pipes are opened simultaneously and due to leakage it took 16 min more to fill it up. How much time the leakage will take to empty the full tank?",
+        "Option A": "56 hour",
+        "Option B": "58 hours",
+        "Option C": "50 hours",
+        "Option D": "112 hours",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Pipes and Cistern Questions & Answers",
+        "Question": "Two pipes fill a tank in 20 and 24 minutes respectively and a waste pipe can empty 3 gallons per minute. All the three pipes working together can fill the tank in 15 min. The capacity of the tank is?",
+        "Option A": "60 gallons",
+        "Option B": "100 gallons",
+        "Option C": "120 gallons",
+        "Option D": "180 gallons",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Pipes and Cistern Questions & Answers",
+        "Question": "Three pipes A, B and C can fill a tank in 6 hours together. All three pipes are opened for 2 hours, and then pipe C is closed. Remaining part of the tank is filled by pipes A and B in 7 hour. How much time will pipe C take to fill the empty tank alone?",
+        "Option A": 10,
+        "Option B": 12,
+        "Option C": 14,
+        "Option D": 16,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Pipes and Cistern Questions & Answers",
+        "Question": "Work efficiency of pipe B is 2 times of pipe A and work efficiency of pipe C is 2 times of pipe B. All the three pipes A, B and C can fill a cistern in 5 hours. Find the time taken by pipe A to fill the cistern alone.",
+        "Option A": "40 hours",
+        "Option B": "30 hours",
+        "Option C": "35 hours",
+        "Option D": "50 hours",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Pipes and Cistern Questions & Answers",
+        "Question": "There are three Taps A, B and C in a tank. They can fill the tank in 10 hrs, 20 hrs and 25 hrs respectively. At first, all of them are opened simultaneously. Then after 2 hours, tap C is closed and A and B are kept running. After the 4th hour, tap B is also closed. The remaining work is done by Tap A alone. Find the percentage of the work done by Tap A.",
+        "Option A": "70 %",
+        "Option B": "62 %",
+        "Option C": "80 %",
+        "Option D": "72 %",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Pipes and Cistern Questions & Answers",
+        "Question": "A large tanker can be filled by two pipes A and B in 60 minutes and 40 minutes respectively. How many minutes will it take to fill the tanker from empty state if B is used for half the time and A and B fill it together for the other half?",
+        "Option A": "15 minutes",
+        "Option B": "20 minutes",
+        "Option C": "27.5 minutes",
+        "Option D": "30 minutes",
+        "Option E": null,
+        "Answer": "E"
+    },
+    {
+        "Topic": "Time, Speed and Distance Questions & Answers",
+        "Question": "A man covers the first half of the journey at the speed of 40kmph and the remaining at the speed of 60kmph. Find his average speed?",
+        "Option A": "42km/hr",
+        "Option B": "48km/hr",
+        "Option C": "36km/hr",
+        "Option D": "54km/hr",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Time, Speed and Distance Questions & Answers",
+        "Question": "Champaklal covers 20 kms at the speed of 15kmph and other 10kms at the speed of 6kmph. What is his average speed throughout this journey?",
+        "Option A": "8kmph",
+        "Option B": "9kmph",
+        "Option C": "10kmph",
+        "Option D": "11kmph",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Time, Speed and Distance Questions & Answers",
+        "Question": "A bird flying 400 km covers the first 100 km at the rate of 100 km/hr, the second 100 km at 200 km/hr, the third 100 km at the rate of 300 km/hr and the last 100 km at the rate of 400 kmph. Find the average speed of the bird.",
+        "Option A": "152km/hr",
+        "Option B": "192km/hr",
+        "Option C": "150 km/hr",
+        "Option D": "200km/hr",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Time, Speed and Distance Questions & Answers",
+        "Question": "A man completes a journey in 10 hours. He travels first half of the journey at the rate of 21 km/hr and the second half at the rate of 24 km/hr. Find the total journey in km.",
+        "Option A": "222km",
+        "Option B": "224km",
+        "Option C": "230km",
+        "Option D": "228km",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Time, Speed and Distance Questions & Answers",
+        "Question": "A train running between two towns arrives at its destination 10 minutes late when it goes at 60 km per hour and 16 minutes late when it goes at 40 km per hour. Determine the distance between the two towns.",
+        "Option A": "12km",
+        "Option B": "20km",
+        "Option C": "18km",
+        "Option D": "24km",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Time, Speed and Distance Questions & Answers",
+        "Question": "Walking at 5/7 of his usual rate, a man reaches the market 16 minutes late. Find his usual time taken to reach the market.",
+        "Option A": "60min",
+        "Option B": "40min",
+        "Option C": "80min",
+        "Option D": "90min",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Time, Speed and Distance Questions & Answers",
+        "Question": "A man travelled a distance of 61 km in 9 hours partly on foot at the rate of 4 kmph and partly on bicycle at the rate of 9 kmph. Find the distance travelled on foot.",
+        "Option A": "14 km",
+        "Option B": "15 km",
+        "Option C": "16 km",
+        "Option D": "17 km",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Time, Speed and Distance Questions & Answers",
+        "Question": "In covering a distance of 30 km, Abhay takes 2 hours more than Sameer. If Abhay doubles his speed, then he would take 1 hour less than Sameer. Abhay's speed is:",
+        "Option A": "6kmph",
+        "Option B": "5kmph",
+        "Option C": "9kmph",
+        "Option D": "8kmph",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Time, Speed and Distance Questions & Answers",
+        "Question": "What will be the distance between Chennai and Goa? I took one hour more, when I travel at 80 kmph than at 90 kmph.",
+        "Option A": "740 km",
+        "Option B": "600 km",
+        "Option C": "720 km",
+        "Option D": "650 km",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Time, Speed and Distance Questions & Answers",
+        "Question": "A man takes 6 hours 35 mins in walking to a certain place and riding back. He would have taken 2 hours less by riding both ways. What would be the time he would take to walk both ways?",
+        "Option A": "8 hrs 35 min",
+        "Option B": "8 hrs 45 min",
+        "Option C": "9 hrs 15 min",
+        "Option D": "8 hrs 25 min",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Time, Speed and Distance Questions & Answers",
+        "Question": "A cyclist travels a certain distance in 6 hours at a uniform speed. In return, he increases his speed by 2 kmph and covers the same distance in 5 hours. What was his speed initially.",
+        "Option A": "6km/hr",
+        "Option B": "10km/hr",
+        "Option C": "9km/hr",
+        "Option D": "8km/hr",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Time, Speed and Distance Questions & Answers",
+        "Question": "A man walks at the speed of 5 kmph and runs at the speed of 10 kmph. How much time will the man require to cover the distance of 28 km, if he covers half (first 14 km) his journey walking and half his journey running?",
+        "Option A": "4.2hr",
+        "Option B": "4.8hr",
+        "Option C": "3.6hr",
+        "Option D": "5.4hr",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Time, Speed and Distance Questions & Answers",
+        "Question": "Two trains start at the same time from A & B and proceed towards B & A at 36 kmph & 42 kmph respectively. When they meet, it is found that one train has moved 48 km more than the other. What is the distance between A and B ?",
+        "Option A": "612km",
+        "Option B": "620km",
+        "Option C": "618km",
+        "Option D": "624km",
+        "Option E": null,
+        "Answer": "E"
+    },
+    {
+        "Topic": "Time, Speed and Distance Questions & Answers",
+        "Question": "Excluding the stoppages, the speed of a bus is 64 kmph and including the stoppages, the speed of the bus is 48 kmph. For how many minutes does the bus stop per hour?",
+        "Option A": "10min",
+        "Option B": "40min",
+        "Option C": "15min",
+        "Option D": "30min",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Time, Speed and Distance Questions & Answers",
+        "Question": "A train running at 7/11 of its own speed reached a place in 22 hrs. how much time can be saved if train would run at its own speed ?",
+        "Option A": "8hrs",
+        "Option B": "4hrs",
+        "Option C": "6hrs",
+        "Option D": "5hrs",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Time, Speed and Distance Questions & Answers",
+        "Question": "There are 20 windmills with a constant distance between each pole. A car takes 22 seconds to reach the 12th pole. How much time will it take to reach the last pole?",
+        "Option A": "38 Sec",
+        "Option B": "40 Sec",
+        "Option C": "48 Sec",
+        "Option D": "41 Sec",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Time, Speed and Distance Questions & Answers",
+        "Question": "A man covered a certain distance at some speed. Had he moved 3 kmph faster, he would have taken 40 minutes less. If he had moved 2 kmph slower, he would have taken 40 minutes more. The distance (in km) is:",
+        "Option A": "42kmph",
+        "Option B": "40kmph",
+        "Option C": "45kmph",
+        "Option D": "50kmph",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Time, Speed and Distance Questions & Answers",
+        "Question": "Each day a man meets his wife at the train station after work, and then she drives him home. She always arrives exactly on time to pick him up. One day he catches an earlier train and arrives at the station an hour early. He immediately begins walking home along the same route the wife drives. Eventually his wife sees him on her way to the station and drives him the rest of the way home. When they arrive home the man notices that they arrived 20 minutes earlier than usual. How much time did the man spend walking?",
+        "Option A": "42 mins",
+        "Option B": "40 mins",
+        "Option C": "45 mins",
+        "Option D": "50 mins",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Time, Speed and Distance Questions & Answers",
+        "Question": "Two guns were fired from the same place at an interval of 10 minutes and 30 seconds, but a person in the train approaching the place hears the second shot 10 minutes after the first. The speed of the train (in km/hr), supposing that speed travels at 330 metres per second, is:",
+        "Option A": "42.4kmph",
+        "Option B": "52.4kmph",
+        "Option C": "59.4kmph",
+        "Option D": "49.4kmph",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Trains Questions & Answers",
+        "Question": "A thief spots a policeman 100 m away and takes to his heels. If the police man gives a chase immediately, then how far would the thief have run before he is over taken? The speeds of the theif and policeman are 8 kmph and 10 kmph respectively.",
+        "Option A": "450 m",
+        "Option B": "500 m",
+        "Option C": "400 m",
+        "Option D": "300 m",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Trains Questions & Answers",
+        "Question": "A train crosses a Platform of length 99m in 13.5s and a man standing in the platform in 9s. Find the length of the train :",
+        "Option A": "145 m",
+        "Option B": "150 m",
+        "Option C": "184 m",
+        "Option D": "198 m",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Trains Questions & Answers",
+        "Question": "A train overtakes two persons who are walking in the same direction in which the train is going, at the rate of 2 kmph and 4 kmph and passes them completely in 9 seconds and 10 seconds respectively. The length of the train (in metres)",
+        "Option A": "45 m",
+        "Option B": "50 m",
+        "Option C": "54 m",
+        "Option D": "72 m",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Trains Questions & Answers",
+        "Question": "A train 150m long, travelling at 75 kmph overtakes another train travelling in the same direction at 45 kmph. In how many seconds does the first train pass a passenger sitting in the second train? If the first train passes the second completely in 30 seconds, then find the length of the second train.",
+        "Option A": "125 m",
+        "Option B": "150 m",
+        "Option C": "154 m",
+        "Option D": "100 m",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Trains Questions & Answers",
+        "Question": "Two trains running in opposite directions cross a man standing on the platform in 27 seconds and 17 seconds respectively and they cross each other in 23 seconds. The ratio of their speeds is:",
+        "Option A": "1:2",
+        "Option B": "3:2",
+        "Option C": "1:3",
+        "Option D": "2:3",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Trains Questions & Answers",
+        "Question": "A 300 meter long train crosses a platform in 39 seconds while it crosses a signal pole in 18 seconds. What is the length of the platform.",
+        "Option A": "450 m",
+        "Option B": "400 m",
+        "Option C": "350 m",
+        "Option D": "300 m",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Trains Questions & Answers",
+        "Question": "Two trains are running at 60 km/hr and 30 km/hr respectively in the same direction. The faster train completely passes a man sitting in the slower train in 60 seconds. What is the length of the fast train?",
+        "Option A": "300 meters",
+        "Option B": "400 meters",
+        "Option C": "500 meters",
+        "Option D": "600 meters",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Trains Questions & Answers",
+        "Question": "A train M leaves Meerut at 5 a.m and reaches Delhi at 9 a.m Another train leaves Delhi at 7 a.m and reaches Meerut at 10.30 a.m At what time do the two trains cross each other?",
+        "Option A": "7:56 a.m.",
+        "Option B": "7:36 a.m.",
+        "Option C": "6:36 a.m.",
+        "Option D": "6:56 a.m.",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Trains Questions & Answers",
+        "Question": "A car starts from Hyderabad and moves towards Bangalore and at the same time, another car starts from Bangalore and moves towards Hyderabad. After crossing each other, they take 361 and 400 mins respectively to reach their destinations. What will be the speed of the first car, if the speed of the second car is 76 kmph?",
+        "Option A": "66 km/hr",
+        "Option B": "110 km/hr",
+        "Option C": "132 km/hr",
+        "Option D": "80 km/hr",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Trains Questions & Answers",
+        "Question": "The jogging track in a sports complex is 726 m in circumference. Suresh and his wife start from the same point and walk in opposite direction at 4.5 km/hr and 3.75 km/hr respectively. They will meet for the first time in:",
+        "Option A": "5.28 mins",
+        "Option B": "6.28 mins",
+        "Option C": "7.25 mins",
+        "Option D": "8.25 mins",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Trains Questions & Answers",
+        "Question": "A and B walk around a circular track they start at 8 am from the same point in the opposite diretions A and B walk at a speed of 2 rounds per hour and 3 round per hour respectively how many times shall they cross each other before 9.30 am",
+        "Option A": "5 times",
+        "Option B": "6 times",
+        "Option C": "7 times",
+        "Option D": "8 times",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Boats and Streams Questions & Answers",
+        "Question": "A boat can travel with a speed of 13 km/hr in still water. If the speed of the stream is 4 km/hr, find the time taken by the boat to go 68 km downstream.",
+        "Option A": "2 hours",
+        "Option B": "3 hours",
+        "Option C": "4 hours",
+        "Option D": "5 hours",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Boats and Streams Questions & Answers",
+        "Question": "A man's speed with the current is 15 km/hr and the speed of the current is 2.5 km/hr. The man's speed against the current is:",
+        "Option A": "8.5 km/hr",
+        "Option B": "9 km/hr",
+        "Option C": "10 km/hr",
+        "Option D": "12.5 km/hr",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Boats and Streams Questions & Answers",
+        "Question": "In one hour, a boat goes 11 km/hr along the stream and 5 km/hr against the stream. The speed of the boat in still water (in km/hr) is:",
+        "Option A": "3 km/hr",
+        "Option B": "5 km/hr",
+        "Option C": "8 km/hr",
+        "Option D": "9 km/hr",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Boats and Streams Questions & Answers",
+        "Question": "A boat running downstream covers a distance of 16 km in 2 hours while for covering the same distance upstream, it takes 4 hours. What is the speed of the boat in still water?",
+        "Option A": "4 km/hr",
+        "Option B": "6 km/hr",
+        "Option C": "8 km/hr",
+        "Option D": "Data inadequate",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Boats and Streams Questions & Answers",
+        "Question": "The speed of a boat in still water in 15 km/hr and the rate of current is 3 km/hr. The distance travelled downstream in 12 minutes is:",
+        "Option A": "1.2 km",
+        "Option B": "1.8 km",
+        "Option C": "2.4 km",
+        "Option D": "3.6 km",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Boats and Streams Questions & Answers",
+        "Question": "Rahul can row a certain distance downstream in 6 hour and return the same distance in 9 hour. If the speed of Rahul in still water is 12 km/hr, Find the speed of the stream.",
+        "Option A": "2 km/hr",
+        "Option B": "2.4 km/hr",
+        "Option C": "3 km/hr",
+        "Option D": "1.5 km/hr",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Boats and Streams Questions & Answers",
+        "Question": "A boat running upstream takes 8 hours 48 minutes to cover a certain distance, while it takes 4 hours to cover the same distance running downstream. What is the ratio between the speed of the boat and speed of the water current respectively?",
+        "Option A": "2 : 1",
+        "Option B": "3 : 2",
+        "Option C": "8 : 3",
+        "Option D": "Cannot be determined",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Boats and Streams Questions & Answers",
+        "Question": "A man can row 9 km in 3 hours against a stream running at 2 kmph. How long would he take in rowing the same distance down the stream?",
+        "Option A": "70 minutes.",
+        "Option B": "32.88 minutes.",
+        "Option C": "83.23 minutes.",
+        "Option D": "77.14 minutes.",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Boats and Streams Questions & Answers",
+        "Question": "A boat goes up a river 20 km and down the river 24 km in 8 hours. It also goes up the river 30 km and down the river 28 km in 11 hours. What is the speed of the boat and the river?",
+        "Option A": "2 km/hr, 1.5 km/hr",
+        "Option B": "6 km/hr ,2 km/hr",
+        "Option C": "3 km/hr ,1.5 km/hr",
+        "Option D": "1.5 km/hr,4 km/hr",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Boats and Streams Questions & Answers",
+        "Question": "A man can row 9 and ⅓ kmph in still water and finds that it takes him thrice as much time to row up than as to row down the same distance in the river. The speed of the current is",
+        "Option A": "4 2/3km/hr",
+        "Option B": "6 2/3km/hr",
+        "Option C": "10 1/3km/hr",
+        "Option D": "7 2/3 km/hr",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Boats and Streams Questions & Answers",
+        "Question": "A man can row at 5 km/hr in still water and the velocity of current is 1 km/hr. It takes him 1 hour to row to a place and back. How far is the place ?",
+        "Option A": "2.4 km",
+        "Option B": "2.5 km",
+        "Option C": "3 km",
+        "Option D": "3.6 km",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Boats and Streams Questions & Answers",
+        "Question": "A man rows to a place 48 km distant and back in 14 hours. He finds that he can row 4 km with the stream in the same time as 3 km against the stream. The rate of the stream is :",
+        "Option A": "1 km/hr",
+        "Option B": "1.5 km/hr",
+        "Option C": "2 km/hr",
+        "Option D": "2.5 km/hr",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Boats and Streams Questions & Answers",
+        "Question": "A motor covers 24 km upstream and 36 km downstream in 6 hours, while it covers 36 km upstream and 24km downstream in 6 1/2 hours. The velocity of the stream is :",
+        "Option A": "1 km/hr",
+        "Option B": "2 km/hr",
+        "Option C": "1.5 km/hr",
+        "Option D": "2.5 km/hr",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Boats and Streams Questions & Answers",
+        "Question": "A boat covers a certain distance downstream in 1 hour, while it comes back in 1 1⁄2 hours. If the speed of the stream be 3 kmph, what is the speed of the boat in still water?",
+        "Option A": "12 kmph",
+        "Option B": "13 kmph",
+        "Option C": "14 kmph",
+        "Option D": "15 kmph",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Boats and Streams Questions & Answers",
+        "Question": "At his usual rowing rate, Rahul can travel 12 miles downstream in a certain river in 6 hours less than it takes him to travel the same distance upstream. But if he could double his usual rowing rate for his 24 mile round trip, the downstream 12 miles would then take only one hour less than the upstream 12 miles. What is the speed of the current in miles per hour?",
+        "Option A": "4 2/3 mph",
+        "Option B": "6 2/3 mph",
+        "Option C": "3 1/3 mph",
+        "Option D": "2 2/3 mph",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Boats and Streams Questions & Answers",
+        "Question": "Bunty is going up the escalator. It takes Bunty 80 seconds to walk up the escalator which is moving upwards and 120 seconds to walk up the escalator which is moving downwards. Calculate the time taken by Bunty to climb the escalator which is stationary.",
+        "Option A": "120 seconds.",
+        "Option B": "100 seconds.",
+        "Option C": "80 seconds.",
+        "Option D": "96 seconds.",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Circles Questions & Answers",
+        "Question": "F\ni\nn\nd\n t\nh\ne\n r\na\nd\ni\nu\ns\n o\nf\n t\nh\ne\n c\ni\nr\nc\nl\ne\n i\nf\n t\nh\ne\n a\nr\ne\na\n o\nf\n t\nh\ne\n s\ne\nc\nt\no\nr\n i\ns\n 924\nc\nm\n2\n a\nn\nd\n t\nh\ne\n a\nn\ng\nl\ne\n a\nt\n t\nh\ne\n c\ne\nn\nt\ne\nr\n i\ns\n 60\n°\n.",
+        "Option A": 42,
+        "Option B": 21,
+        "Option C": 22,
+        "Option D": 46,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Circles Questions & Answers",
+        "Question": "When the radius of a circle is decreased by 50%, the area of the circle:",
+        "Option A": "decreases by 50%",
+        "Option B": "decreases by 75%",
+        "Option C": "increases by 100%",
+        "Option D": "decreases by 100%",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Circles Questions & Answers",
+        "Question": "F\ni\nn\nd\n t\nh\ne\n c\ni\nr\nc\nu\nm\nf\ne\nr\ne\nn\nc\ne\n o\nf\n a\n c\ni\nr\nc\nl\ne\n i\nf\n t\nh\ne\n a\nr\ne\na\n o\nf\n t\nh\ne\n c\ni\nr\nc\nl\ne\n i\ns\n 154\n c\nm\n2\n.",
+        "Option A": 18,
+        "Option B": 22,
+        "Option C": 44,
+        "Option D": 66,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Circles Questions & Answers",
+        "Question": "A regular hexagon is inscribed in a circle of radius 10 cm. Find the area of the shaded portion. (× ≈ π ; √3 ≈ 1.73). [Image URLs: https://static.placementpreparation.io/concepts/circle-4.png]",
+        "Option A": "271 sq.cm",
+        "Option B": "54.5 sq.cm",
+        "Option C": "290 sq.cm",
+        "Option D": "75 sq.cm",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Circles Questions & Answers",
+        "Question": "The wheel of scooter has diameter 140 cm. How many revolutions per minute must the wheel make so that the speed of the scooter is kept at 132 km per hour?",
+        "Option A": 1100,
+        "Option B": 500,
+        "Option C": 250,
+        "Option D": 1000,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Circles Questions & Answers",
+        "Question": "The smallest possible circle, touching two opposite sides of a rectangle, is cut out from a rectangle of area 60 sq units. If the area of the circle is 1.5 times the uncut area left in the rectangle, find the diameter of the circle.",
+        "Option A": "(6/√π) units",
+        "Option B": "(9/√π) units",
+        "Option C": "(12/√π) units",
+        "Option D": "(15/√π) units",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Circles Questions & Answers",
+        "Question": "Consider Square S inscribed in circle C, what is the ratio of the areas of S and C? And, Consider Circle Q inscribed in Square S, what is the ratio of the areas of S and Q?",
+        "Option A": "2:π, 4:π",
+        "Option B": "4:π, 2:π",
+        "Option C": "1:π, 4:π",
+        "Option D": "2:π, 1:π",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Mensuration Questions & Answers",
+        "Question": "What is the area of an equilateral triangle of side 16 cm?",
+        "Option A": "48√3 sq.cm",
+        "Option B": "128√3 sq.cm",
+        "Option C": "96√3 sq.cm",
+        "Option D": "64√3 sq.cm",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Mensuration Questions & Answers",
+        "Question": "If the sides of a triangle are 26 cm, 24 cm and 10 cm, what is its area?",
+        "Option A": "120sq.cm",
+        "Option B": "130 sq.cm",
+        "Option C": "312 sq.cm",
+        "Option D": "315 sq.cm",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Mensuration Questions & Answers",
+        "Question": "The perimeter of a triangle is 28 cm and the inradius of the triangle is 2.5 cm. What is the area of the triangle?",
+        "Option A": "35 sq.cm",
+        "Option B": "42 sq.cm",
+        "Option C": "49 sq.cm",
+        "Option D": "70 sq.cm",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Mensuration Questions & Answers",
+        "Question": "Find the area of trapezium whose parallel sides are 20 cm and 18 cm long, and the distance between them is 15 cm.",
+        "Option A": "225 sq.cm",
+        "Option B": "275 sq.cm",
+        "Option C": "285 sq.cm",
+        "Option D": "315 sq.cm",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Mensuration Questions & Answers",
+        "Question": "Find the area of a parallelogram with base 24 cm and height 16 cm.",
+        "Option A": "262 sq.cm",
+        "Option B": "384 sq.cm",
+        "Option C": "192 sq.cm",
+        "Option D": "131 sq.cm",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Mensuration Questions & Answers",
+        "Question": "The ratio of the length and the breadth of a rectangle is 4 : 3 and the area of the rectangle is 6912 sq cm. Find the ratio of the breadth and the area of the rectangle?",
+        "Option A": "1 : 96",
+        "Option B": "1 : 48",
+        "Option C": "1 : 84",
+        "Option D": "1 : 68",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Mensuration Questions & Answers",
+        "Question": "A wire in the form of a circle of radius 3.5 m is bent in the form of a rectangle, whose length and breadth are in the ratio of 6 : 5. What is the area of the rectangle?",
+        "Option A": "60 sq.cm",
+        "Option B": "30 sq.cm",
+        "Option C": "45 sq.cm",
+        "Option D": "15 sq.cm",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Mensuration Questions & Answers",
+        "Question": "A cube of side one meter length is cut into small cubes of side 10 cm each. How many such small cubes can be obtained?",
+        "Option A": 10,
+        "Option B": 100,
+        "Option C": 1000,
+        "Option D": 10000,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Mensuration Questions & Answers",
+        "Question": "The radius of a wheel is 22.4 cm. What is the distance covered by the wheel in making 500 revolutions?",
+        "Option A": "252 m",
+        "Option B": "704 m",
+        "Option C": "352 m",
+        "Option D": "808 m",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Mensuration Questions & Answers",
+        "Question": "The ratio of the volumes of two cubes is 729 : 1331. What is the ratio of their total surface areas",
+        "Option A": "81 : 121",
+        "Option B": "9 : 11",
+        "Option C": "729 : 1331",
+        "Option D": "27 : 121",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Mensuration Questions & Answers",
+        "Question": "An order was placed for the supply of a carpet whose length and breadth were in the ratio of 3 : 2. Subsequently, the dimensions of the carpet were altered such that its length and breadth were in the ratio 7 : 3 but were was no change in its perimeter. Find the ratio of the areas of the carpets in both the cases.",
+        "Option A": "4 : 3",
+        "Option B": "8 : 7",
+        "Option C": "4 : 1",
+        "Option D": "6 : 5",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Mensuration Questions & Answers",
+        "Question": "A park in the form of a right-angled triangle has a base and height of 10 m and 15 m respectively. Find the area of the park?",
+        "Option A": 45,
+        "Option B": 75,
+        "Option C": 60,
+        "Option D": 150,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Mensuration Questions & Answers",
+        "Question": "The percentage increase in the area of a rectangle, if each of its sides is increased by 20% is:",
+        "Option A": "40%",
+        "Option B": "42%",
+        "Option C": "44%",
+        "Option D": "46%",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Mensuration Questions & Answers",
+        "Question": "A rectangular park 60 m long and 40 m wide has two concrete crossroads running in the middle of the park and rest of the park has been used as a lawn. If the area of the lawn is 2109 sq. m, then what is the width of the road?",
+        "Option A": "2.91 m",
+        "Option B": "3 m",
+        "Option C": "5.82 m",
+        "Option D": "None of these",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Mensuration Questions & Answers",
+        "Question": "50 men took a dip in a water tank 40 m long and 20 m broad on a religious day. If the average displacement of water by a man is 4 cubic meter , then the rise in the water level in the tank will be:",
+        "Option A": "20 cm",
+        "Option B": "25 cm",
+        "Option C": "35 cm",
+        "Option D": "50 cm",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Mensuration Questions & Answers",
+        "Question": "There is a rectangular Garden whose length and width is 60m X 20m.There is a walkway of uniform width around the garden. Area of the walkway is 516 sq.m. Find the width of the walkway?",
+        "Option A": 1,
+        "Option B": 2,
+        "Option C": 3,
+        "Option D": 4,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Mensuration Questions & Answers",
+        "Question": "If a circle and a square have the same area, then what will be the perimeter of the square, if the diameter of the circle is 8 cm.",
+        "Option A": "4π",
+        "Option B": 32,
+        "Option C": "4√π",
+        "Option D": "16√π",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Mensuration Questions & Answers",
+        "Question": "A field with equal sides of 40m is full of grass. One cow is tied to each corner of the field by a rope of 14m. How much grass will not be eaten by those 4 cows?",
+        "Option A": "984 sq.m",
+        "Option B": "1056 sq.m",
+        "Option C": "1224 sq.m",
+        "Option D": "856 sq.m",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Mensuration Questions & Answers",
+        "Question": "Find the length of the longest pole that can be placed in a room 12 m long, 8m broad and 9 m high.",
+        "Option A": "16 m",
+        "Option B": "17 m",
+        "Option C": "18 m",
+        "Option D": "19 m",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Mensuration Questions & Answers",
+        "Question": "If the radius of a cylinder is doubled and the height remains same, the volume will be",
+        "Option A": "Doubled",
+        "Option B": "Halved",
+        "Option C": "Same",
+        "Option D": "Four times",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Mensuration Questions & Answers",
+        "Question": "An ant wants to go from one corner of the cube to the diagonally opposite corner by crawling [can't fly]. Minimum distance it has to travel to reach there if the side of the cube is 10 ?",
+        "Option A": "10√3",
+        "Option B": "√10+30",
+        "Option C": 30,
+        "Option D": "10√5",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Mensuration Questions & Answers",
+        "Question": "If the sum of the interior angles of a regular polygon measures up to 144 degrees, how many sides does the polygon have?",
+        "Option A": "10 sides",
+        "Option B": "8 sides",
+        "Option C": "12 sides",
+        "Option D": "9 sides",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Mensuration Questions & Answers",
+        "Question": "A polygon has 27 diagonals. The number of sides of the polygon is",
+        "Option A": 9,
+        "Option B": 10,
+        "Option C": 11,
+        "Option D": 12,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Mensuration Questions & Answers",
+        "Question": "Consider Square S inscribed in circle C, what is the ratio of the areas of S and C? And, Consider Circle Q inscribed in Square S, what is the ratio of the areas of S and Q?",
+        "Option A": "2:π, 4:π",
+        "Option B": "4:π, 2:π",
+        "Option C": "1:π, 4:π",
+        "Option D": "2:π, 1:π",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Height and Distance Questions & Answers",
+        "Question": "Two ships are sailing in the sea on the two sides of a lighthouse. The angle of elevation of the top of the lighthouse is observed from the ships are 30° and 45° respectively. If the lighthouse is 100 m high, the distance between the two ships is:",
+        "Option A": "173 m",
+        "Option B": "200 m",
+        "Option C": "273 m",
+        "Option D": "300 m",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Height and Distance Questions & Answers",
+        "Question": "The angle of elevation of a ladder leaning against a wall is 60º and the foot of the ladder is 4.6 m away from the wall. The length of the ladder is:",
+        "Option A": "2.3m",
+        "Option B": "4.6 m",
+        "Option C": "7.8 m",
+        "Option D": "9.2 m",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Height and Distance Questions & Answers",
+        "Question": "The angle of elevation of the sun, when the length of the shadow of a tree 3 times the height of the tree, is:",
+        "Option A": "30°",
+        "Option B": "45°",
+        "Option C": "60°",
+        "Option D": "90°",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Height and Distance Questions & Answers",
+        "Question": "From a point 375 meters away from the foot of a tower, the top of the tower is observed at an angle of elevation of 45°, then the height (in meters) of the tower is?",
+        "Option A": 375,
+        "Option B": 450,
+        "Option C": 225,
+        "Option D": 250,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Height and Distance Questions & Answers",
+        "Question": "The Top of a 25 meter high tower makes an angle of elevation of 450 with the bottom of an electric pole and angle of elevation of 30 degree with the top of pole. Find the height of the electric pole.",
+        "Option A": "25√3",
+        "Option B": "25((√3-1)/√3)",
+        "Option C": "25/√3",
+        "Option D": "25((1-√3)/√3)",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Coordinate Geometry Questions & Answers",
+        "Question": "Find the area of the triangle formed by the vertices (4, 5), (10, 12) and (-3, 2)",
+        "Option A": 13,
+        "Option B": 14.5,
+        "Option C": 14,
+        "Option D": 15.5,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Coordinate Geometry Questions & Answers",
+        "Question": "Find the distance of the point A (5, -5) from the origin.",
+        "Option A": "5√2",
+        "Option B": "7√2",
+        "Option C": "5√3",
+        "Option D": "7√3",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Coordinate Geometry Questions & Answers",
+        "Question": "If the points A(2, 3), B(5, K) and C(6, 7) are collinear, then k = ?",
+        "Option A": 3,
+        "Option B": 5,
+        "Option C": 6,
+        "Option D": 8,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Coordinate Geometry Questions & Answers",
+        "Question": "The number of points, having both co-ordinates as integers, that lie in the interior of the triangles with vertices (0,0),(0,41) and (41,0) is",
+        "Option A": 901,
+        "Option B": 861,
+        "Option C": 820,
+        "Option D": 780,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Coordinate Geometry Questions & Answers",
+        "Question": "The area of the closed region bounded by the equation | x | + | y | = 2 in the two-dimensional plane is",
+        "Option A": "4π",
+        "Option B": 4,
+        "Option C": 8,
+        "Option D": "2π",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Profit and Loss Questions & Answers",
+        "Question": "David sold a bicycle at Rs 2100 and made a loss of 25%. At what price should he sell the bicycle if he wants to make a profit of 15%?",
+        "Option A": "Rs 2500",
+        "Option B": "Rs 2990",
+        "Option C": "Rs 3220",
+        "Option D": "Rs 3500",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Profit and Loss Questions & Answers",
+        "Question": "The percentage profit earned by selling an article for Rs. 1920 is equal to the percentage loss by selling the same article for Rs. 1280. At what price should the article be sold to make 25% profit?",
+        "Option A": "Rs. 1800",
+        "Option B": "Rs. 2000",
+        "Option C": "Rs. 2250",
+        "Option D": "Rs. 2500",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Profit and Loss Questions & Answers",
+        "Question": "A loss of 20% is made by selling an article. Had it been sold for Rs 240 more, there would have been a profit of 10%. What would be the selling price of the article if it is sold at 25% profit?",
+        "Option A": "Rs 960",
+        "Option B": "Rs 1000",
+        "Option C": "Rs 1040",
+        "Option D": "Rs 1080",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Profit and Loss Questions & Answers",
+        "Question": "Cost price of 12 articles is equal to the selling price of 8 articles. Find the profit / loss %?",
+        "Option A": "20% loss",
+        "Option B": "50% loss",
+        "Option C": "33.33% profit",
+        "Option D": "50% profit",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Profit and Loss Questions & Answers",
+        "Question": "By selling 33 m. cloth, a shopkeeper loses money equivalent to selling price of 11 m. Find his loss percentage.",
+        "Option A": "20%",
+        "Option B": "25%",
+        "Option C": "33.33%",
+        "Option D": "50%",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Profit and Loss Questions & Answers",
+        "Question": "If selling price is doubled then, the profit triples. What is profit per cent?",
+        "Option A": "20%",
+        "Option B": "75%",
+        "Option C": "100%",
+        "Option D": "50%",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Profit and Loss Questions & Answers",
+        "Question": "On selling 15 balls at Rs 400 there is loss equal to Cost Price of 5 balls. The cost price of a ball is?",
+        "Option A": "Rs 30",
+        "Option B": "Rs 35",
+        "Option C": "Rs 40",
+        "Option D": "Rs 45",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Profit and Loss Questions & Answers",
+        "Question": "A person buys 18 pens for 12 Rs and sells 12 pens for 18 rupees. Find his profit percentage.",
+        "Option A": "150%",
+        "Option B": "100%",
+        "Option C": "125%",
+        "Option D": "200%",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Profit and Loss Questions & Answers",
+        "Question": "A dishonest shopkeeper professes to sell pulses at the cost price, but he uses a false weight of 950gm. for a kg. His gain is____%.",
+        "Option A": "5%",
+        "Option B": "11%",
+        "Option C": "4 4/19%",
+        "Option D": "5 5/19%",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Profit and Loss Questions & Answers",
+        "Question": "A dishonest shopkeeper professes to sell pulses at the 20% profit , also he uses a false weight of 800gm for a kg, His actual gain is____%.",
+        "Option A": "25%",
+        "Option B": "15%",
+        "Option C": "20%",
+        "Option D": "50%",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Profit and Loss Questions & Answers",
+        "Question": "A dishonest milkman sells milk at cost price but he mixes water and earns 14(2/7)%. Find the ratio of mixture and milk in the mixture?",
+        "Option A": "2:3",
+        "Option B": "7:1",
+        "Option C": "1:7",
+        "Option D": "8:7",
+        "Option E": null,
+        "Answer": "E"
+    },
+    {
+        "Topic": null,
+        "Question": "Chamanlal purchased 20 dozen note books @ Rs.48 per dozen. He sold 8 dozen at 10% profit and the remaining12 dozens with 20% profit. What is the profit percentage in this transaction?",
+        "Option A": "25%",
+        "Option B": "12%",
+        "Option C": null,
+        "Option D": null,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Profit and Loss Questions & Answers",
+        "Question": "A trader has 600kgs of rice , a part of which he sells at 15% profit and the remaining quantity at 20% loss. On the whole , he incurs an overall loss of 6% .What is the quantity of rice he sold at 20% loss?",
+        "Option A": "Rs 960",
+        "Option B": "Rs 360",
+        "Option C": "Rs 560",
+        "Option D": "Rs 460",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Profit and Loss Questions & Answers",
+        "Question": "A watch dealer incurs an expense of Rs. 150 for producing every watch. He also incurs an additional expenditure of Rs. 30,000, which is independent of the number of watches produced. If he is able to sell a watch during the season, he sells it for Rs. 250. If he fails to do so, he has to sell each watch for Rs. 100.If he produces 1500 watches, what is the number of watches that he must sell during the season in order to breakeven, given that he is able to sell all the watches produced?",
+        "Option A": 900,
+        "Option B": 800,
+        "Option C": 700,
+        "Option D": 400,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Profit and Loss Questions & Answers",
+        "Question": "By selling 12 oranges for Rs 60 a man losses 25%. The number of oranges he has to sell for Rs 100 so as to gain 25% is?",
+        "Option A": 9,
+        "Option B": 11,
+        "Option C": 15,
+        "Option D": 12,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Profit and Loss Questions & Answers",
+        "Question": "A vendor bought toffees at 6 for a rupee. How many for a rupee must he sell to gain 20%?",
+        "Option A": 5,
+        "Option B": 10,
+        "Option C": 6,
+        "Option D": 7,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Profit and Loss Questions & Answers",
+        "Question": "Shopkeeper sells two items at the same price. If he sells one of them at a profit of 10% and the other at a loss of 10%, find the percentage profit/loss.Same SP different profit loss %",
+        "Option A": "2% profit",
+        "Option B": "10% loss",
+        "Option C": "1% loss",
+        "Option D": "3% profit",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Profit and Loss Questions & Answers",
+        "Question": "A trader bought two horses for Rs 39,000. He sold one at a loss of 20% and another at a profit of 15%. If the selling price of each horse is same, then what are their cost price respectively?",
+        "Option A": "21000,18000",
+        "Option B": "22000,17000",
+        "Option C": "24000,15000",
+        "Option D": "23000,16000",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Profit and Loss Questions & Answers",
+        "Question": "A Shopkeeper buys two bicycles for Rs. 750. He sells first bicycle at a profit of 22% And the second bicycle at a loss of 8%. What is the SP of first bicycle if in the Whole transaction there is no profit no loss?",
+        "Option A": "Rs. 176",
+        "Option B": "Rs. 198",
+        "Option C": "Rs. 220",
+        "Option D": "Rs. 244",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Profit and Loss Questions & Answers",
+        "Question": "A shopkeeper buys an article for 600 Rs and marks it for sale at a price that gives him 60 % profit on his cost price. He, however, gives a 15 % discount on the marked price to his customer. Calculate the actual profit gained by the shopkeeper as well as his profit percent.",
+        "Option A": "Rs. 160, 26.67%",
+        "Option B": "Rs. 180, 30%",
+        "Option C": "Rs. 200, 33.33%",
+        "Option D": "Rs. 216, 36%",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Profit and Loss Questions & Answers",
+        "Question": "Ajay marks his good 20% above the cost price and sells then at a discount of 10%. If he gains Rs. 420, find the cost price of the goods.",
+        "Option A": "Rs. 4200",
+        "Option B": "Rs. 4900",
+        "Option C": "Rs. 5250",
+        "Option D": "Rs. 5600",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Profit and Loss Questions & Answers",
+        "Question": "At what per cent above the cost price must Atul mark his goods so that he gains 20% after giving a discount of 25% ?",
+        "Option A": "25%",
+        "Option B": "12%",
+        "Option C": "60%",
+        "Option D": "50%",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Profit and Loss Questions & Answers",
+        "Question": "A dealer offers a cash discount of 20% and still makes a profit of 20%, when he further allows 16 articles to a dozen to a Particularly sticky bargainer. How much Percent above the cost price were his Wares listed?",
+        "Option A": "100%",
+        "Option B": "80%",
+        "Option C": "75%",
+        "Option D": "66.66%",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Profit and Loss Questions & Answers",
+        "Question": "A person sells two fans for Rs. 6800. The cost price of the first fan is equal to the selling price of the second fan. If the first is sold at 30% loss and the second at 100% gain, what is total profit or loss (in rupees)?",
+        "Option A": "Rs. 420",
+        "Option B": "Rs. 400",
+        "Option C": "Rs. 500",
+        "Option D": "Rs. 800",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Profit and Loss Questions & Answers",
+        "Question": "Raman calculates his profit % on the selling price whereas Rajeev calculates his on the cost price. They find that the difference of their profits Rs.150. If the selling price of both them are the same and both of them get 50% profit. Find their selling price.",
+        "Option A": 900,
+        "Option B": 400,
+        "Option C": 500,
+        "Option D": 800,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Profit and Loss Questions & Answers",
+        "Question": "A cloth merchant uses 120cm scale while buying, instead a meter scale ,but uses an 80 cm scale while selling the same cloth. If he offers a discount of 20% on cash payment. Find the profit percent.",
+        "Option A": "25%",
+        "Option B": "12%",
+        "Option C": "20%",
+        "Option D": "50%",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Profit and Loss Questions & Answers",
+        "Question": "A businessman sells a commodity at 10% profit. If he had bought it 10% less and sold it for rs2 less, then he would have gained 16(2/3)%. What is the cost price of the commodity?",
+        "Option A": 25,
+        "Option B": 40,
+        "Option C": 20,
+        "Option D": 50,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Compound Interest Questions & Answers",
+        "Question": "Albert invested an amount of Rs. 8000 in a fixed deposit scheme for 2 years at compound interest rate 5 p.c.p.a. How much amount will Albert get on maturity of the fixed deposit?",
+        "Option A": 6060,
+        "Option B": 8788,
+        "Option C": 8800,
+        "Option D": 8820,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Compound Interest Questions & Answers",
+        "Question": "What is the compound interest on Rs. 5,000 for 1 1/2years at 4 percent per annum according as the interest is compounded yearly?",
+        "Option A": 304,
+        "Option B": 307,
+        "Option C": 308,
+        "Option D": 309,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Compound Interest Questions & Answers",
+        "Question": "The effective annual rate of interest corresponding to a nominal rate of 6% per annum payable half-yearly is:",
+        "Option A": "6.06%",
+        "Option B": "6.07%",
+        "Option C": "6.08%",
+        "Option D": "6.09%",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Compound Interest Questions & Answers",
+        "Question": "At what rate of compound interest per annum will a sum of Rs. 1200 become Rs. 1348.32 in 2 years?",
+        "Option A": "6%",
+        "Option B": "6.50%",
+        "Option C": "7%",
+        "Option D": "7.50%",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Compound Interest Questions & Answers",
+        "Question": "The principal amount that becomes Rs. 4913 in 3 years at interest rate of 25/4% per annum when interest is compounded annually is:",
+        "Option A": 4306,
+        "Option B": 4396,
+        "Option C": 4096,
+        "Option D": 4809,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Compound Interest Questions & Answers",
+        "Question": "At what percent annum will Rs. 3,000 amount to Rs. 3,993 in 3 years if the interest is compounded annually?",
+        "Option A": "6%",
+        "Option B": "10%",
+        "Option C": "8%",
+        "Option D": "12%",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Compound Interest Questions & Answers",
+        "Question": "What is the difference between compound interest and simple interest on Rs. 5,000 for 2 years at 4 per cent per annum according as the interest is compounded yearly?",
+        "Option A": "Rs.2.04",
+        "Option B": "Rs.3.06",
+        "Option C": "Rs.4.80",
+        "Option D": "Rs.8.30",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Compound Interest Questions & Answers",
+        "Question": "The difference between the compound interest and simple interest on certain sum at 10% per annum for 2 years is Rs. 631. What is the sum?",
+        "Option A": 63100,
+        "Option B": 56000,
+        "Option C": 42160,
+        "Option D": 68000,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Compound Interest Questions & Answers",
+        "Question": "The simple interest on certain sum for 2 years is Rs.160 and compound interest at same rate of interest is Rs.168. What is the sum & Rate of interest?",
+        "Option A": "1000,11%",
+        "Option B": "800,10%",
+        "Option C": "1600,8%",
+        "Option D": "1200,12.5%",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Compound Interest Questions & Answers",
+        "Question": "A person lent out a certain sum on simple interest and the same sum on compound interest at a certain rate of interest per annum. He noticed that the ratio between the difference of compound interest and simple interest of 3 years and that of 2 years is 25 : 8. The rate of interest per annum is",
+        "Option A": "11.50%",
+        "Option B": "10%",
+        "Option C": "8%",
+        "Option D": "12.50%",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Compound Interest Questions & Answers",
+        "Question": "My cousin lends me Rs.10 lakhs for studying in United States at 8% compound interest per annum, during the course period of 2 years and at 12% per annum after completion of my studies. If I return 50% of the amount which is to be returned on completion of studies, and the remaining after one year, how much interest must I pay him during the whole period in Lakhs?",
+        "Option A": "2 lakhs",
+        "Option B": "2.56 lakhs",
+        "Option C": "2.36 lakhs",
+        "Option D": "3 lakhs",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Compound Interest Questions & Answers",
+        "Question": "A man deposited Rs.40,000 in a bank at 10% per annum interest compounded yearly. Now after two years, the government comes out with a law that any annual interest greater than Rs.2500 will be taxed at the end of the year. Also, the rate of interest is decreased to 8%. How much should the man withdraw now so as, not to pay tax at the end of the year?",
+        "Option A": 25000,
+        "Option B": 24000,
+        "Option C": 18175,
+        "Option D": 17150,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Compound Interest Questions & Answers",
+        "Question": "A bank pays interest @ 8 percent p.a. on a deposit for half a quarter as well as on a deposit for one quarter. A makes a deposit of Rs.25 lakhs for a quarter. B makes a deposit of Rs.25 lakhs for half a quarter, and after maturity reinvests the entire amount for half a quarter. What is B’s gain over A?",
+        "Option A": 200,
+        "Option B": 240,
+        "Option C": 250,
+        "Option D": 175,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Compound Interest Questions & Answers",
+        "Question": "A certain sum becomes 8 times itself in 3 years under compound interest, interest being compounded annually. How many years would the sum takes to become 64 times itself?",
+        "Option A": "6 years",
+        "Option B": "4 years",
+        "Option C": "8 years",
+        "Option D": "5 years",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Compound Interest Questions & Answers",
+        "Question": "The least number of complete years in which a sum of money put out at 20% compound interest will be more than doubled is:",
+        "Option A": 3,
+        "Option B": 4,
+        "Option C": 5,
+        "Option D": 6,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "There are 4 different types of chocolates and 5 different types of ice creams, in how many ways can a person buy a chocolate and an ice cream ?",
+        "Option A": 9,
+        "Option B": 20,
+        "Option C": 15,
+        "Option D": 45,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "There are 4 different types of chocolates and 5 different types of ice creams, in how many ways can a person buy a chocolate or an ice cream ?",
+        "Option A": 9,
+        "Option B": 20,
+        "Option C": 15,
+        "Option D": 45,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "There are 4 different types of chocolates, 3 different toys and 5 different types of ice creams, in how many ways can a person buy a chocolate or an ice cream and a toy ?",
+        "Option A": 12,
+        "Option B": 60,
+        "Option C": 35,
+        "Option D": 45,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "How many ways can the letters of the word “ORANGE” be arranged ?",
+        "Option A": 120,
+        "Option B": 240,
+        "Option C": 60,
+        "Option D": 720,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "How many ways can the letters of the word “MISSISSIPPI” be arranged ?",
+        "Option A": "11!",
+        "Option B": "11!/(4!x4!x2!)",
+        "Option C": "10!/8!",
+        "Option D": "10!/(4!x4!)",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "How many ways can the letters of the word “ORANGE” be arranged , in such a way that O and A are always together ?",
+        "Option A": 120,
+        "Option B": 240,
+        "Option C": 360,
+        "Option D": 480,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "How many ways can the letters of the word “ORANGE” be arranged , in such a way that O and A are never together ?",
+        "Option A": 240,
+        "Option B": 360,
+        "Option C": 480,
+        "Option D": 600,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "How many ways can the letters of the word “ORANGE” be arranged , in such a way that all the vowels are together ?",
+        "Option A": 48,
+        "Option B": 72,
+        "Option C": 96,
+        "Option D": 144,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "What is the rank of a word TIGER, if all possible permutations of the word TIGER are arranged in dictionary order.",
+        "Option A": 99,
+        "Option B": 111,
+        "Option C": 110,
+        "Option D": 109,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "In how many ways can 6 people be seated at a round table?",
+        "Option A": 99,
+        "Option B": 120,
+        "Option C": 116,
+        "Option D": 109,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "In how many ways can 3 men and 3 women be seated at around table such that no two men sit together?",
+        "Option A": 36,
+        "Option B": 30,
+        "Option C": 24,
+        "Option D": 42,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "8 directors, the vice chairman and the chairman are to be seated around a circular table. If the chairman should sit between a director and the vice chairman, in how many ways can they be seated?",
+        "Option A": "8!",
+        "Option B": "7! × 2",
+        "Option C": "9! × 2",
+        "Option D": "8! × 2",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "Find the number of ways in which 4 stones, chosen from 7 different stones can be placed on a necklace .",
+        "Option A": 210,
+        "Option B": 1050,
+        "Option C": 105,
+        "Option D": 420,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "A four digit number is formed using digits 1, 3, 5, and 7 without repeating any one of them. What is the sum of all such possible numbers?",
+        "Option A": 106656,
+        "Option B": 666660,
+        "Option C": 106666,
+        "Option D": 105556,
+        "Option E": null,
+        "Answer": "E"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "In how many ways 8 ice creams can be selected from 15 non-identical ice creams?",
+        "Option A": "8 C 15",
+        "Option B": "15 C 7",
+        "Option C": "14!",
+        "Option D": 1,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "In a group of 6 boys and 4 girls, four children are to be selected. In how many different ways can they be selected such that at least one boy should be there?",
+        "Option A": 159,
+        "Option B": 209,
+        "Option C": 201,
+        "Option D": 212,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "From a group of 7 men and 6 women, five persons are to be selected to form a committee so that at least 3 men are there in the committee. In how many ways can it be done?",
+        "Option A": 624,
+        "Option B": 702,
+        "Option C": 756,
+        "Option D": 812,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "How many 3 digit number can be formed with the digits 5, 6, 2, 3, 7 and 9 which are divisible by 5 and none of its digit is repeated?",
+        "Option A": 12,
+        "Option B": 16,
+        "Option C": 20,
+        "Option D": "None of these",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "There are 4 bananas, 7 apples and 6 mangoes in a fruit basket. In how many ways can a person make a selection of fruits from the basket. (Assume all the fruits are similar)",
+        "Option A": 269,
+        "Option B": 280,
+        "Option C": 279,
+        "Option D": 256,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "There are 4 bananas, 7 apples and 6 mangoes in a fruit basket. In how many ways can a person make a selection of fruits from the basket , in such a way that at least one fruit from each variety is selected . (Assume all the fruits are similar)",
+        "Option A": 269,
+        "Option B": 280,
+        "Option C": 279,
+        "Option D": 168,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "There are 4 bananas, 7 apples and 6 mangoes in a fruit basket. In how many ways can a person make a selection of one or more fruits from the basket. (Assume all the fruits are non-similar)",
+        "Option A": "(2^17) - 1",
+        "Option B": "(2^17)",
+        "Option C": 279,
+        "Option D": 168,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "There are 15 points in a plane out of which 6 are collinear. Find the number of lines that can be formed from 15 points.",
+        "Option A": 105,
+        "Option B": 90,
+        "Option C": 91,
+        "Option D": 95,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "Find the total number of distinct vehicle numbers that can be formed using two letters followed by two numbers. Letters need to be different.",
+        "Option A": "4500 ways",
+        "Option B": "54000 ways",
+        "Option C": "65000 ways",
+        "Option D": "12000 ways",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "How many integers, greater 999 but not greater than 4000, can be formed with the digit 0, 1, 2, 3 and 4, if repletion of digits is allowed?",
+        "Option A": 376,
+        "Option B": 360,
+        "Option C": 420,
+        "Option D": "data inadequate",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "In IPL, there are 153 matches played, every two teams played one match with each other. The number of teams participating in the championship is:",
+        "Option A": 18,
+        "Option B": 16,
+        "Option C": 20,
+        "Option D": 19,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "Calculate the number of diagonals which can be drawn in a hexagon?",
+        "Option A": 15,
+        "Option B": 9,
+        "Option C": 7,
+        "Option D": 12,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "Using the digits 1, 2, 3, 4, 5, 6, 7, a number of 5 different digits is formed. Find how many of these are exactly divisible by 4?",
+        "Option A": 3120,
+        "Option B": 1560,
+        "Option C": 600,
+        "Option D": 390,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "What is the number of rectangles in an 8x8 chessboard ?",
+        "Option A": 576,
+        "Option B": 784,
+        "Option C": 1024,
+        "Option D": 1296,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "In how many ways can 4 letters be posted in 6 letter boxes?",
+        "Option A": 256,
+        "Option B": 64,
+        "Option C": 216,
+        "Option D": 1296,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "In a locality, there are ten houses in a row. On a particular night a thief planned to steal from three houses of the locality. In how many ways can he plan such that no two of them are next to each other?",
+        "Option A": 23,
+        "Option B": 24,
+        "Option C": 64,
+        "Option D": 56,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "How many distinct terms will be there in expansion of (a+b+c)^20 ?",
+        "Option A": 190,
+        "Option B": 210,
+        "Option C": 231,
+        "Option D": 253,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "How many times will the digit 3 appear when we write numbers from 1 to 1000 ?",
+        "Option A": 200,
+        "Option B": 300,
+        "Option C": 299,
+        "Option D": 301,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "Christine, on her morning run, wants to get from point A to point B.\n(a)How many routes with no backtracking can she take?\n(b) How many of those routes go through point D? [Image URLs: https://static.placementpreparation.io/concepts/permutation-and-combination-question-34.png]",
+        "Option A": "(5 + 7)!/ 5! · 7!,[(3 + 4)! / (3! · 4!)] · [(2 + 3)! (2! · 3!)]",
+        "Option B": "(5 - 7)!/ 5! ·+7!,[(3 + 4)! / (3! · 4!)]·[(2 + 3)! (2! · 3!)]",
+        "Option C": "(5 + 7)!/ 5! · 7!,[(3 + 4)! / (3! +4!)]·[(2 - 3)! (2! · 3!)]",
+        "Option D": "(5 + 7)!/ 5! · 7!,[(3 + 4)! / (3! +4!)]·[(2 + 3)! (2! +3!)]",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "In how many ways 20 apples can be distributed among 3 people ?",
+        "Option A": 190,
+        "Option B": 210,
+        "Option C": 231,
+        "Option D": 253,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Permutations and Combinations Questions & Answers",
+        "Question": "There are 10 points in a plane, 4 of which are collinear. Find the number of triangles which can be formed?",
+        "Option A": 100,
+        "Option B": 120,
+        "Option C": 116,
+        "Option D": 96,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Probability Questions & Answers",
+        "Question": "If two dice are thrown simultaneously, then find the probability that the sum of numbers appeared on the dice is 6 or 7?",
+        "Option A": "5/6",
+        "Option B": "7/36",
+        "Option C": "5/36",
+        "Option D": "11/36",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Probability Questions & Answers",
+        "Question": "Out of 17 applicants, there are 8 boys and 9 girls. Two persons are to be selected for the job. Find the probability that at least one of the selected persons will be a girl.",
+        "Option A": "25/34",
+        "Option B": "19/34",
+        "Option C": "21/34",
+        "Option D": "27/34",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Probability Questions & Answers",
+        "Question": "In a race where 12 cars are running, the chance that car X will win is 1/6, that Y will win is 1/10 and that Z will win is 1/8. Assuming that a dead heat is impossible, find the chance that one of them will win.",
+        "Option A": "1/140",
+        "Option B": "1/180",
+        "Option C": "27/410",
+        "Option D": "47/120",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Probability Questions & Answers",
+        "Question": "The probability that Alex will solve a problem is 1/5. What is the probability that he solves at least one problem out of 4 problems?",
+        "Option A": "64/125",
+        "Option B": "256/625",
+        "Option C": "64/625",
+        "Option D": "369/625",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Probability Questions & Answers",
+        "Question": "In his room, Dumbo has three trousers. One of them is black, the second is blue, and the third is brown. In his room, he also has four shirts. One of them is black and the other 3 are white. He opens his room in the dark and picks out one shirt and one trouser pair without examining the colour. What is the likelihood that neither the shirt nor the trouser is black?",
+        "Option A": "1/12",
+        "Option B": "1/6",
+        "Option C": "1/2",
+        "Option D": "1/4",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Probability Questions & Answers",
+        "Question": "Two dice are thrown together. What is the probability that the sum of the number on the two faces is divisible by 4?",
+        "Option A": "2/9",
+        "Option B": "1/9",
+        "Option C": "1/4",
+        "Option D": "1/3",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Probability Questions & Answers",
+        "Question": "Two dice are thrown together. What is the probability that the sum of the number is even ?",
+        "Option A": "1/2",
+        "Option B": "1/4",
+        "Option C": 1,
+        "Option D": "1/6",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Probability Questions & Answers",
+        "Question": "Two dice are thrown together. What is the probability that the Product of the number is odd ?",
+        "Option A": "1/2",
+        "Option B": "1/4",
+        "Option C": 1,
+        "Option D": "1/6",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Probability Questions & Answers",
+        "Question": "A bag contains 5 red and 3 green balls. Another bag contains 4 red and 6 green balls. If one ball is drawn from each bag. Find the probability that one ball is red and one is green.",
+        "Option A": "19/20",
+        "Option B": "17/20",
+        "Option C": "21/40",
+        "Option D": "8/10",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Probability Questions & Answers",
+        "Question": "In a charity show, tickets numbered consecutively from 101 through 350 are placed in a box. What is the probability that a ticket selected at random (blindly) will have a number with a hundredth digit of 2?",
+        "Option A": 0.285,
+        "Option B": "2/5",
+        "Option C": "99/225",
+        "Option D": "47/205",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Probability Questions & Answers",
+        "Question": "A bag contains 21 toys numbered 1 to 21. A toy is drawn and then another toy is drawn without replacement. Find the probability that both toys will show even numbers.",
+        "Option A": "5/21",
+        "Option B": "3/14",
+        "Option C": "6/22",
+        "Option D": "4/21",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Probability Questions & Answers",
+        "Question": "When 3 fair coins are tossed together, what is the probability of getting at least 2 tails?",
+        "Option A": "1/2",
+        "Option B": "1/3",
+        "Option C": "1/4",
+        "Option D": "3/4",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Probability Questions & Answers",
+        "Question": "Eleven books, consisting of five Engineering books, four Mathematics books and two Physics books, are arranged in a shelf at random. What is the probability that the books of each kind are all together?",
+        "Option A": "5/1155",
+        "Option B": "2/1155",
+        "Option C": "3/1155",
+        "Option D": "1/1155",
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Probability Questions & Answers",
+        "Question": "In a race, the odds in favour of cars P, Q, R, S are 1 : 3, 1 : 4, 1 : 5 and 1 : 6 respectively. Find the probability that one of them wins the race.",
+        "Option A": "9/17",
+        "Option B": "114/121",
+        "Option C": "319/420",
+        "Option D": "27/111",
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Probability Questions & Answers",
+        "Question": "A fair coin is tossed repeatedly. If head appears on the first four tosses, then the probability of appearance of tail on the fifth toss is.",
+        "Option A": "1/7",
+        "Option B": "1/2",
+        "Option C": "3/7",
+        "Option D": "2/3",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Probability Questions & Answers",
+        "Question": "Tickets numbered 1 to 30 are mixed up and then a ticket is drawn at random. What is the probability that the ticket drawn has a number which is a multiple of 3 or 5?",
+        "Option A": "2/15",
+        "Option B": "7/15",
+        "Option C": "10/30",
+        "Option D": "7/30",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Probability Questions & Answers",
+        "Question": "Three students appear at an examination of Mathematics. The probability of their success are 1/3, 1/4, 1/5 respectively. Find the probability of success of at least two.",
+        "Option A": "1/6",
+        "Option B": "2/5",
+        "Option C": "3/4",
+        "Option D": "3/5",
+        "Option E": null,
+        "Answer": "E"
+    },
+    {
+        "Topic": "Probability Questions & Answers",
+        "Question": "Seven white balls and three black balls are randomly placed in a row. Find the probability that no two black balls are placed adjacently to each other.",
+        "Option A": "7/15",
+        "Option B": "2/15",
+        "Option C": "3/7",
+        "Option D": "2/7",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Probability Questions & Answers",
+        "Question": "A card is drawn at random from a pack of 52 cards. What is the probability that it is neither a spade nor a jack?",
+        "Option A": "9/13",
+        "Option B": "4/13",
+        "Option C": "2/13",
+        "Option D": "6/13",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Probability Questions & Answers",
+        "Question": "Two brothers Ram and Ravi appeared for an exam. The probability of selection of Ram is 2/7 and that of Ravi is 1/5. Find the probability that both of them are selected.",
+        "Option A": "2/35",
+        "Option B": "2/3",
+        "Option C": "7/35",
+        "Option D": "5/7",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Probability Questions & Answers",
+        "Question": "A speaks the truth in 75% of cases and B in 80% of cases. In what percent of cases are they likely to contradict each other in narrating the same event?",
+        "Option A": 0.225,
+        "Option B": 0.37,
+        "Option C": 0.32,
+        "Option D": 0.35,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Probability Questions & Answers",
+        "Question": "A family has 3 babies. What is the probability that atleast one of the babies is girl baby ?",
+        "Option A": "7/8",
+        "Option B": "8/7",
+        "Option C": "7/6",
+        "Option D": "6/7",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Probability Questions & Answers",
+        "Question": "Find the probability of getting a numbered card when a card is drawn from the pack of 52 cards.",
+        "Option A": "15/9",
+        "Option B": "9/13",
+        "Option C": "13/9",
+        "Option D": "9/15",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Probability Questions & Answers",
+        "Question": "There are 5 green 7 red balls. Two balls are selected one by one without replacement. Find the probability that first is green and second is red.",
+        "Option A": "35/136",
+        "Option B": "35/132",
+        "Option C": "35/142",
+        "Option D": "35/149",
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Probability Questions & Answers",
+        "Question": "Two cards are drawn from the pack of 52 cards. Find the probability that both are diamonds or both are kings.",
+        "Option A": "(13C2 + 4C2 ) / 52C2",
+        "Option B": "(13C2 + 52C2) / 4C2",
+        "Option C": "(4C2+52C2) / 13C2",
+        "Option D": "None of these",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Probability Questions & Answers",
+        "Question": "Three dice are rolled together. What is the probability as getting at least one '4'?",
+        "Option A": "91/216",
+        "Option B": "91/209",
+        "Option C": "91/219",
+        "Option D": "91/222",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Probability Questions & Answers",
+        "Question": "A problem is given to three persons P, Q, R whose respective chances of solving it are 2/7, 4/7, 4/9 respectively. What is the probability that the problem is solved?",
+        "Option A": "122/147",
+        "Option B": "122/149",
+        "Option C": "122/142",
+        "Option D": "122/141",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Probability Questions & Answers",
+        "Question": "Find the probability that a leap year has 52 Sundays.",
+        "Option A": "5/7",
+        "Option B": "7/5",
+        "Option C": "5/9",
+        "Option D": "9/5",
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Geometric Progression Questions & Answers",
+        "Question": "If the first term of a G.P. is 20 and the common ratio is 4. Find the 5th term.",
+        "Option A": 5120,
+        "Option B": 5220,
+        "Option C": 5020,
+        "Option D": 5320,
+        "Option E": null,
+        "Answer": "A"
+    },
+    {
+        "Topic": "Geometric Progression Questions & Answers",
+        "Question": "The sum of the first three terms of a G.P. is 26 and their product is 216. Find the common ratio.",
+        "Option A": 2,
+        "Option B": 3,
+        "Option C": 4,
+        "Option D": 6,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Geometric Progression Questions & Answers",
+        "Question": "The number 2048 is which term in the following Geometric sequence 2, 8, 32, 128, . . . . . . . . .",
+        "Option A": 7,
+        "Option B": 8,
+        "Option C": 9,
+        "Option D": 6,
+        "Option E": null,
+        "Answer": "D"
+    },
+    {
+        "Topic": "Geometric Progression Questions & Answers",
+        "Question": "If the nth term of a GP is 128 and both the first term a and the common ratio r are 2. Find the number of terms in the GP.",
+        "Option A": 5,
+        "Option B": 7,
+        "Option C": 4,
+        "Option D": 6,
+        "Option E": null,
+        "Answer": "B"
+    },
+    {
+        "Topic": "Geometric Progression Questions & Answers",
+        "Question": "What is the sum of infinite geometric series with first term equal to 1 and common ratio is ½?",
+        "Option A": 3,
+        "Option B": 4,
+        "Option C": 2,
+        "Option D": 1,
+        "Option E": null,
+        "Answer": "C"
+    },
+    {
+        "Topic": "Geometric Progression Questions & Answers",
+        "Question": "A ball is dropped from a height of 128 m. It bounces back rising to a height of 64 m. Each time it further touches the floor, it rises to the height of half the height it fell from before the previous bounce. Find the total distance traveled by the ball.",
+        "Option A": 384,
+        "Option B": 400,
+        "Option C": 420,
+        "Option D": 424,
+        "Option E": null,
+        "Answer": "A"
+    }
+]

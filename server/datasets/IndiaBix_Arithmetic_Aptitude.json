@@ -6586,7 +6586,7 @@
   },
   {
     "Topic": "Decimal Fraction",
-    "Question": "The value of 0.1 x 0.1 x 0.1 + 0.02 x 0.02 x 0.02 is:\n0.2 x 0.2 x 0.2 + 0.04 x 0.04 x 0.04",
+    "Question": "The value of 0.1 x 0.1 x 0.1 + 0.02 x 0.02 x 0.02 \n0.2 x 0.2 x 0.2 + 0.04 x 0.04 x 0.04 is:",
     "Option A": "0.0125",
     "Option B": "0.125",
     "Option C": "0.25",
