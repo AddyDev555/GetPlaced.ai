@@ -1,6 +1,6 @@
 import json
 
-file_path = "datasets\IndiaBix_Arithmetic_Aptitude.json"  # Update path if needed
+file_path = "datasets/IndiaBix_Arithmetic_Aptitude.json"  # Update path if needed
 
 with open(file_path, "r", encoding="utf-8") as f:
     questions = json.load(f)
@@ -15,7 +15,6 @@ for q in questions:
     else:
         unsolved.append(q["Question"])
 
-print("📊 Summary:")
 print(f"✅ Solved: {len(solved)}")
 print(f"❌ Unsolved or errored: {len(unsolved)}")
 print(f"📚 Total: {len(questions)}\n")

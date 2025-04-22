@@ -1,53 +1,44 @@
 import json
-import os
 import google.generativeai as genai
 
-# Configure Gemini Flash model
+# 🔐 Configure your Gemini API key
 genai.configure(api_key="AIzaSyCk03OuBh1W_-IKvMfWD54UByiXAmYexYw")
-model = genai.GenerativeModel("models/gemini-1.5-flash-latest")
 
-# Load questions
-file_path = "datasets\IndiaBix_Arithmetic_Aptitude.json"
-with open(file_path, "r", encoding="utf-8") as f:
-    questions = json.load(f)
+model = genai.GenerativeModel("gemini-1.5-flash")
 
-# Loop through questions
-for idx, q in enumerate(questions):
-    # Skip if solution already exists and is not empty or an error
-    if q.get("Solution") and q["Solution"] != "Error generating solution.":
-        continue
+def get_gemini_solution(question_data):
+    question = question_data["Question"]
+    options = [question_data[key] for key in ["Option A", "Option B", "Option C", "Option D", "Option E"] if question_data.get(key)]
+    answer = question_data["Answer"].upper()
 
-    question_text = q.get("Question", "")
-    options = "\n".join([
-        f"A. {q.get('Option A', '')}",
-        f"B. {q.get('Option B', '')}",
-        f"C. {q.get('Option C', '')}",
-        f"D. {q.get('Option D', '')}",
-        f"E. {q.get('Option E', '')}" if q.get("Option E") else ""
-    ])
+    prompt = (
+        f"You're an aptitude tutor. Provide me the solution of the following question:\n\n"
+        f"Question: {question}\n"
+        f"Options:\n"
+    )
+    for idx, opt in zip(["A", "B", "C", "D", "E"], options):
+        prompt += f"{idx}. {opt}\n"
+    prompt += f"\nCorrect Answer: Option {answer}\n"
 
-    prompt = f"""Solve the following aptitude question and explain briefly:
+    response = model.generate_content(prompt)
+    return response.text.strip()
 
-{question_text}
-{options}
+def solve_and_save_realtime_with_gemini(json_file_path):
+    with open(json_file_path, "r") as file:
+        questions = json.load(file)
 
-Give the correct answer and explanation in one paragraph."""
+    for i, q in enumerate(questions):
+        if "Solution" not in q or not q["Solution"]:  # Avoid redoing
+            print(f"Solving Question {i+1} with Gemini...")
+            try:
+                solution = get_gemini_solution(q)
+                questions[i]["Solution"] = solution
+                # Save immediately
+                with open(json_file_path, "w") as file:
+                    json.dump(questions, file, indent=4)
+                print("✔️ Saved.\n")
+            except Exception as e:
+                print(f"❌ Error: {e}")
 
-    try:
-        response = model.generate_content(prompt)
-        solution = response.text.strip()
-        questions[idx]["Solution"] = solution
-        print(f"✅ Solved: {question_text[:50]}...")
-
-        # Save immediately after solution is added
-        with open(file_path, "w", encoding="utf-8") as f:
-            json.dump(questions, f, indent=4)
-
-    except Exception as e:
-        print(f"❌ Error with question: {question_text[:50]}... -> {e}")
-        questions[idx]["Solution"] = "Error generating solution."
-
-print("✅ Completed all questions.")
-
-
-
+# ✅ Run with your file path
+solve_and_save_realtime_with_gemini("datasets/IndiaBix_Arithmetic_Aptitude.json")

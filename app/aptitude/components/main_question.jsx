@@ -30,6 +30,13 @@ export default function MainQuestion({ aptData, topic, setTopic }) {
         }
     }
 
+    const formatBoldText = (text) => {
+        const parts = text.split(/\*\*(.*?)\*\*/g);
+        return parts.map((part, index) =>
+            index % 2 === 1 ? <strong key={index}>{part}</strong> : part
+        );
+    };
+
     function renderFormattedFraction(text) {
         if (!text.includes('\n')) return text;
 
@@ -118,8 +125,8 @@ export default function MainQuestion({ aptData, topic, setTopic }) {
                             {isSolution[index] &&
                                 <div className='text-sm px-6.5 text-justify'>
                                     <p className='mt-2'><span className='text-green-600 font-semibold'>Correct Answer:</span> <span className='font-semibold'>{item.Answer?.toUpperCase()}</span></p>
-                                    {/* <p className='text-green-600 font-semibold'>Solution</p>
-                                    {item.Solution} */}
+                                    <p className='text-green-600 font-semibold'>Solution</p>
+                                    {formatBoldText(item.Solution)}
                                 </div>
                             }
                         </div>
