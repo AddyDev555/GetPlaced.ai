@@ -4,7 +4,6 @@ import { useState, ReactNode } from "react";
 import Navbar from "../components/navbar";
 import "./globals.css";
 import { Toaster } from "react-hot-toast";
-import Head from "next/head";
 import { usePathname } from "next/navigation";
 
 interface RootLayoutProps {
@@ -19,9 +18,9 @@ export default function RootLayout({ children }: RootLayoutProps) {
 
   return (
     <html lang="en">
-      <Head>
+      <head>
         <link rel="icon" href="/mainLogo.png" type="image/png" />
-      </Head>
+      </head>
       <body className={darkMode ? "dark overflow-y-hidden" : "overflow-y-hidden"}>
         {shouldShowNavbar && (
           <div className="shadow-[0_4px_4px_-2px_rgba(0,0,0,0.1)]">
