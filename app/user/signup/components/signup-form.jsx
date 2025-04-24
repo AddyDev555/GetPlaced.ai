@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 import { Roboto } from 'next/font/google';
-import Input from "@/components/utils/Input";
+import Input from "@/components/utils/input";
 import Button from "@/components/utils/button";
 import Link from 'next/link';
 
