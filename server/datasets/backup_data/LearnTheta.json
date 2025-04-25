@@ -1,0 +1,2252 @@
+[
+  {
+    "Option A": "O25",
+    "Option B": "M25",
+    "Option C": "N25",
+    "Option D": "P25",
+    "Answer": "P25",
+    "Solution": "The alphabetical sequence progresses as A, C, F, J, … A (+2) → C (+3) → F (+4) → J (+5). The numerical sequence is 1, 4, 9, 16 (perfect squares of consecutive integers). Next alphabet: J (+6) = P. Next square: 16 + 2 2 = 25",
+    "Question": "Q. 1 A curious pattern of letters and numbers emerges in the following series. Identify the missing term? A1, C4, F9, J16, ?",
+    "Topic": "AlphaNumeric Series"
+  },
+  {
+    "Option A": "32M",
+    "Option B": "32P",
+    "Option C": "32O",
+    "Option D": "32N",
+    "Answer": "32P",
+    "Solution": "The numbers double each time: 2,4,8,16,32 The letters follow the pattern B (+2) → D (+3) → G (+4) → K (+5). Next letter: K (+5) = P.",
+    "Question": "Q. 2 A coded sequence of letters and numbers unfolds below. Find the next term in the series: 2B, 4D, 8G, 16K, ?",
+    "Topic": "AlphaNumeric Series"
+  },
+  {
+    "Option A": "K25K",
+    "Option B": "K33K",
+    "Option C": "J33K",
+    "Option D": "J25L",
+    "Answer": "K33K",
+    "Solution": "Letter sequence: A (+1) → B (+2) → D (+3) → G (+4). Next: G (+5) = K. Number sequence: 3,5,9,17 (doubling the difference: +2,+4,+8 ). Next: 17+16=33 Last letter sequence: C (+2) → E (+2) → G (+2) → I (+2). Next: I (+2) = K.",
+    "Question": "Q. 3 Observe the following combination of letters and numbers. What comes next in the sequence? A3C, B5E, D9G, G17I, ?",
+    "Topic": "AlphaNumeric Series"
+  },
+  {
+    "Option A": "U50",
+    "Option B": "V50",
+    "Option C": "V60",
+    "Option D": "U60",
+    "Answer": "V50",
+    "Solution": "Letter sequence: Z (-1) → Y (-1) → X (-1) → W (-1). Next: W (-1) = V. Number sequence: 10,20,30,40 (increasing by 10). Next: 40+10=50",
+    "Question": "Q. 4 Which term completes the series? Z10, Y20, X30, W40, ?",
+    "Topic": "AlphaNumeric Series"
+  },
+  {
+    "Option A": "27P",
+    "Option B": "31P",
+    "Option C": "31Q",
+    "Option D": "31N",
+    "Answer": "31P",
+    "Solution": "Number sequence: 3,7,13,21 (differences are +4,+6,+8). Next: 21+10=31 Letter sequence: X (-2) → V (-2) → T (-2) → R (-2). Next: R (-2) = P.",
+    "Question": "Q. 5 A unique sequence of letters and numbers is presented. Find the missing term: 3X, 7V, 13T, 21R, ?",
+    "Topic": "AlphaNumeric Series"
+  },
+  {
+    "Option A": "X32",
+    "Option B": "T30",
+    "Option C": "W36",
+    "Option D": "U34",
+    "Answer": "X32",
+    "Solution": "Letter sequence: M (+1) → N (+2) → P (+3) → S (+4). Next: S (+5) = X. Number sequence: 12,14,18,24 (differences are +2,+4,+6). Next: 24+8=32",
+    "Question": "Q. 6 What comes next in the series? M12, N14, P18, S24, ?",
+    "Topic": "AlphaNumeric Series"
+  },
+  {
+    "Option A": "O25N",
+    "Option B": "P25N",
+    "Option C": "O25M",
+    "Option D": "P25M",
+    "Answer": "P25N",
+    "Solution": "Letter sequence 1: A (+2) → C (+3) → F (+4) → J (+5). Next: J (+6) = P. Number sequence: 1,4,9,16 (perfect squares). Next: 16 + 2 2 = 25  Letter sequence 2: B (+3) → E (+3) → H (+3) → K (+3). Next: K (+3) = N.",
+    "Question": "Q. 7 A combination of letters and numbers appears in this sequence. Identify the next term: A1B, C4E, F9H, J16K, ?",
+    "Topic": "AlphaNumeric Series"
+  },
+  {
+    "Option A": "30T",
+    "Option B": "30U",
+    "Option C": "32S",
+    "Option D": "30S",
+    "Answer": "30U",
+    "Solution": "Number sequence: 2,6,12,20 (differences are +4,+6,+8). Next: 20+10=30 Letter sequence: C (+3) → F (+4) → J (+5) → O (+6). Next: O (+7) = U.",
+    "Question": "Q. 8 Which term completes this pattern? 2C, 6F, 12J, 20O, ?",
+    "Topic": "AlphaNumeric Series"
+  },
+  {
+    "Option A": "O30R",
+    "Option B": "O30S",
+    "Option C": "P30R",
+    "Option D": "P32S",
+    "Answer": "P30R",
+    "Solution": "Letter sequence 1: A (+2) → C (+3) → F (+4) → J (+5). Next: J (+6) = P. Number sequence: 2,6,12,20 (differences +4,+6,+8). Next: 20+10=30 Letter sequence 2: Z (-2) → X (-2) → V (-2) → T (-2). Next: T (-2) = R.",
+    "Question": "Q. 9 A unique sequence of letters and numbers is presented. Find the missing term: A2Z, C6X, F12V, J20T, ?",
+    "Topic": "AlphaNumeric Series"
+  },
+  {
+    "Option A": "25P",
+    "Option B": "25M",
+    "Option C": "26N",
+    "Option D": "24M",
+    "Answer": "25P",
+    "Solution": "Number sequence: 1,4,9,16 (perfect squares). Next: 16 + 2 2 = 25  Letter sequence: A (+2) → C (+3) → F (+4) → J (+5). Next: J (+6) = P.",
+    "Question": "Q. 10 Which term fits the series? 1A, 4C, 9F, 16J, ?",
+    "Topic": "AlphaNumeric Series"
+  },
+  {
+    "Option A": "KR",
+    "Option B": "LR",
+    "Option C": "MR",
+    "Option D": "KS",
+    "Answer": "KR",
+    "Solution": "Please observe the first character: Same alphabet is repeating Second character: Alphabet is changing in one direction",
+    "Question": "Q. 11 Find the next term: KN, KO, KP, KQ, ?",
+    "Topic": "AlphaNumeric Series"
+  },
+  {
+    "Option A": "JGW",
+    "Option B": "KGW",
+    "Option C": "JGX",
+    "Option D": "MGW",
+    "Answer": "JGW",
+    "Solution": "Please observe the first character: Same alphabet is repeating Second character: Alphabet is shifting by 1 place Third character: Alphabet is increasing by 2 places",
+    "Question": "Q. 12 Find the 5th term: JKO, JJQ, JIS, JHU, ?",
+    "Topic": "AlphaNumeric Series"
+  },
+  {
+    "Option A": "GJW",
+    "Option B": "HJW",
+    "Option C": "GJX",
+    "Option D": "JJW",
+    "Answer": "GJW",
+    "Solution": "Please observe the first character: Alphabet is changing in one direction Second character: Alphabet is shifting by 2 places Third character: Alphabet is increasing sequentially with differences of 1, 2, 3, etc.",
+    "Question": "Q. 13 Find the next term: KBM, JDN, IFP, HHS, ?",
+    "Topic": "AlphaNumeric Series"
+  },
+  {
+    "Option A": "LGVB",
+    "Option B": "MGVB",
+    "Option C": "LHVB",
+    "Option D": "OGVB",
+    "Answer": "LGVB",
+    "Solution": "Please observe the first character: Alphabet is shifting by 2 places Second character: Alphabet is changing in one direction Third character: Alphabet is increasing sequentially with differences of 1, 2, 3, etc.Fourth character: Alphabet A, B and C are repeating in a cycle",
+    "Question": "Q. 14 Can you guess the following term: DCLA, FDMB, HEOC, JFRA, ?",
+    "Topic": "AlphaNumeric Series"
+  },
+  {
+    "Option A": "TBUF",
+    "Option B": "UBUF",
+    "Option C": "TCUF",
+    "Option D": "WBUF",
+    "Answer": "TBUF",
+    "Solution": "Please observe the first character: Alphabet is shifting by 2 places Second character: Alphabet A, B and C are repeating in a cycle Third character: Series of vowelsFourth character: Alphabet positions have been swapped at every alternate step",
+    "Question": "Q. 15 Find out the next term: LAAB, NBEA, PCID, RAOC, ?",
+    "Topic": "AlphaNumeric Series"
+  },
+  {
+    "Option A": "PMV5",
+    "Option B": "QMV5",
+    "Option C": "PNV5",
+    "Option D": "SMV5",
+    "Answer": "PMV5",
+    "Solution": "Please observe the first character: Same alphabet is repeating Second character: Alternating upper and lower case letters Third character: Alphabet is shifting by 2 placesFourth character: Number series in single direction",
+    "Question": "Q. 16 Find the 5th term: PIN1, PjP2, PKR3, PlT4, ?",
+    "Topic": "AlphaNumeric Series"
+  },
+  {
+    "Option A": "JUGI",
+    "Option B": "KUGI",
+    "Option C": "JVGI",
+    "Option D": "MUGI",
+    "Answer": "JUGI",
+    "Solution": "Please observe the first character: Alternating upper and lower case letters Second character: Series of vowels Third character: Series of consonantsFourth character: Alternating series of vowels and consonants, each vowel being followed by next consonant and each consonant being followed by next vowel in alphabetical order: ABEFIJOPUV",
+    "Question": "Q. 17 Find the 5th term: FABA, gECB, HIDE, iOFF, ?",
+    "Topic": "AlphaNumeric Series"
+  },
+  {
+    "Option A": "OFG7",
+    "Option B": "PFG7",
+    "Option C": "OGG7",
+    "Option D": "RFG7",
+    "Answer": "OFG7",
+    "Solution": "Please observe the first character: Alphabet is increasing sequentially with differences of 1, 2, 3, etc. Second character: Alphabet positions have been swapped at every alternate step Third character: Series of consonantsFourth character: Number series is increasing by 4 and decreasing by 1 alternately",
+    "Question": "Q. 18 Find the 5th term: EBB1, FAC5, HDD4, KCF8, ?",
+    "Topic": "AlphaNumeric Series"
+  },
+  {
+    "Option A": "VFCN",
+    "Option B": "WFCN",
+    "Option C": "VGCN",
+    "Option D": "YFCN",
+    "Answer": "VFCN",
+    "Solution": "Please observe the first character: Alphabet series in reverse order starting from Z Second character: Alphabet positions have been swapped at every alternate step Third character: Mirror image series: A, Z, B, Y, C, X,….Fourth character: Alphabet is increasing sequentially with differences of 1, 2, 3, etc.",
+    "Question": "Q. 19 Find the 5th term: ZBAD, YAZE, XDBG, WCYJ, ?",
+    "Topic": "AlphaNumeric Series"
+  },
+  {
+    "Option A": "Mother",
+    "Option B": "Aunt",
+    "Option C": "Sister",
+    "Option D": "Cousin",
+    "Answer": "Sister",
+    "Solution": "Ravi’s grandfather’s only son is Ravi’s father. Therefore, the woman is Ravi’s sister.",
+    "Question": "Q. 1 Ravi was at a family gathering when he pointed to a woman sitting across the room and said, “She is the daughter of my grandfather’s only son.” Everyone turned to look at the woman. How is the woman related to Ravi?",
+    "Topic": "Blood Relations"
+  },
+  {
+    "Option A": "Raj’s Father",
+    "Option B": "Raj’s Son",
+    "Option C": "Raj",
+    "Option D": "Raj’s Uncle",
+    "Answer": "Raj’s Son",
+    "Solution": "Raj has no siblings, so “my father’s son” refers to Raj himself. The man’s father is Raj, so the man in the photograph is Raj’s son.",
+    "Question": "Q. 2 While flipping through an old photo album, Raj paused at a photograph of a man and said,, “I have no brothers and sisters, but the man’s father is my father’s son.” His friend looked puzzled. Who is the man in the photograph?",
+    "Topic": "Blood Relations"
+  },
+  {
+    "Option A": "Sister",
+    "Option B": "Sister-in-law",
+    "Option C": "Wife",
+    "Option D": "Mother",
+    "Answer": "Wife",
+    "Solution": "Ramesh’s mother’s only son is Ramesh himself. The woman is Ramesh’s wife.",
+    "Question": "Q. 3 At a wedding, Ramesh pointed to a woman dressed in a bright red saree and said to his friend, “She is the wife of my mother’s only son.” His friend nodded in understanding. How is the woman related to Ramesh?",
+    "Topic": "Blood Relations"
+  },
+  {
+    "Option A": "Uncle",
+    "Option B": "Brother",
+    "Option C": "Nephew",
+    "Option D": "Cannot be determined",
+    "Answer": "Uncle",
+    "Solution": "A is the brother of B, and B is the sister of C, so A is the brother of C. C is the father of D, so A is D’s uncle.",
+    "Question": "Q. 4 If A is the brother of B, B is the sister of C, and C is the father of D, how is A related to D?",
+    "Topic": "Blood Relations"
+  },
+  {
+    "Option A": "Cousin",
+    "Option B": "Sister",
+    "Option C": "Daughter",
+    "Option D": "Mother",
+    "Answer": "Cousin",
+    "Solution": "The woman’s mother’s husband is her father. Her father’s sister is the man’s aunt. Therefore, the woman is the man’s cousin.",
+    "Question": "Q. 5 At a family reunion, a man said to a woman, “Your mother’s husband’s sister is my aunt.” How is the woman related to the man?",
+    "Topic": "Blood Relations"
+  },
+  {
+    "Option A": "Brother",
+    "Option B": "Cousin",
+    "Option C": "Nephew",
+    "Option D": "Cannot be determined",
+    "Answer": "Brother",
+    "Solution": "The man’s grandfather’s only daughter is the man’s mother. The boy is the son of the man’s mother, so he is the man’s brother.",
+    "Question": "Q. 6 While watching kids play in the park, a man pointed to a boy and said to his friend, “He is the son of my grandfather’s only daughter.” How is the boy related to the man?",
+    "Topic": "Blood Relations"
+  },
+  {
+    "Option A": "Brother",
+    "Option B": "Cousin",
+    "Option C": "Nephew",
+    "Option D": "Uncle",
+    "Answer": "Cousin",
+    "Solution": "Ravi’s father’s wife is Ravi’s mother. The only brother of Ravi’s mother is Ravi’s maternal uncle. Rohit, being the son of Ravi’s maternal uncle, is Ravi’s cousin.",
+    "Question": "Q. 7 Introducing his friend Rohit to a group, Ravi said with a smile, “Meet Rohit, the son of the only brother of my father’s wife.” How is Rohit related to Ravi?",
+    "Topic": "Blood Relations"
+  },
+  {
+    "Option A": "Sister",
+    "Option B": "Cousin",
+    "Option C": "Aunt",
+    "Option D": "Mother",
+    "Answer": "Sister",
+    "Solution": "Raju’s grandfather’s only son-in-law is Raju’s father. The woman is Raju’s sister",
+    "Question": "Q. 8 Pointing to a woman at a family gathering, Raju said, “She is the daughter of my grandfather’s only son-in-law.” How is the woman related to Raju?",
+    "Topic": "Blood Relations"
+  },
+  {
+    "Option A": "Mother",
+    "Option B": "Sister",
+    "Option C": "Granddaughter",
+    "Option D": "Daughter",
+    "Answer": "Daughter",
+    "Solution": "Let’s start reverse mapping in reference to Dev -> Richa is Grandmother -> Ravi is Grandfather -> Harshit is Father -> Rahul is Brother -> Sunita is Sister -> Kajal is Mother -> Varun is Son -> Meena is Wife -> Rajni is Daughter",
+    "Question": "Q. 9 Pick the right choice from the given options If Rajni is Daughter of Meena, Meena is Mother of Varun, Varun is Grandson of Kajal, Kajal is Mother of Sunita, Sunita is Sister of Rahul, Rahul is Son of Harshit, Harshit is Son of Ravi, Ravi is Husband of Richa, Richa is Grandmother of Dev. Rajni is _______________ of Dev",
+    "Topic": "Blood Relations"
+  },
+  {
+    "Option A": "Son",
+    "Option B": "Nephew",
+    "Option C": "Cousin",
+    "Option D": "Uncle",
+    "Answer": "Son",
+    "Solution": "Swati’s father’s only daughter is Swati herself. The man’s mother is Swati, so the man is Swati’s son.",
+    "Question": "Q. 10 Swati pointed to a photograph of a young man and said, “His mother is the only daughter of my father.” How is the man related to Swati?",
+    "Topic": "Blood Relations"
+  },
+  {
+    "Option A": "Mother",
+    "Option B": "Daughter",
+    "Option C": "Granddaughter",
+    "Option D": "Wife",
+    "Answer": "Wife",
+    "Solution": "Let’s start reverse mapping in reference to Naveen -> Mohit is Son -> Varsha is Wife",
+    "Question": "Q. 11 Pick the right choice from the given options If Varsha is Mother of Mohit, Mohit is Son of Naveen. Varsha is _______________ of Naveen",
+    "Topic": "Blood Relations"
+  },
+  {
+    "Option A": "Nephew",
+    "Option B": "Father",
+    "Option C": "Grandfather",
+    "Option D": "Grandson",
+    "Answer": "Father",
+    "Solution": "Let’s start reverse mapping in reference to Tarun -> Lakshmi is Mother -> Sanjay is Brother -> Prakash is Father",
+    "Question": "Q. 12 Pick the right choice from the given options If Prakash is Father of Sanjay, Sanjay is Son of Lakshmi, Lakshmi is Mother of Tarun. Prakash is _______________ of Tarun",
+    "Topic": "Blood Relations"
+  },
+  {
+    "Option A": "Wife",
+    "Option B": "Daughter",
+    "Option C": "Granddaughter",
+    "Option D": "Mother",
+    "Answer": "Wife",
+    "Solution": "Let’s start reverse mapping in reference to Udit -> Bharat is Father -> Lakshya is Son -> Varsha is Wife",
+    "Question": "Q. 13 Pick the right choice from the given options If Varsha is Mother of Lakshya, Lakshya is Grandson of Bharat, Bharat is Father of Udit. Varsha is _______________ of Udit",
+    "Topic": "Blood Relations"
+  },
+  {
+    "Option A": "Wife",
+    "Option B": "Daughter",
+    "Option C": "Granddaughter",
+    "Option D": "Mother",
+    "Answer": "Wife",
+    "Solution": "Let’s start reverse mapping in reference to Ravi -> Sachin is Brother -> Omkar is Father -> Prakash is Son -> Anjali is Wife",
+    "Question": "Q. 14 Pick the right choice from the given options If Anjali is Mother of Prakash, Prakash is Grandson of Omkar, Omkar is Father of Sachin, Sachin is Brother of Ravi. Anjali is _______________ of Ravi",
+    "Topic": "Blood Relations"
+  },
+  {
+    "Option A": "Granddaughter",
+    "Option B": "Daughter",
+    "Option C": "Wife",
+    "Option D": "Mother",
+    "Answer": "Wife",
+    "Solution": "Let’s start reverse mapping in reference to Abhishek -> Sanjay is Father -> Bharat is Brother -> Seema is Mother -> Karan is Son -> Esha is Wife",
+    "Question": "Q. 15 Pick the right choice from the given options If Esha is Mother of Karan, Karan is Grandson of Seema, Seema is Mother of Bharat, Bharat is Son of Sanjay, Sanjay is Father of Abhishek. Esha is _______________ of Abhishek",
+    "Topic": "Blood Relations"
+  },
+  {
+    "Option A": "Daughter",
+    "Option B": "Wife",
+    "Option C": "Granddaughter",
+    "Option D": "Mother",
+    "Answer": "Wife",
+    "Solution": "Let’s start reverse mapping in reference to Bharat -> Abhishek is Father -> Ankit is Brother -> Aarti is Sister -> Yamini is Mother -> Tarun is Son -> Suman is Wife",
+    "Question": "Q. 16 Pick the right choice from the given options If Suman is Mother of Tarun, Tarun is Grandson of Yamini, Yamini is Mother of Aarti, Aarti is Sister of Ankit, Ankit is Son of Abhishek, Abhishek is Father of Bharat. Suman is _______________ of Bharat",
+    "Topic": "Blood Relations"
+  },
+  {
+    "Option A": "Daughter",
+    "Option B": "Wife",
+    "Option C": "Granddaughter",
+    "Option D": "Mother",
+    "Answer": "Wife",
+    "Solution": "Let’s start reverse mapping in reference to Varun -> Arjun is Grandfather -> Yash is Father -> Ankit is Brother -> Richa is Mother -> Sachin is Son -> Renu is Wife",
+    "Question": "Q. 17 Pick the right choice from the given options If Renu is Mother of Sachin, Sachin is Grandson of Richa, Richa is Mother of Ankit, Ankit is Son of Yash, Yash is Son of Arjun, Arjun is Grandfather of Varun. Renu is _______________ of Varun",
+    "Topic": "Blood Relations"
+  },
+  {
+    "Option A": "Wife",
+    "Option B": "Daughter",
+    "Option C": "Granddaughter",
+    "Option D": "Mother",
+    "Answer": "Wife",
+    "Solution": "Let’s start reverse mapping in reference to Krishna -> Arjun is Grandfather -> Harsh is Father -> Kabir is Brother -> Nisha is Sister -> Deepa is Mother -> Vishal is Son -> Bhavna is Wife",
+    "Question": "Q. 18 Pick the right choice from the given options If Bhavna is Mother of Vishal, Vishal is Grandson of Deepa, Deepa is Mother of Nisha, Nisha is Sister of Kabir, Kabir is Son of Harsh, Harsh is Son of Arjun, Arjun is Grandfather of Krishna . Bhavna is _______________ of Krishna",
+    "Topic": "Blood Relations"
+  },
+  {
+    "Option A": "Wife",
+    "Option B": "Daughter",
+    "Option C": "Granddaughter",
+    "Option D": "Mother",
+    "Answer": "Wife",
+    "Solution": "Let’s start reverse mapping in reference to Sanjay -> Bhavna is Grandmother -> Tarun is Grandfather -> Lakshya is Father -> Bhaskar is Brother -> Deepa is Sister -> Usha is Mother -> Abhishek is Son -> Sunita is Wife",
+    "Question": "Q. 19 Pick the right choice from the given options If Sunita is Mother of Abhishek, Abhishek is Grandson of Usha, Usha is Mother of Deepa, Deepa is Sister of Bhaskar, Bhaskar is Son of Lakshya, Lakshya is Son of Tarun, Tarun is Husband of Bhavna, Bhavna is Grandmother of Sanjay. Sunita is _______________ of Sanjay",
+    "Topic": "Blood Relations"
+  },
+  {
+    "Option A": "Thursday",
+    "Option B": "Friday",
+    "Option C": "Saturday",
+    "Option D": "Sunday",
+    "Answer": "Thursday",
+    "Solution": "For 1200 years: Thus, 400 + 0 = 400 ÷ 7 = 0 400 odd days.",
+    "Question": "Q. 1 “January 1, 2025” is a Wednesday. Fast forward an entire year, what day of the week will greet the new year on “January 1, 2026”?",
+    "Topic": "Calendar and Clocks"
+  },
+  {
+    "Option A": "1",
+    "Option B": "0",
+    "Option C": "2",
+    "Option D": "3",
+    "Answer": "0",
+    "Solution": "A year is a leap year if: 1900 is divisible by 100 but not by 400, so it is not a leap year.",
+    "Question": "Q. 2 How many odd days are there in 1200 years?",
+    "Topic": "Calendar and Clocks"
+  },
+  {
+    "Option A": "1600",
+    "Option B": "2000",
+    "Option C": "1900",
+    "Option D": "2400",
+    "Answer": "1900",
+    "Solution": "At 4:20: Angle = 130°−120°=10°.",
+    "Question": "Q. 3 Which of the following years is not a leap year?",
+    "Topic": "Calendar and Clocks"
+  },
+  {
+    "Option A": "40°",
+    "Option B": "20°",
+    "Option C": "30°",
+    "Option D": "10°",
+    "Answer": "10°",
+    "Solution": "2022 is not a leap year. From March 3, 2022, to March 3, 2023, there are 365 days.",
+    "Question": "Q. 4 Picture a clock displaying the time 4:20. If you could freeze time and measure the angle formed between the hour hand and the minute hand, what would that angle be?",
+    "Topic": "Calendar and Clocks"
+  },
+  {
+    "Option A": "365",
+    "Option B": "364",
+    "Option C": "366",
+    "Option D": "367",
+    "Answer": "365",
+    "Solution": "The hour and minute hands coincide once every hour, except at 12 o’clock. In a 12-hour cycle, this happens 11 times. Over 24 hours: 11 × 2 = 22 11",
+    "Question": "Q. 5 How many days are there between March 3, 2022, and March 3, 2023 (non-leap year)?",
+    "Topic": "Calendar and Clocks"
+  },
+  {
+    "Option A": "2030",
+    "Option B": "2052",
+    "Option C": "2056",
+    "Option D": "2060",
+    "Answer": "2052",
+    "Solution": "January 1, 2000, is Saturday (given). 2000 is a leap year. So, January 1, 2001 = Saturday+2=Monday",
+    "Question": "Q. 6 Calendars repeat themselves every few years. Which of the following years will have the same calendar as 2024?",
+    "Topic": "Calendar and Clocks"
+  },
+  {
+    "Option A": "11",
+    "Option B": "12",
+    "Option C": "22",
+    "Option D": "24",
+    "Answer": "22",
+    "Solution": "The time in the mirror = 12:00−8:40 = 3:20",
+    "Question": "Q. 7 How many times in a day do the hour and minute hands coincide?",
+    "Topic": "Calendar and Clocks"
+  },
+  {
+    "Option A": "Monday",
+    "Option B": "Tuesday",
+    "Option C": "Wednesday",
+    "Option D": "Sunday",
+    "Answer": "Monday",
+    "Solution": "Every non leap year will have 1 odd day and every leap year will have 2 odd days. Considering this find out total numbe of odd days for in between years and add that with days between initial and final year (excluding in between year since you have already calculated odd days for those years). You can also try other mental tricks like calculating difference between the days for the same year and then shifting it by odd days for every year",
+    "Question": "Q. 8 Think back to the dawn of the 21st century. When January 1, 2001, ushered in the new millennium, what day of the week did the world wake up to?",
+    "Topic": "Calendar and Clocks"
+  },
+  {
+    "Option A": "3:20",
+    "Option B": "4:20",
+    "Option C": "5:20",
+    "Option D": "3:40",
+    "Answer": "3:20",
+    "Solution": "Weekdays will repeat in a cycle of 7. So divide the differnece of days 26 – 14 = 12 by 7 to get remainder 5. Now count after Saturday for next 5 days",
+    "Question": "Q. 9 If a clock shows 8:40, what will the time be in the mirror reflection?",
+    "Topic": "Calendar and Clocks"
+  },
+  {
+    "Option A": "Monday",
+    "Option B": "Wednesday",
+    "Option C": "Thursday",
+    "Option D": "Tuesday",
+    "Answer": "Tuesday",
+    "Solution": "Since a weekday repeats every 7 days, you need to divide no of days 11 +2 (to accommodate for day before yesterday by 7 to get remainder 6. Now count from Thursday for next 6 days",
+    "Question": "Q. 10 If today is Sunday, what day will it be after 100 days?",
+    "Topic": "Calendar and Clocks"
+  },
+  {
+    "Option A": "Thursday",
+    "Option B": "Wednesday",
+    "Option C": "Monday",
+    "Option D": "Friday",
+    "Answer": "Thursday",
+    "Solution": "Weekdays will repeat in a cycle of 7. Now calculate the no of days passed by counting days for in between months and in the intial and the final month. You will get total no of days as = 116. Divide it by 7 to get remainder 4. Now count from Friday for next 4 days",
+    "Question": "Q. 11 If it was Sunday on 06 September 2009, then what was the day on 03 November 2011 ?",
+    "Topic": "Calendar and Clocks"
+  },
+  {
+    "Option A": "Friday",
+    "Option B": "Wednesday",
+    "Option C": "Monday",
+    "Option D": "Thursday",
+    "Answer": "Thursday",
+    "Solution": "Find out how many days passed till today from given date and divide the difference with 7 to get the remainder",
+    "Question": "Q. 12 If it was Saturday on 14 August 2004, then what was the day on 26 August 2004 ?",
+    "Topic": "Calendar and Clocks"
+  },
+  {
+    "Option A": "Sunday",
+    "Option B": "Tuesday",
+    "Option C": "Wednesday",
+    "Option D": "Thursday",
+    "Answer": "Wednesday",
+    "Solution": "Pick up one of the option and see what day falls on that date and then check for other options as the dates are next to each other",
+    "Question": "Q. 13 If day before yesterday was Thursday, then what day would it be after 11 days from today?",
+    "Topic": "Calendar and Clocks"
+  },
+  {
+    "Option A": "VJHFR",
+    "Option B": "VJHIR",
+    "Option C": "VKHGR",
+    "Option D": "UKHGR",
+    "Answer": "VJHIR",
+    "Solution": "Observe the pattern in coding: T → W, I → L, G → J, E → H, R → U.",
+    "Question": "Q. 1 In a mystical land, a secret tribe communicates using a unique code. If DRAGON is coded as GUDJRP. How will TIGER be coded in the same language?",
+    "Topic": "Coding Decoding"
+  },
+  {
+    "Option A": "93171",
+    "Option B": "93175",
+    "Option C": "93115",
+    "Option D": "97131",
+    "Answer": "93171",
+    "Solution": "The code is derived from assigning specific numbers to letters: S = 7, U = 1, G = 9, A = 1, R = 3. Similarly, for GRAIN: G = 9, R = 3, A = 1, I = 7, N = 1.",
+    "Question": "Q. 2 An old manuscript reveals a numerical code where SUGAR is written as 71913, and SALTS as 71320. Using the same code pattern, how would the word GRAIN be translated?",
+    "Topic": "Coding Decoding"
+  },
+  {
+    "Option A": "312345",
+    "Option B": "321435",
+    "Option C": "213345",
+    "Option D": "123345",
+    "Answer": "321435",
+    "Solution": "Each letter is replaced as follows: B → T, R → I, I → R, D → C, G → V, E → Q. Similarly: G → V, A → T, R → I, D → C, E → Q, N → M.",
+    "Question": "Q. 3 A spy agency uses a special coding method for confidentiality. If the word MIRROR is written as 123345 and ERROR is written as 34545, how would they encode the word RIMMER?",
+    "Topic": "Coding Decoding"
+  },
+  {
+    "Option A": "CHIRA",
+    "Option B": "RIAHC",
+    "Option C": "HCARC",
+    "Option D": "CHIRA",
+    "Answer": "RIAHC",
+    "Solution": "The code corresponds to the position of each letter in the alphabet: D = 4, O = 15, G = 7 → DOG = 415. B = 2, A = 1, T = 20 → BAT = 213.",
+    "Question": "Q. 4 In a magical puzzle book, words are reversed to create a code. For instance, APPLE becomes ELPPA, and TABLE becomes ELBAT. Using the same trick, how would the word CHAIR appear in this code?",
+    "Topic": "Coding Decoding"
+  },
+  {
+    "Option A": "VTIEQM",
+    "Option B": "VTIFQM",
+    "Option C": "VTIQFM",
+    "Option D": "UTIEQM",
+    "Answer": "VTIEQM",
+    "Solution": "The coding rule shifts letters as follows: L → P (+4), I → L (+3), O → R (+4), N → M (+3). Similarly: B → F (+4), E → I (+3), A → P (+4), R → V (+3)",
+    "Question": "Q. 5 In a certain language, BRIDGE is coded as TIRCVQ. How will GARDEN be coded?",
+    "Topic": "Coding Decoding"
+  },
+  {
+    "Option A": "213",
+    "Option B": "312",
+    "Option C": "312",
+    "Option D": "313",
+    "Answer": "213",
+    "Solution": "Each letter shifts alternately by +3 and +2: H → M (+5), A → E (+4), N → P (+5), D → G (+3).",
+    "Question": "Q. 6 A puzzle club assigns unique codes to animals. For instance, DOG is represented as 415, and CAT as 312. What code would they assign to BAT?",
+    "Topic": "Coding Decoding"
+  },
+  {
+    "Option A": "8415",
+    "Option B": "8615",
+    "Option C": "8419",
+    "Option D": "8413",
+    "Answer": "8415",
+    "Solution": "Every alphabet is increased by 1",
+    "Question": "Q. 7 In a certain code, FISH is written as 7648, and BOAT is written as 4529. What is the code for SOFA?",
+    "Topic": "Coding Decoding"
+  },
+  {
+    "Option A": "3481",
+    "Option B": "3751",
+    "Option C": "3671",
+    "Option D": "3421",
+    "Answer": "3481",
+    "Solution": "Every alphabet is increased by 2",
+    "Question": "Q. 8 In an enchanted diary, words are turned into numbers. For example, CLOUD is written as 34521, and SPOUT as 67890. What number would represent COLD in this magical diary?",
+    "Topic": "Coding Decoding"
+  },
+  {
+    "Option A": "FIOV",
+    "Option B": "FILV",
+    "Option C": "FIPV",
+    "Option D": "FIQV",
+    "Answer": "FIOV",
+    "Solution": "Alphabets have been swapped around centre position. So 1st letter is exchanged with 5th; and 2nd is exchanged with 4th letter",
+    "Question": "Q. 9 A group of forest animals has invented their own secret language. In this code, LION is written as PLRM. Following the same rules, how would they encode the word BEAR?",
+    "Topic": "Coding Decoding"
+  },
+  {
+    "Option A": "LEQG",
+    "Option B": "MEQF",
+    "Option C": "MEPG",
+    "Option D": "NEPF",
+    "Answer": "MEPG",
+    "Solution": "First alphabet is changed by -1 Second alphabet is changed by -1 Third alphabet is changed by -1 Fourth alphabet is changed by 1 And fifth alphabet is changed by 2",
+    "Question": "Q. 10 If ROAD is written as WTEG, and LAND is written as OEPG, how will HAND be written?",
+    "Topic": "Coding Decoding"
+  },
+  {
+    "Option A": "RPOVQ",
+    "Option B": "RNOVQ",
+    "Option C": "RPMWQ",
+    "Option D": "RPOVO",
+    "Answer": "RPOVQ",
+    "Solution": "First alphabet is changed by 2 Second alphabet is changed by -1 Third alphabet is changed by 0 Fourth alphabet is changed by 1 And fifth alphabet is changed by -2",
+    "Question": "Q. 11 If RDGSE is coded as SEHTF, then what will be QONUP coded as?",
+    "Topic": "Coding Decoding"
+  },
+  {
+    "Option A": "HSIFV",
+    "Option B": "HPIFU",
+    "Option C": "IRJFU",
+    "Option D": "ISJGV",
+    "Answer": "ISJGV",
+    "Solution": "First alphabet is changed by 0 Second alphabet is changed by 0 Third alphabet is changed by 2 Fourth alphabet is changed by 1 And fifth alphabet is changed by 1",
+    "Question": "Q. 12 If LEVGE is coded as NGXIG, then what will be GQHET coded as?",
+    "Topic": "Coding Decoding"
+  },
+  {
+    "Option A": "MKOQP",
+    "Option B": "MPQOK",
+    "Option C": "OKMPQ",
+    "Option D": "QOKMP",
+    "Answer": "MKOQP",
+    "Solution": "Alphabets have been increased by 1 and then swapped around centre position.",
+    "Question": "Q. 13 If VVFTE is coded as ETFVV, then what will be PQOKM coded as?",
+    "Topic": "Coding Decoding"
+  },
+  {
+    "Option A": "EQJUR",
+    "Option B": "EQKVR",
+    "Option C": "EPJVR",
+    "Option D": "EPIVQ",
+    "Answer": "EPJVR",
+    "Solution": "Alphabets have been decreased by 1 and then swapped around centre position.",
+    "Question": "Q. 14 If KUIUP is coded as JTHVR, then what will be FQKUP coded as?",
+    "Topic": "Coding Decoding"
+  },
+  {
+    "Option A": "RRQHH",
+    "Option B": "RQPHH",
+    "Option C": "RRPGH",
+    "Option D": "RQOHG",
+    "Answer": "RQPHH",
+    "Solution": "There are two operations here: First: Every alphabet has been swapped around center position Second: Output is then converted to it’s numerical value as per it’s position in alphabet series",
+    "Question": "Q. 15 If RKKKU is coded as TJKLS, then what will be PRPGJ coded as?",
+    "Topic": "Coding Decoding"
+  },
+  {
+    "Option A": "4 km",
+    "Option B": "6 km",
+    "Option C": "8 km",
+    "Option D": "10 km",
+    "Answer": "8 km",
+    "Solution": "Final displacement: 8 km west from the starting point. Distance = 8 km.",
+    "Question": "Q. 1 A person walks 6 km north, then 8 km west, and finally 6 km south. What is the distance from the starting point?",
+    "Topic": "Direction Sense"
+  },
+  {
+    "Option A": "North-East",
+    "Option B": "West",
+    "Option C": "North-West",
+    "Option D": "South",
+    "Answer": "North-West",
+    "Solution": "Initial facing: East. After 45° clockwise: South-East. After 135° counterclockwise: North-West.",
+    "Question": "Q. 2 An explorer starts his adventure facing east, ready to navigate through the wilderness, To find his way, he turns 45° clockwise, adjusting their route slightly. Then, he turns 135° counter clockwise. What direction is he now facing?",
+    "Topic": "Direction Sense"
+  },
+  {
+    "Option A": "North-West",
+    "Option B": "West",
+    "Option C": "South-West",
+    "Option D": "East",
+    "Answer": "West",
+    "Solution": "Net movement: Final position is 3 km west.",
+    "Question": "Q. 3 A hikes begins his track along side the scenic river. He walks 3 km east, then 4 km north, then 6 km west, and finally 4 km south. In which direction is he from the starting point?",
+    "Topic": "Direction Sense"
+  },
+  {
+    "Option A": "South",
+    "Option B": "West",
+    "Option C": "North",
+    "Option D": "East",
+    "Answer": "East",
+    "Solution": "180° clockwise from north: South. 90° counterclockwise from south: East.",
+    "Question": "Q. 4 A person is standing in a field facing north. Then he turns 180° clockwise, and then 90° counter clockwise. In which direction is the person now facing?",
+    "Topic": "Direction Sense"
+  },
+  {
+    "Option A": "West",
+    "Option B": "North-West",
+    "Option C": "North-East",
+    "Option D": "East",
+    "Answer": "North-West",
+    "Solution": "90° clockwise: West. 135° counterclockwise: South-East. 90° clockwise: South-West.",
+    "Question": "Q. 5 Ravi is facing south. He turns 90° clockwise, 135° counter clockwise, and 90° clockwise again. Which direction is he now facing?",
+    "Topic": "Direction Sense"
+  },
+  {
+    "Option A": "6 km",
+    "Option B": "7 km",
+    "Option C": "8 km",
+    "Option D": "9 km",
+    "Answer": "6 km",
+    "Solution": "Net movement: 6 km east Distance from starting point: 6 km.",
+    "Question": "Q. 6 A group of hikers begin their journey by walking 7 km north along a straight path. Then, they turn right and head 6 km east towards a nearby town. Finally, they turn right again and walk 7 km south, finding themselves in a new location. How far are they now from their original starting point?",
+    "Topic": "Direction Sense"
+  },
+  {
+    "Option A": "3 km",
+    "Option B": "5 km",
+    "Option C": "6 km",
+    "Option D": "8 km",
+    "Answer": "3 km",
+    "Solution": "Net movement: Final distance: 3 km.",
+    "Question": "Q. 7 A curious boy decides to explore his surroundings. First, he walks 5 km north, passing a small grove of trees. Then, he changes direction and walks 3 km east, reaching an open meadow. From there, he moves 2 km south towards a small pond, and finally, he heads 3 km west, arriving at another spot. How far is the boy from where he originally started?",
+    "Topic": "Direction Sense"
+  },
+  {
+    "Option A": "North",
+    "Option B": "South-West",
+    "Option C": "South",
+    "Option D": "East",
+    "Answer": "South-West",
+    "Solution": "Let’s first calculate A’s final position assuming it started from (0,0). Now if you draw as per the sequence, we get Step 1: 7 km in South Step 2: 8 km in West Step 3: 9 km in South So. A’s final position is (-8, -16) . Now B’s position is (0, -11) . So we need to shift the origin to B and find new position of A wrt B as (-8, &AF2&)",
+    "Question": "Q. 8 B is 11 kms South of A. A moves 7 km towards South, then turns Right and moves 8 km. Next it turns Left and moves 9km. B moves 9 km North. What is the direction of A with respect to B?",
+    "Topic": "Direction Sense"
+  },
+  {
+    "Option A": "North-East",
+    "Option B": "East",
+    "Option C": "South-East",
+    "Option D": "West",
+    "Answer": "East",
+    "Solution": "First movement was directly east.",
+    "Question": "Q. 9 A person walks 8 km east, 5 km north, and 8 km west. What was the direction of the first movement?",
+    "Topic": "Direction Sense"
+  },
+  {
+    "Option A": "South-West",
+    "Option B": "South",
+    "Option C": "South-East",
+    "Option D": "East",
+    "Answer": "South-East",
+    "Solution": "Starting direction: West. 135° clockwise: South-East.",
+    "Question": "Q. 10 Standing in the middle of a park, a person faces west, watching the setting sun. After a moment of reflection, he decides to turn 135° clockwise. In which direction is he facing now?",
+    "Topic": "Direction Sense"
+  },
+  {
+    "Option A": "West",
+    "Option B": "East",
+    "Option C": "South",
+    "Option D": "North-East",
+    "Answer": "South",
+    "Solution": "South is exactly Right of West",
+    "Question": "Q. 11 Scott mentioned pointing in a direction that his home is towards the West. Later he realized that he pointed correctly in the direction of his home, but West was exactly Right of where he pointed. Which direction was he pointing in?",
+    "Topic": "Direction Sense"
+  },
+  {
+    "Option A": "South-East",
+    "Option B": "West",
+    "Option C": "North-East",
+    "Option D": "East",
+    "Answer": "East",
+    "Solution": "Let’s say the starting point was (0,0). Now if you draw as per the sequence, we get Step 1: 5 km in North Step 2: 3 km in East Step 3: 5 km in South",
+    "Question": "Q. 12 Aditi walks 5 km towards North, then turns Right and walks 3 km. Next she turns Right and walks 5km. In which direction is she from the starting place?",
+    "Topic": "Direction Sense"
+  },
+  {
+    "Option A": "South-East",
+    "Option B": "North-East",
+    "Option C": "North-West",
+    "Option D": "South-West",
+    "Answer": "North-East",
+    "Solution": "Let’s say the starting point was (0,0). Now if you draw as per the sequence, we get Step 1: 6 km in East Step 2: 9 km in North Step 3: 5 km in East",
+    "Question": "Q. 13 A soldier walks 6 km towards East, then turns Left and walks 9 km. Next he turns Right and walks 5km. In which direction is he from the starting place?",
+    "Topic": "Direction Sense"
+  },
+  {
+    "Option A": "North",
+    "Option B": "South-West",
+    "Option C": "North-West",
+    "Option D": "South",
+    "Answer": "North-West",
+    "Solution": "Let’s say the starting point was (0,0). Now if you draw as per the sequence, we get Step 1: 5 km in South Step 2: 8 km in West Step 3: 6 km in North",
+    "Question": "Q. 14 A soldier walks 5 km towards South, then turns Right and walks 8 km. Next he turns Right and walks 6km. In which direction is he from the starting place?",
+    "Topic": "Direction Sense"
+  },
+  {
+    "Option A": "6",
+    "Option B": "8",
+    "Option C": "7",
+    "Option D": "10",
+    "Answer": "6",
+    "Solution": "Let’s say the starting point was (0,0). Now if you draw as per the sequence, we get Step 1: 5 km in North Step 2: 6 km in West Step 3: 5 km in South Final point is (-6, 0). Now use pythogoras theorm to calculate the distance form starting point.",
+    "Question": "Q. 15 Sam walks 5 km towards North, then turns Left and walks 6 km. Next he turns Left and walks 5km. How far is he approximately from the starting point in km?",
+    "Topic": "Direction Sense"
+  },
+  {
+    "Option A": "10.1",
+    "Option B": "8.1",
+    "Option C": "9.1",
+    "Option D": "12.1",
+    "Answer": "8.1",
+    "Solution": "Let’s say the starting point was (0,0). Now if you draw as per the sequence, we get Step 1: 4 km in North Step 2: 8 km in East Step 3: 3 km in South Final point is (8, 1). Now use pythogoras theorm to calculate the distance form starting point.",
+    "Question": "Q. 16 Risha walks 4 km towards North, then turns Right and walks 8 km. Next she turns Right and walks 3km. How far is she approximately from the starting point in km?",
+    "Topic": "Direction Sense"
+  },
+  {
+    "Option A": "17.7",
+    "Option B": "15.7",
+    "Option C": "16.7",
+    "Option D": "19.7",
+    "Answer": "15.7",
+    "Solution": "Let’s say the starting point was (0,0). Now if you draw as per the sequence, we get Step 1: 7 km in North Step 2: 7 km in East Step 3: 7 km in North Final point is (7, 14). Now use pythogoras theorm to calculate the distance form starting point.",
+    "Question": "Q. 17 A fire engine moves 7 km towards North, then turns Right and moves 7 km. Next it turns Left and moves 7km. How far is it approximately from the starting point in km?",
+    "Topic": "Direction Sense"
+  },
+  {
+    "Option A": "South",
+    "Option B": "North",
+    "Option C": "East",
+    "Option D": "West",
+    "Answer": "North",
+    "Solution": "Let’s say the starting point was (0,0). Now if you draw as per the sequence, we get Step 1: 2 km in North Step 2: 5 km in West Step 3: 3 km in South Step 4: 5 km in North Step 5: 5 km in East",
+    "Question": "Q. 18 A tractor moves 2 km towards North, then turns Left and moves 5 km. Next it turns Left and moves 3km. After a hault, it moves 5km in North direction, then takes a Right turn and stops after 5km. In which direction is it from the starting place?",
+    "Topic": "Direction Sense"
+  },
+  {
+    "Option A": "South",
+    "Option B": "North",
+    "Option C": "South-West",
+    "Option D": "East",
+    "Answer": "South-West",
+    "Solution": "Let’s say the starting point was (0,0). Now if you draw as per the sequence, we get Step 1: 8 km in West Step 2: 7 km in South Step 3: 6 km in West Step 4: 6 km in East Step 5: 5 km in South",
+    "Question": "Q. 19 Rohan walks 8 km towards West, then turns Left and walks 7 km. Next he turns Right and walks 6km. After a hault, he moves 6km in East direction, then takes a Right turn and stops after 5km. In which direction is he from the starting place?",
+    "Topic": "Direction Sense"
+  },
+  {
+    "Option A": "B",
+    "Option B": "C",
+    "Option C": "F",
+    "Option D": "E",
+    "Answer": "F",
+    "Solution": "From the arrangement rules: Combining these: A, B, D, C, E, F.",
+    "Question": "Q. 1 Six friends—A, B, C, D, E, and F—are sitting in a row, enjoying their time together. B is sitting to the right of A but left of D. E is sitting to the right of C but left of F. Who is sitting at the extreme right?",
+    "Topic": "Seating Arrangements"
+  },
+  {
+    "Option A": "S",
+    "Option B": "Q",
+    "Option C": "V",
+    "Option D": "U",
+    "Answer": "V",
+    "Solution": "Using the conditions: R is to the immediate left of T. Q is second to the right of R.",
+    "Question": "Q. 2 Seven people (P, Q, R, S, T, U, and V) are standing in a circle, chatting. R is to the immediate left of T. Q is second to the right of R. S is between Q and P. Who is opposite T?",
+    "Topic": "Seating Arrangements"
+  },
+  {
+    "Option A": "D",
+    "Option B": "C",
+    "Option C": "B",
+    "Option D": "E",
+    "Answer": "D",
+    "Solution": "From the conditions: Arranging them: E, A, C, B, D.",
+    "Question": "Q. 3 Five boxes (A, B, C, D, E) are stacked on top of each other. Box D is immediately below box B. Box A is above box C but not at the top. Box E is immediately above box A. Which box is at the bottom?",
+    "Topic": "Seating Arrangements"
+  },
+  {
+    "Option A": "P, Z, W, Y, X, Q",
+    "Option B": "P, W, Z, Y, Q, X",
+    "Option C": "P, X, Z, W, Y, Q",
+    "Option D": "P, Y, X, Q, Z, W",
+    "Answer": "P, Z, W, Y, X, Q",
+    "Solution": "Arranging based on conditions:",
+    "Question": "Q. 4 Six books—W, X, Y, Z, P, and Q—are arranged neatly on a shelf. Z is to the immediate left of W. X is between Y and Q. P is to the left of Q but not adjacent to Z. What is the order from left to right?",
+    "Topic": "Seating Arrangements"
+  },
+  {
+    "Option A": "B",
+    "Option B": "H",
+    "Option C": "C",
+    "Option D": "F",
+    "Answer": "B",
+    "Solution": "From the conditions:",
+    "Question": "Q. 5 Eight persons—A, B, C, D, E, F, G, and H—are seated around a circular table facing the centre. Who is to the immediate left of G? – A is third to the right of B. – C is second to the left of A. – F is not an immediate neighbour of A or B. – D is fourth to the left of E.",
+    "Topic": "Seating Arrangements"
+  },
+  {
+    "Option A": "Q",
+    "Option B": "T",
+    "Option C": "R",
+    "Option D": "S",
+    "Answer": "R",
+    "Solution": "Arranging the rows:",
+    "Question": "Q. 6 Five friends—P, Q, R, S, and T—are sitting in a line facing north. Who is sitting in the middle? – R is to the immediate left of T. – Q is not adjacent to S. – P is at one end.",
+    "Topic": "Seating Arrangements"
+  },
+  {
+    "Option A": "C",
+    "Option B": "B",
+    "Option C": "F",
+    "Option D": "D",
+    "Answer": "B",
+    "Solution": "From the conditions: P > Q > S > T, R > P. R is the tallest.",
+    "Question": "Q. 7 Abha, Banti, Chandu, Danny, Elei and Fenu are sitting in two rows, three in each. Who is sitting directly opposite Abha if following conditions are given? – Abha is sitting to the immediate right of Danny in the same row. – Chandu is directly opposite Banti – Fenu is not in the same row as Danny",
+    "Topic": "Seating Arrangements"
+  },
+  {
+    "Option A": "P",
+    "Option B": "R",
+    "Option C": "S",
+    "Option D": "T",
+    "Answer": "R",
+    "Solution": "From the conditions:",
+    "Question": "Q. 8 Five people—P, Q, R, S, T—are ranked according to height. P is taller than Q but shorter than R. S is shorter than Q but taller than T. Who is the tallest?",
+    "Topic": "Seating Arrangements"
+  },
+  {
+    "Option A": "F",
+    "Option B": "E",
+    "Option C": "B",
+    "Option D": "A",
+    "Answer": "E",
+    "Solution": "This is the final arrangement: Kabir-Amrita-Ravi-Suman-Ashok-Meena",
+    "Question": "Q. 9 Six family members—A, B, C, D, E, and F—are sitting in a straight line. Who is sitting at the extreme right? – A is to the immediate left of B but not at the extreme end. – E is to the immediate right of F. – C is to the left of F but right of A.",
+    "Topic": "Seating Arrangements"
+  },
+  {
+    "Option A": "First",
+    "Option B": "Second",
+    "Option C": "Fifth",
+    "Option D": "Sixth",
+    "Answer": "First",
+    "Solution": "Start with easy constraints. Tanya and Mohit are on position 2 and 3 respectively. Now follow remaining constraints to arrive at Nikhil-Tanya-Mohit-Priya-Utkarsh",
+    "Question": "Q. 10 Seven boxes are arranged in a row. What is the position of Box E based on following conditions? – Box A is third from the left. – Box B is to the right of A but left of D. – Box C is not adjacent to Box E. – Box F is at the extreme right.",
+    "Topic": "Seating Arrangements"
+  },
+  {
+    "Option A": "6th",
+    "Option B": "2nd",
+    "Option C": "1st",
+    "Option D": "3rd",
+    "Answer": "3rd",
+    "Solution": "Start with easy constraints. Karan and Sakshi are on position 1 and 2 respectively. Now follow remaining constraints to arrive at Karan-Sakshi-Bharat-Lata-Sanjay",
+    "Question": "Q. 11 Kabir, Amrita, Ravi, Suman, Ashok and Meena are seated in a row in a sports stadium. Ashok and Meena are neighbours. Ashok is in the middle of Suman and Meena. Meena is not in positions 1 or 3. Kabir is in position 1. Amrita is in position 2. Suman is in position 4. Amrita and Ashok are not neighbours. Amrita and Ravi are neighbours. Which position is Ravi from left?",
+    "Topic": "Seating Arrangements"
+  },
+  {
+    "Option A": "2nd",
+    "Option B": "5th",
+    "Option C": "1st",
+    "Option D": "5th",
+    "Answer": "5th",
+    "Solution": "Start with easy constraints. Shikha and Sangeeta are on position 2 and 4 respectively. Now follow remaining constraints to arrive at Dev-Shikha-Anirudh-Sangeeta-Kunal",
+    "Question": "Q. 12 Nikhil, Tanya, Mohit, Priya, and Utkarsh are seated in a row in an auditorium. Mohit is on the right of Nikhil. Mohit is in the exact middle. Priya is in the middle of Mohit and Utkarsh. Tanya is on position 2 from left. Where is Utkarsh from left?",
+    "Topic": "Seating Arrangements"
+  },
+  {
+    "Option A": "Lata",
+    "Option B": "Sanjay",
+    "Option C": "Karan",
+    "Option D": "Sakshi",
+    "Answer": "Sanjay",
+    "Solution": "This is the final arrangement: Ramesh-Parvati-Vivek-Ragini-Utkarsh-Bhavna",
+    "Question": "Q. 13 Karan, Sakshi, Bharat, Lata, and Sanjay are seated in a row at an airport lounge. Bharat and Sanjay are not neighbours. Karan is at the extreme left. Sakshi and Sanjay are not neighbours. Lata is in the middle of Bharat and Sanjay. Sakshi is on position 2 from left. Who is on the extreme right?",
+    "Topic": "Seating Arrangements"
+  },
+  {
+    "Option A": "Kunal",
+    "Option B": "Dev",
+    "Option C": "Shikha",
+    "Option D": "Anirudh",
+    "Answer": "Dev",
+    "Solution": "This is the final arrangement: Kunal-Deepa-Dev-Neha-Raj-Suman",
+    "Question": "Q. 14 Dev, Shikha, Anirudh, Sangeeta, and Kunal are seated in a row during a flight. Anirudh is on the right of Dev. Anirudh is in the middle of Shikha and Sangeeta. Shikha and Kunal are not neighbors. Sangeeta is on second last position from left to right. Shikha is on position 2 from left. Who is on the extreme left?",
+    "Topic": "Seating Arrangements"
+  },
+  {
+    "Option A": "2nd",
+    "Option B": "3rd",
+    "Option C": "4th",
+    "Option D": "1st",
+    "Answer": "4th",
+    "Solution": "This is the final arrangement: Chirag-Neha-Yogesh-Vidya-Shubham-Radhika",
+    "Question": "Q. 15 Ramesh, Parvati, Vivek, Ragini, Utkarsh and Bhavna are seated in a row during a flight. Utkarsh is in the middle of Ragini and Bhavna. Utkarsh and Bhavna are neighbours. Parvati is in position 2. Vivek is in position 3. Vivek is in the middle of Parvati and Ragini. Ramesh is in position 1. Which position is Ragini from left?",
+    "Topic": "Seating Arrangements"
+  },
+  {
+    "Option A": "4th",
+    "Option B": "3rd",
+    "Option C": "2nd",
+    "Option D": "1st",
+    "Answer": "4th",
+    "Solution": "This is the final arrangement: Rahul-Seema-Bhaskar-Suman-Sachin-Esha",
+    "Question": "Q. 16 Kunal, Deepa, Dev, Neha, Raj and Suman are seated in a line at a waiting area. Dev is in the middle of Deepa and Neha. Raj is in the middle of Neha and Suman. Kunal is in position 1. Dev is in position 3. Deepa is in position 2. Which position is Neha from left?",
+    "Topic": "Seating Arrangements"
+  },
+  {
+    "Option A": "4th",
+    "Option B": "3rd",
+    "Option C": "2nd",
+    "Option D": "1st",
+    "Answer": "4th",
+    "Solution": "This is the final arrangement: Bharat-Shikha-Raj-Sakshi-Chirag-Parvati",
+    "Question": "Q. 17 Chirag, Neha, Yogesh, Vidya, Shubham and Radhika are seated in a row in a theatre. Chirag is in position 1. Neha is in position 2. Yogesh is in position 3. Yogesh is in the middle of Neha and Vidya. Vidya is on the left of Radhika. Shubham and Radhika are neighbours. Shubham is in the middle of Vidya and Radhika. Which position is Vidya from left?",
+    "Topic": "Seating Arrangements"
+  },
+  {
+    "Option A": "1.7",
+    "Option B": "0.7",
+    "Option C": "2.7",
+    "Option D": "3.2",
+    "Answer": "1.7",
+    "Solution": "We can move variables on one side and numbers on other side. 13x – 2x = 10 + 9 11x = 19",
+    "Question": "Q. 1 Solve for x, given the equation: 13x – 10 = 2x + 9",
+    "Topic": "Algebra"
+  },
+  {
+    "Option A": "-3",
+    "Option B": "3",
+    "Option C": "0",
+    "Option D": "None",
+    "Answer": "-3",
+    "Solution": "The given equation can be rewritten as ( ( x + 3 ) 2 = 0 ) . Therefore, ( x = − 3 ) ( . Minimize mistakes while solving algebra problems.",
+    "Question": "Q. 2 If ( x 2 + 6 x + 9 = 0 ) , find the value of ( x ) .",
+    "Topic": "Algebra"
+  },
+  {
+    "Option A": "125",
+    "Option B": "100",
+    "Option C": "105",
+    "Option D": "85",
+    "Answer": "105",
+    "Solution": "Substitute ( x = 4 ) ( into the equation for ( y ) ( : [ y = 2 ⋅ 4 + 3 = 8 + 3 = 11 ] [  Now, ( y 2 – x 2 = 11 2 – 4 2 = 121 – 16 = 105 ) .",
+    "Question": "Q. 3 If ( y = 2 x + 3 ) and ( x = 4 ) , what is the value of ( y 2 – x 2 ) ?",
+    "Topic": "Algebra"
+  },
+  {
+    "Option A": "6",
+    "Option B": "8",
+    "Option C": "10",
+    "Option D": "12",
+    "Answer": "6",
+    "Solution": "We know that ( ( x + y ) 2 = x 2 + y 2 + 2 x y ) . Substitute values: [ 5 2 = 13 + 2 x y ]  [ 25 = 13 + 2 x y ] [  [ 2 x y = 12 ⇒ x y = 6 ] [",
+    "Question": "Q. 4 If ( x + y = 5 ) and ( x 2 + y 2 = 13 ) , find the value of ( x y ) .",
+    "Topic": "Algebra"
+  },
+  {
+    "Option A": "133",
+    "Option B": "157",
+    "Option C": "175",
+    "Option D": "191",
+    "Answer": "133",
+    "Solution": "We know that ( a 3 + b 3 = ( a + b ) ( a 2 – a b + b 2 ) ) . [ a 2 + b 2 = ( a + b ) 2 – 2 a b = 49 – 20 = 29 ]  So, ( a 3 + b 3 = 7 ( 29 – 10 ) = 7 ⋅ 19 = 133 ) .",
+    "Question": "Q. 5 If ( a + b = 7 ) and ( a b = 10 ) , what is the value of ( a 3 + b 3 ) ?",
+    "Topic": "Algebra"
+  },
+  {
+    "Option A": "3",
+    "Option B": "4",
+    "Option C": "5",
+    "Option D": "6",
+    "Answer": "4",
+    "Solution": "Rewrite ( 64 ) as a power of ( 2 ): [ 64 = 2 6 ]  So, ( 2 x + 2 = 2 6 ) . Therefore, ( x + 2 = 6 ) ( and ( x = 4 ) ( .",
+    "Question": "Q. 6 Solve for ( x ) : ( 2 x + 2 = 64 ) .",
+    "Topic": "Algebra"
+  },
+  {
+    "Option A": "11",
+    "Option B": "12",
+    "Option C": "13",
+    "Option D": "14",
+    "Answer": "13",
+    "Solution": "Expand the left side: [ x 2 – 1 = 12 ]  So, ( x 2 = 13 ) .",
+    "Question": "Q. 7 If ( ( x – 1 ) ( x + 1 ) = 12 ) , find the value of ( x 2 ) .",
+    "Topic": "Algebra"
+  },
+  {
+    "Option A": "( k ≤ 4 )",
+    "Option B": "( k ≥ 4 )",
+    "Option C": "( k ≤ − 4 )",
+    "Option D": "( k ≥ − 4 )",
+    "Answer": "( k ≤ 4 )",
+    "Solution": "For real roots, the discriminant ( b 2 – 4 a c ≥ 0 ) : Here, ( a = 1 , b = 4 , c = k ) ( . [ 4 2 – 4 ⋅ 1 ⋅ k ≥ 0 ]  [ 16 – 4 k ≥ 0 ] [  [ k ≤ 4 ] [",
+    "Question": "Q. 8 If ( x 2 + 4 x + k = 0 ) has real roots, what is the range of values for ( k ) ?",
+    "Topic": "Algebra"
+  },
+  {
+    "Option A": "6",
+    "Option B": "7",
+    "Option C": "8",
+    "Option D": "9",
+    "Answer": "8",
+    "Solution": "Solve the second equation for ( y ): [ y = x – 5 ] [  Substitute into the first equation: [ 3 x + ( x – 5 ) = 7 ] [  [ 4 x – 5 = 7 ⇒ 4 x = 12 ⇒ x = 3 ] [  Substitute ( x = 3 ) ( back into ( y = x – 5 ) ( : [ y = − 2 ] [",
+    "Question": "Q. 9 If ( 3 x + y = 7 ) and ( x – y = 5 ) , find the value of ( x + y ) .",
+    "Topic": "Algebra"
+  },
+  {
+    "Option A": "-6",
+    "Option B": "4",
+    "Option C": "2",
+    "Option D": "-4",
+    "Answer": "-4",
+    "Solution": "Substitute ( x = 2 ) ( into the equation: [ 2 2 + 2 p + 4 = 0 ]  [ 4 + 2 p + 4 = 0 ⇒ 2 p = − 8 ⇒ p = − 4 ] [",
+    "Question": "Q. 10 If ( x = 2 ) is a root of ( x 2 + p x + 4 = 0 ) , what is the value of ( p ) ?",
+    "Topic": "Algebra"
+  },
+  {
+    "Option A": "$ 1.50",
+    "Option B": "$ 1.88",
+    "Option C": "$ 2.25",
+    "Option D": "$ 2.50",
+    "Answer": "$ 1.88",
+    "Solution": "Amelia operated the stand Monday through Friday (5 days) over a two week period, thus she operated the stand for total of 10 days. 7 regular days –> sales = 7*32*x = 224x; 3 hot days –> sales = 3*32*(1.25x) = 120x; Total sales = 224x+120x = 344x. Total cost = 10*32*0.75 = 240. Profit = 344x – 240 = 276 –> x=1.5. 1.25x=~1.88.",
+    "Question": "Q. 11 Amelia ran a lemonade stand for two weeks, from Sunday to Saturday, and earned $276 in total profit. On hot days, she charged 25% more for each cup of lemonade compared to regular days. The cost for making each cup of lemonade was 75 cents, and she sold 32 cups every day. During this period, there were 3 hot days. What was the selling price per cup on the hot days?",
+    "Topic": "Algebra"
+  },
+  {
+    "Option A": "1.7",
+    "Option B": "2.7",
+    "Option C": "3.7",
+    "Option D": "4.2",
+    "Answer": "2.7",
+    "Solution": "We can move variables on one side and numbers on other side. 13x – 6x = 12 + 7 7x = 19",
+    "Question": "Q. 12 Solve for x, given the equation: 13x – 12 = 6x + 7",
+    "Topic": "Algebra"
+  },
+  {
+    "Option A": "1.9",
+    "Option B": "2.9",
+    "Option C": "3.9",
+    "Option D": "4.4",
+    "Answer": "2.9",
+    "Solution": "We should aim to make the coefficient of y same. For that we need to take LCM of coefficient of y in both the equations. LCM = 24 Now multiply equation 1 with 8 and equation 2 with 3 to get the equations as: 16x + 24y = 16 and 24x + 24y = 39. Subtract the equations to solve for x now. Familiarize yourself with common terms used in algebra questions.",
+    "Question": "Q. 13 Solve for x, given the set of equations: 2x + 3y = 2; and 8x + 8y = 13",
+    "Topic": "Algebra"
+  },
+  {
+    "Option A": "5",
+    "Option B": "10",
+    "Option C": "12",
+    "Option D": "15",
+    "Answer": "15",
+    "Solution": "Let’s assume Bernad’s present age to be x. Then, Alex’s present age would be x + 10. Five years ago, Bernad’s age would be x – 5, and Alex’s age would be (x + 10) – 5 = x + 5. Given that 5 years ago, Alex was twice as old as Bernad. So, we can write: x + 5 = 2(x – 5) Solving for x: x + 5 = 2x – 10 x = 15 Therefore, Bernad’s present age is 15 years",
+    "Question": "Q. 14 Alex has a 10-year age advantage over Bernad. Five years earlier, Alex’s age was double that of Bernad’s. What is Bernad’s current age?",
+    "Topic": "Algebra"
+  },
+  {
+    "Option A": "5",
+    "Option B": "9",
+    "Option C": "10",
+    "Option D": "11",
+    "Answer": "11",
+    "Solution": "since the middle slot is 3… the next two slots shud be 3+3 =6 2 more slots lefts..they can contain 1 each",
+    "Question": "Q. 15 Marbles need to be distributed into five separate holes in a wall, ensuring that each hole has at least one marble and that the number of marbles in each hole is not less than the hole immediately to its right. If the third hole from the left must have 3 marbles, what is the minimum number of marbles necessary to meet all conditions?",
+    "Topic": "Algebra"
+  },
+  {
+    "Option A": "36",
+    "Option B": "42",
+    "Option C": "54",
+    "Option D": "60",
+    "Answer": "42",
+    "Solution": "A – 3 = 4(B – 3) –> A – 4B = -9………….1 A + 4 = 3(B + 4) –> A – 3B = 8………….2 (2) – (1) –> B = 17 A – B = 59 – 17 = 42",
+    "Question": "Q. 16 Three years ago, the age of Dog X was four times that of Dog Y. Four years from now, the age of Dog X will be three times the age of Dog Y. What is the current age difference between Dog X and Dog Y?",
+    "Topic": "Algebra"
+  },
+  {
+    "Option A": "507",
+    "Option B": "504",
+    "Option C": "505",
+    "Option D": "506",
+    "Answer": "506",
+    "Solution": "Find sum of the numbers first. Sum = 2120. Divide the sum by 5 which is the total count. Average = 2120 / 5 = 506",
+    "Question": "Q. 1 Find the average of following values : 410, 890, 280, 640, 310",
+    "Topic": "Averages, Mixture and Alligations"
+  },
+  {
+    "Option A": "98",
+    "Option B": "99",
+    "Option C": "97",
+    "Option D": "100",
+    "Answer": "99",
+    "Solution": "Sum of all the quantities is equal to average multiplied by number of quantities. Sum = 80 * 5 = 400. Now this sum = 94 + 89 + 36 + 82 + x . Solving it, we will get value of unkown quantity = 99",
+    "Question": "Q. 2 Find x, if average of the quantities is 80. Following are the quantities : 94, 89, 36, 82, x",
+    "Topic": "Averages, Mixture and Alligations"
+  },
+  {
+    "Option A": "55.4",
+    "Option B": "54.4",
+    "Option C": "56.4",
+    "Option D": "57.4",
+    "Answer": "56.4",
+    "Solution": "Find sum of the values first. Sum = 258. Divide the sum by 5 which is the total count. Average = 258 / 5 = 56.4",
+    "Question": "Q. 3 A mechanic repaired five cars, and the repair times were 24, 88, 49, 88, and 33 hours. What was the average repair time?",
+    "Topic": "Averages, Mixture and Alligations"
+  },
+  {
+    "Option A": "16 years",
+    "Option B": "15 years",
+    "Option C": "14 years",
+    "Option D": "18 years",
+    "Answer": "18 years",
+    "Solution": "Total age of 5 students initially = 5 × 20 = 100 5 After replacing the student aged 24, total age of 5 students = 5 × 19 = 95 5 Age of the new student = 95−(100−24)=95−76=19",
+    "Question": "Q. 4 In a music class of five students, the average age is 20 years. One day, a student who is 24 years old leaves the group and is replaced by a new student. Curiously, this change brings down the average age of the group to 19 years. Can you determine the age of the newcomer?",
+    "Topic": "Averages, Mixture and Alligations"
+  },
+  {
+    "Option A": "19",
+    "Option B": "20",
+    "Option C": "10",
+    "Option D": "1",
+    "Answer": "19",
+    "Solution": "For the average to be zero, the sum of positive numbers must equal the sum of negative numbers. So, at most, 19 numbers can be positive if only 1 number is negative to balance their sum.",
+    "Question": "Q. 5 A mathematician is experimenting with some numbers. He realized that average of 20 numbers he selected was zero. Out of these, at most, how many numbers can be greater than zero?",
+    "Topic": "Averages, Mixture and Alligations"
+  },
+  {
+    "Option A": "37.5 km/hr",
+    "Option B": "40 km/hr",
+    "Option C": "45 km/hr",
+    "Option D": "42 km/hr",
+    "Answer": "37.5 km/hr",
+    "Solution": "Let the total distance be 2D. Time taken for first half = D 30  Time taken for second half = D 50 Total time = 150 D 30 + D 50 = 5 D + 3 D 150 = 8 D 150 Average speed = 2 D 8 D / 150 = 2 × 150 8 = 37.58 km/hr",
+    "Question": "Q. 6 A cyclist starts her adventure trip to mountains in Ladakh. She covers the first half of a certain distance at a steady speed of 30 km/hr and picks up pace in the second half, traveling at 50 km/hr. What would her average speed be for the entire journey?",
+    "Topic": "Averages, Mixture and Alligations"
+  },
+  {
+    "Option A": "85 kg",
+    "Option B": "88 kg",
+    "Option C": "90 kg",
+    "Option D": "80 kg",
+    "Answer": "85 kg",
+    "Solution": "Increase in total weight = 2.5 × 8 = 20 2.5 kg Weight of the new person = 65 + 20 = 85 kg",
+    "Question": "Q. 7 Eight employees decide to track their weight as part of company’s health program. Their average weight increases by 2.5 kg when Alex, who weighs 65 kg, is replaced by a new member Bob. What is Bob’s weight?",
+    "Topic": "Averages, Mixture and Alligations"
+  },
+  {
+    "Option A": "9.5 years",
+    "Option B": "9 years",
+    "Option C": "10 years",
+    "Option D": "8.5 years",
+    "Answer": "9.5 years",
+    "Solution": "Total age of the 15 children = 15 × 10 = 150 15  Total age of the 5 new children = 5 × 8 = 40 5 New total age = 150+40=190 New average age = 9.5 190 20 = 9.5 years",
+    "Question": "Q. 8 The average age of a school group of 15 children is 10 years. Soon, they are joined by five younger kids whose average age is 8 years. What becomes the new average age of this group?",
+    "Topic": "Averages, Mixture and Alligations"
+  },
+  {
+    "Option A": "Rs. 75",
+    "Option B": "Rs. 80",
+    "Option C": "Rs. 78",
+    "Option D": "Rs. 85",
+    "Answer": "Rs. 75",
+    "Solution": "Using the alligation rule: Price of mixture= 2 × 90 + 3 × 60 2 + 3 = 180 + 180 5 = 75",
+    "Question": "Q. 9 Two types of rice are blended to create the perfect mixture for a chef’s special dish. One costs Rs. 60 per kg, and the other costs Rs. 90 per kg. They are mixed in the ratio 2:3. What is the cost per kg of this exquisite mixture?",
+    "Topic": "Averages, Mixture and Alligations"
+  },
+  {
+    "Option A": "90",
+    "Option B": "82",
+    "Option C": "80",
+    "Option D": "85",
+    "Answer": "90",
+    "Solution": "Total score of 50 students = 50 × 72 = 3600 50  Total score of remaining 45 students = 45 × 70 = 3150 45  Sum of top 5 scores = 3600 – 3150 = 450 Average score of top 5 students = 450 5 = 90",
+    "Question": "Q. 10 A class of 50 students has an average score of 72 in a challenging exam. After removing the scores of the top five performers, the remaining 45 students have an average score of 70. Can you determine the average score of the top five students?",
+    "Topic": "Averages, Mixture and Alligations"
+  },
+  {
+    "Option A": "674",
+    "Option B": "676",
+    "Option C": "675",
+    "Option D": "677",
+    "Answer": "676",
+    "Solution": "Find sum of the numbers first. Sum = 2670. Divide the sum by 5 which is the total count. Average = 2670 / 5 = 676",
+    "Question": "Q. 11 Find the average of following values : 710, 790, 900, 680, 300",
+    "Topic": "Averages, Mixture and Alligations"
+  },
+  {
+    "Option A": "25 cents",
+    "Option B": "30 cents",
+    "Option C": "35 cents",
+    "Option D": "40 cents",
+    "Answer": "35 cents",
+    "Solution": "Number of chocolates bought by 50 dollar = 50/0.5 = 100 Number of chocolates bought by 90 dollars = 90/0.3 = 300 Taking the weighted average = (100*0.5 + 300*0.3)/400 = 35 cents",
+    "Question": "Q. 12 Alex spends $50 on chocolates costing 50 cents each. Few days later, when the price drops to 30 cents each, Alex spends $90 on more chocolates. What is the average cost of the chocolates bought?",
+    "Topic": "Averages, Mixture and Alligations"
+  },
+  {
+    "Option A": "1.25 %",
+    "Option B": "3.75 %",
+    "Option C": "6.25 %",
+    "Option D": "6.67 %",
+    "Answer": "6.67 %",
+    "Solution": "The tank contains 10,000 gallons of solution, of which 5% is sodium chloride, so there are 500 gallons of sodium chloride in the solution. If 2,500 gallons of water evaporate, the remaining solution will be 7,500 gallons, and the concentration of sodium chloride will be 500 / 7,500 = 6.67%.",
+    "Question": "Q. 12 A tank is filled with a solution totaling 10,000 gallons, where 5% of it is sodium chloride. If 2,500 gallons of the solution evaporate, what will be the new concentration percentage of sodium chloride in the remaining solution?",
+    "Topic": "Averages, Mixture and Alligations"
+  },
+  {
+    "Option A": "1.2 liters",
+    "Option B": "2.0 liters",
+    "Option C": "2.1 liters",
+    "Option D": "6.0 liters",
+    "Answer": "2.0 liters",
+    "Solution": "Let x be the amount of water evaporated from the solution. Initially, there are 8 liters of a 45% saline solution, which means there are 0.45*8 = 3.6 liters of saline and 4.4 liters of water. After the water evaporates, there are 8-x liters of solution left. Since the solution is now 60% saline, there are 0.6*(8-x) = 4.8-0.6x liters of saline. We know that the amount of saline remains constant, so we can set up the following equation: 3.6 = 4.8-0.6x Solving for x, we get: x = 2 liters Therefore, approximately 2 liters of water evaporated from the solution.",
+    "Question": "Q. 13 There are eight liters of a solution that contains 45% salt. After some of the water in this solution evaporates while being exposed to sunlight, the concentration of salt increases to 60%. What is the approximate volume of water that has evaporated?",
+    "Topic": "Averages, Mixture and Alligations"
+  },
+  {
+    "Option A": "0-1.5 gal",
+    "Option B": "1.5-3 gal",
+    "Option C": "3-4.5 gal",
+    "Option D": "4.5-6 gal",
+    "Answer": "3-4.5 gal",
+    "Solution": "Let amount of water that must be added in gallons to dilute concentration of brine solution = x Amount of brine already present = 10/100 * 10 = 1 gallon 1/(10+x) *100 = 7 =>100 = 70 + 7x => x= 30/7 = 4.2",
+    "Question": "Q. 14 How much water must be added to 10 gallons of 10 % brine solution to decrease the concentration to 7 % ?",
+    "Topic": "Averages, Mixture and Alligations"
+  },
+  {
+    "Option A": "1 kg",
+    "Option B": "2 kg",
+    "Option C": "3 kg",
+    "Option D": "4 kg",
+    "Answer": "4 kg",
+    "Solution": "Let x x be the weight of the piece that was removed. The first alloy has 6 x / 6 = x 6 kilograms of copper, and the second alloy has 12 x / 12 = x 12 kilograms of copper. After the pieces were removed, the first alloy had 6 − x 6 kilograms of copper and the second alloy had 12 − x 12 kilograms of copper. The new alloys have the same percentage of copper, so the ratio of copper to total weight is the same in both alloys. This means that x 6 − x = x 12 − x . Solving for x x , we get x = 4 . Therefore, the weight of the piece that was removed is 4 4 kilograms.",
+    "Question": "Q. 15 Two copper alloys have varying copper contents. Alloy A weighs 6 kg, and Alloy B weighs 12 kg. An identical amount of each alloy was removed and exchanged; the removed portion from Alloy A was mixed with Alloy B, and the removed portion from Alloy B was mixed with Alloy A. The mixing resulted in two new alloys, both having the same percentage of copper. How much weight was removed from each alloy?",
+    "Topic": "Averages, Mixture and Alligations"
+  },
+  {
+    "Option A": "40 l",
+    "Option B": "30 l",
+    "Option C": "20 l",
+    "Option D": "60 l",
+    "Answer": "40 l",
+    "Solution": "Amount of milk = 2 3 × 60 = 40  Amount of water = 1 3 × 60 = 20 Let x liters of water be added to make the ratio 1:2. Then, 40 20 + x = 1 2 Solving, x=60−20=40",
+    "Question": "Q. 16 A farmer has a large pot holding 60 liters of a milk-and-water mixture. Initially, the ratio of milk to water is 2:1. To adjust the composition for his recipe, he adds some water, changing the ratio to 1:2. How much water does the farmer add?",
+    "Topic": "Averages, Mixture and Alligations"
+  },
+  {
+    "Option A": "35 liters",
+    "Option B": "40 liters",
+    "Option C": "42 liters",
+    "Option D": "45 liters",
+    "Answer": "35 liters",
+    "Solution": "Let the original quantity of mixture be x liters. Amount of A = 4 7 x , Amount of B = 3 7 x After replacing 10 liters, New amount of A = 4 7 x – 4 7 × 10 = 4 x – 40 7  New amount of B = 3 7 x – 3 7 × 10 + 10 = 3 x + 40 7 Equating the ratio, 4 x – 40 7 3 x + 40 7 = 2 3 Solving for x , we get x=35",
+    "Question": "Q. 17 A mysterious jar holds a mix of two liquids, A and B, in the ratio 4:3. A mischievous scientist removes 10 liters of the mixture and replaces it with pure liquid B. The new ratio becomes 2:3. What is the original volume of the mixture?",
+    "Topic": "Averages, Mixture and Alligations"
+  },
+  {
+    "Option A": "6 liters",
+    "Option B": "8 liters",
+    "Option C": "9 liters",
+    "Option D": "10 liters",
+    "Answer": "9 liters",
+    "Solution": "Let the initial quantity of alcohol be 3x and water x. After adding 10 liters of water, New ratio = 3 x x + 10 = 2 3 Solving, x=9, so the initial amount of alcohol = 73 × 9 = 27 73",
+    "Question": "Q. 18 A barrel contains a flavourful mixture of alcohol and water in the ratio of 3:1. After adding 10 liters of water, the ratio transforms to 2:3. How much alcohol was present in the barrel initially?",
+    "Topic": "Averages, Mixture and Alligations"
+  },
+  {
+    "Option A": "100 cm²",
+    "Option B": "150 cm²",
+    "Option C": "200 cm²",
+    "Option D": "300 cm²",
+    "Answer": "200 cm²",
+    "Solution": "Let the breadth be bbb and the length be 2b Perimeter = 2(l+b)=60 2(2b+b)=60 6b=60 b=10 , l=20 Area = l × b = 20 × 10 = 200 l cm².",
+    "Question": "Q. 1 A rectangular garden has a fence around it, where the total length of the fence measures 60 cm. Interestingly, the length of this garden is exactly twice its breadth. Calculate the area of this rectangle?",
+    "Topic": "Mensuration"
+  },
+  {
+    "Option A": "49 cm²",
+    "Option B": "98 cm²",
+    "Option C": "196 cm²",
+    "Option D": "294 cm²",
+    "Answer": "98 cm²",
+    "Solution": "The diagonal of the square equals the diameter of the circle, 2r=14 cm. Diagonal of the square = √ 2 × side , Side = diagonal √ 2 = 14 √ 2 = 7 √ 2  Area = side 2 = ( 7 √ 2 ) 2 = 98 cm².",
+    "Question": "Q. 2 A perfectly round lake has a radius of 7 cm. Inside this lake, Mohan wants to construct the largest possible square platform that fits entirely within its boundaries. What is the area of this square platform?",
+    "Topic": "Mensuration"
+  },
+  {
+    "Option A": "25 √ 3 cm²",
+    "Option B": "50 √ 3 cm²",
+    "Option C": "75 √ 3 cm²",
+    "Option D": "100 √ 3 cm²",
+    "Answer": "25 √ 3 cm²",
+    "Solution": "Area of an equilateral triangle = √ 3 4 × side 2  Area = √ 3 4 × 10 2 = √ 3 4 × 100 = 25 √ 3 cm².",
+    "Question": "Q. 3 An equilateral triangular park‘ where‘s each side measures exactly 10 cm. The park is known for its unique symmetry. What is the total area of this triangular park?",
+    "Topic": "Mensuration"
+  },
+  {
+    "Option A": "9 cm",
+    "Option B": "12 cm",
+    "Option C": "18 cm",
+    "Option D": "24 cm",
+    "Answer": "9 cm",
+    "Solution": "Area of the triangle = 1 2 × base × height = 1 2 × 12 × 9 = 54 cm². Area of the rectangle = length × breadth length  6 × breadth = 54 6  54 6 = 9 cm.",
+    "Question": "Q. 4 A triangular flag has a base of 12 cm and a height of 9 cm. The same amount of fabric is used to make a rectangular banner. If the length of this rectangle is 6 cm, can you determine its breadth?",
+    "Topic": "Mensuration"
+  },
+  {
+    "Option A": "440 cm²",
+    "Option B": "660 cm²",
+    "Option C": "748 cm²",
+    "Option D": "960 cm²",
+    "Answer": "748 cm²",
+    "Solution": "Total Surface Area = 2 π r ( h + r ) 2  = 2 × 22 7 × 7 × ( 10 + 7 ) = 2 × 22 × 17 = 748 cm².",
+    "Question": "Q. 5 A cylindrical closed container, used to hold water, has a radius of 7 cm and a height of 10 cm. Taking into account both the curved surface and the circular ends, can you calculate the total surface area of this cylinder?",
+    "Topic": "Mensuration"
+  },
+  {
+    "Option A": "2640 cm³",
+    "Option B": "2688 cm³",
+    "Option C": "2600 cm³",
+    "Option D": "2800 cm³",
+    "Answer": "2688 cm³",
+    "Solution": "Volume of hemisphere = ( 2 / 3 ) π ( R 3 – r 3 ) , where R=10, r=8: V= 2 3 π ( 10 3 – 8 3 ) = 2 3 ⋅ 22 7 ( 1000 – 512 ) = 2688 cm 3",
+    "Question": "Q. 6 A hollow hemisphere bowl has an outer radius of 10 cm and a wall thickness of 2 cm. What is the total volume of this hollow hemisphere?",
+    "Topic": "Mensuration"
+  },
+  {
+    "Option A": "4 cm",
+    "Option B": "5 cm",
+    "Option C": "6 cm",
+    "Option D": "7 cm",
+    "Answer": "5 cm",
+    "Solution": "Slant height = √ radius 2 + height 2 = √ 3 2 + 4 2 = √ 9 + 16 = 5 cm.",
+    "Question": "Q. 7 A conical tent is being constructed, and its base has a radius of 3 cm while its height is 4 cm. Can you calculate the slant height of the cone?",
+    "Topic": "Mensuration"
+  },
+  {
+    "Option A": "6 cm",
+    "Option B": "7 cm",
+    "Option C": "8 cm",
+    "Option D": "9 cm",
+    "Answer": "7 cm",
+    "Solution": "Volume of a sphere = 4 3 π r 3  4 3 × 3.14 × r 3 = 904.78  r 3 = 904.78 × 3 4 × 3.14 = 7 3  r=7 cm.",
+    "Question": "Q. 8 A spherical decoration has volume of 904.78 cm³. Find its radius? (Take π = 3.14 )",
+    "Topic": "Mensuration"
+  },
+  {
+    "Option A": "4:5",
+    "Option B": "16:25",
+    "Option C": "5:4",
+    "Option D": "64:125",
+    "Answer": "4:5",
+    "Solution": "The ratio of the sides of similar triangles is the square root of the ratio of their areas. √ 16 25 = 4 5",
+    "Question": "Q. 9 Two similar triangular paintings are hung side by side, and their areas are in the ratio 16:25. What would be the ratio of the lengths of their corresponding sides?",
+    "Topic": "Mensuration"
+  },
+  {
+    "Option A": "7 cm",
+    "Option B": "14 cm",
+    "Option C": "28 cm",
+    "Option D": "56 cm",
+    "Answer": "14 cm",
+    "Solution": "Area of semicircle = 1 2 π r 2  1 2 × 3.14 × r 2 = 154  r 2 = 154 × 2 3.14 = 98  r = √ 98 = 7 c m D i a m e t e r = 2 \\times r = 14$ cm.",
+    "Question": "Q. 10 A semi-circular window has an area of 154 cm². If we assume π = 3.14, can you calculate the diameter of this window?",
+    "Topic": "Mensuration"
+  },
+  {
+    "Option A": "54",
+    "Option B": "27",
+    "Option C": "36",
+    "Option D": "48",
+    "Answer": "54",
+    "Solution": "If the cube’s edge is divided into 3 equal parts, the number of smaller cubes is 3 3 = 27 . The smaller cubes with exactly one face painted are those in the center of each face. Each face has 1 2 = 1 such cube. Since there are 6 faces: 6 × 1 = 6 6",
+    "Question": "Q. 11 A cube is painted on all its faces and then cut into smaller cubes of equal size. If the edge of the smaller cube is 1/3rd of the original cube, how many smaller cubes have exactly one face painted?",
+    "Topic": "Mensuration"
+  },
+  {
+    "Option A": "1078 m³",
+    "Option B": "539 m³",
+    "Option C": "1540 m³",
+    "Option D": "308 m³",
+    "Answer": "539 m³",
+    "Solution": "Volume of a cylinder = π r 2 h , where diameter 2 = 3.5 m and h=14 m. V= π × ( 3.5 ) 2 × 14 = 22 7 × 12.25 × 14 = 539 m 3",
+    "Question": "Q. 12 A cylindrical water tank has a diameter of 7 m and a height of 14 m. What is the volume of water it can hold?",
+    "Topic": "Mensuration"
+  },
+  {
+    "Option A": "220 cm²",
+    "Option B": "230 cm²",
+    "Option C": "240 cm²",
+    "Option D": "260 cm²",
+    "Answer": "260 cm²",
+    "Solution": "Total Surface Area of a cone = π r ( r + l ) , where r=5 cm and l=13 cm. TSA = π × 5 × ( 5 + 13 ) = 22 7 × 5 × 18 = 282.86 cm 2",
+    "Question": "Q. 13 A decorative cone has a slant height of 13 cm and a base radius of 5 cm. Including both the curved surface and the base, what is the total surface area of this cone?",
+    "Topic": "Mensuration"
+  },
+  {
+    "Option A": "300 cm²",
+    "Option B": "400 cm²",
+    "Option C": "375 cm²",
+    "Option D": "450 cm²",
+    "Answer": "300 cm²",
+    "Solution": "Using Pythagoras theorem, Diagonal 2 = Length 2 + Breadth 2 : 25 2 = 15 2 + Breadth 2 ⟹ Breadth = 20 cm Area = 15 × 20 = 300 cm 2",
+    "Question": "Q. 14 The diagonal of a rectangular billboard is 25 cm, and one of its sides measures 15 cm. What is the total area of this rectangular billboard?",
+    "Topic": "Mensuration"
+  },
+  {
+    "Option A": "452.16 cm²",
+    "Option B": "314 cm²",
+    "Option C": "272 cm²",
+    "Option D": "432 cm²",
+    "Answer": "452.16 cm²",
+    "Solution": "Surface Area of a sphere = π r 2 , where r = diameter 2 = 6 cm. Surface Area = 4 × π × 6 2 = 4 × 22 7 × 36 = 452.16 cm 2",
+    "Question": "Q. 15 A smooth, shiny sphere has a diameter of 12 cm. Can you determine the total surface area of this sphere?",
+    "Topic": "Mensuration"
+  },
+  {
+    "Option A": "6 cm",
+    "Option B": "12 cm",
+    "Option C": "9 cm",
+    "Option D": "8 cm",
+    "Answer": "12 cm",
+    "Solution": "Area of an equilateral triangle = ( √ 3 / 4 ) a 2 . Let side length be a : 36 √ 3 = ( √ 3 / 4 ) a 2 ⟹ a 2 = 144 ⟹ a = 12 cm",
+    "Question": "Q. 16 The area of an equilateral triangle is 36√3 cm². Find its side length.",
+    "Topic": "Mensuration"
+  },
+  {
+    "Option A": "6 cm",
+    "Option B": "10 cm",
+    "Option C": "5 cm",
+    "Option D": "8 cm",
+    "Answer": "10 cm",
+    "Solution": "Volume of water = Volume of cylinder = π r 2 h = 22 7 × 7 2 × 10 = 1540 cm 3  Height in cuboid = Volume/Base Area = 1540 / 154 = 10 cm 1540",
+    "Question": "Q. 17 A cylindrical vessel of radius 7 cm is filled with water to a height of 10 cm. If the water is poured into a cuboidal vessel of base area 154 cm², find the height to which the water rises.",
+    "Topic": "Mensuration"
+  },
+  {
+    "Option A": "12",
+    "Option B": "8",
+    "Option C": "6",
+    "Option D": "24",
+    "Answer": "12",
+    "Solution": "A regular octahedron has 8 triangular faces, 6 vertices, and 12 edges.",
+    "Question": "Q. 18 An octahedron, a unique 3D shape with eight triangular faces, is being studied. How many edges does this geometric solid have?",
+    "Topic": "Mensuration"
+  },
+  {
+    "Option A": "48 m³",
+    "Option B": "64 m³",
+    "Option C": "72 m³",
+    "Option D": "84 m³",
+    "Answer": "48 m³",
+    "Solution": "Let dimensions be x,2x,3x. Total surface area: 2 ( x ⋅ 2 x + 2 x ⋅ 3 x + 3 x ⋅ x ) = 88 ⟹ x 2 = 4 ⟹ x = 2 Volume = x ⋅ 2 x ⋅ 3 x = 2 ⋅ 4 ⋅ 6 = 48 m 3",
+    "Question": "Q. 19 The length, breadth, and height of a cuboid are in the ratio 1:2:3, and the total surface area of the cuboid is 88 m². Find the volume of this cuboid:",
+    "Topic": "Mensuration"
+  },
+  {
+    "Option A": "63",
+    "Option B": "36",
+    "Option C": "54",
+    "Option D": "45",
+    "Answer": "63",
+    "Solution": "Let the number be 10x+y , where x is the tens digit and y is the units digit. Given: Add the equations: 2 x = 12 ⇒ x = 6 2 Substitute x=6 into x+y=9 : y=3 The number is 10 x + y = 10 × 6 + 3 = 63 10 . An essential problem-solving checklist worth reading to solve such questions.",
+    "Question": "Q. 1 Imagine a two-digit number where the sum of its digits equals 9. Furthermore, the difference between these digits is 3. What is the number?",
+    "Topic": "Number System"
+  },
+  {
+    "Option A": "5",
+    "Option B": "6",
+    "Option C": "7",
+    "Option D": "8",
+    "Answer": "5",
+    "Solution": "Let the number be x. Given: 7x−15=2x+10 Rearrange to solve for x : 5 x = 25 ⇒ x = 5 5",
+    "Question": "Q. 2 Think of a number such that when 15 is subtracted from seven times the number, the result equals 10 more than twice the number. What could this magical number be?",
+    "Topic": "Number System"
+  },
+  {
+    "Option A": "20",
+    "Option B": "30",
+    "Option C": "40",
+    "Option D": "50",
+    "Answer": "20",
+    "Solution": "We know: Product of two numbers= HCF × LCM HCF Thus, 120 = 6 × LCM ⇒ LCM = 20 120",
+    "Question": "Q. 3 Two numbers have a product of 120, and their greatest common divisor (HCF) is 6. Find their least common multiple (LCM)?",
+    "Topic": "Number System"
+  },
+  {
+    "Option A": "1",
+    "Option B": "2",
+    "Option C": "3",
+    "Option D": "4",
+    "Answer": "4",
+    "Solution": "By Fermat’s Little Theorem, 2 4 ≡ 1 mod 5 Thus, 2 30 = ( 2 4 ) 7 × 2 2 ≡ 1 7 × 4 = 4 mod 5",
+    "Question": "Q. 4 What remainder you will get when on dividing 2 30 by 5?",
+    "Topic": "Number System"
+  },
+  {
+    "Option A": "10, 12",
+    "Option B": "12, 14",
+    "Option C": "14, 16",
+    "Option D": "16, 18",
+    "Answer": "10, 12",
+    "Solution": "Let the two consecutive even numbers be x and x+2 Given: x 2 + ( x + 2 ) 2 = 244 Expanding and simplifying: 2 x 2 + 4 x + 4 = 244 ⇒ x 2 + 2 x – 120 = 0 Solving the quadratic, we get x=10 The numbers are 10 and 12 A quick guide to avoid common mistakes in such questions.",
+    "Question": "Q. 5 Two consecutive even numbers, when squared and added together, give a total of 244. What are these two numbers?",
+    "Topic": "Number System"
+  },
+  {
+    "Option A": "50",
+    "Option B": "60",
+    "Option C": "75",
+    "Option D": "125",
+    "Answer": "125",
+    "Solution": "Let the number be x Given: 0.4x+25=0.6x Rearrange to solve for x : 25 = 0.2 x ⇒ x = 125 25",
+    "Question": "Q. 6 If 40% of a number is added to 25, the result matches exactly 60% of the same number. What is this number?",
+    "Topic": "Number System"
+  },
+  {
+    "Option A": "48",
+    "Option B": "39",
+    "Option C": "84",
+    "Option D": "57",
+    "Answer": "84",
+    "Solution": "Let the two-digit number be 10x+y , where x is the tens digit and y is the units digit. Given: Adding these equations: 2 x = 16 ⇒ x = 8 2 Substitute x=8 into x+y=12 : y=4 The number is 10 × 8 + 4 = 84 10",
+    "Question": "Q. 7 Consider a two-digit number where the sum of its digits equals 12, and their difference is 4. Find the number:",
+    "Topic": "Number System"
+  },
+  {
+    "Option A": "60",
+    "Option B": "80",
+    "Option C": "100",
+    "Option D": "200",
+    "Answer": "200",
+    "Solution": "Let the number be x Given : 0.3 x + 40 = 0.5 x 0.3 Rearrange to solve for x : 40 = 0.2 x ⇒ x = 200 40",
+    "Question": "Q. 8 If 30% of a number is added to 40, it matches precisely 50% of the same number. What is this number that balances the equation?",
+    "Topic": "Number System"
+  },
+  {
+    "Option A": "30",
+    "Option B": "36",
+    "Option C": "60",
+    "Option D": "45",
+    "Answer": "30",
+    "Solution": "We know : Product of two numbers= HCF × LCM HCF Thus, 180 = 6 × LCM ⇒ LCM = 30 180",
+    "Question": "Q. 9 The product of two numbers is 180, and their HCF is 6. What is their LCM?",
+    "Topic": "Number System"
+  },
+  {
+    "Option A": "1",
+    "Option B": "2",
+    "Option C": "3",
+    "Option D": "4",
+    "Answer": "3",
+    "Solution": "By Fermat’s Little Theorem, 3 4 ≡ 1 mod 5 . Thus, 3 25 = ( 3 4 ) 6 × 3 ≡ 1 6 × 3 = 3 mod 5",
+    "Question": "Q. 10 Picture 3 raised to the 25th power, an enormous number! When this is divided by 5, what remainder do you think it leaves?",
+    "Topic": "Number System"
+  },
+  {
+    "Option A": "360",
+    "Option B": "180",
+    "Option C": "540",
+    "Option D": "18",
+    "Answer": "180",
+    "Solution": "Factorize 36 as 2 * 18, and 90 as 5 * 18. So LCM becomes = 2 * 5 * 18",
+    "Question": "Q. 11 Find the LCM for: 36 and 90",
+    "Topic": "Number System"
+  },
+  {
+    "Option A": "120",
+    "Option B": "10",
+    "Option C": "40",
+    "Option D": "20",
+    "Answer": "20",
+    "Solution": "40 can be written as = 2 * 20 while 60 can be written as 3 * 20. So HCF must be 20",
+    "Question": "Q. 12 Find the HCF for: 40 and 60",
+    "Topic": "Number System"
+  },
+  {
+    "Option A": "390",
+    "Option B": "3",
+    "Option C": "12",
+    "Option D": "6",
+    "Answer": "6",
+    "Solution": "78 can be written as = 13 * 6 while 30 can be written as 5 * 6. So HCF must be 6",
+    "Question": "Q. 13 Find the HCF for: 78 and 30",
+    "Topic": "Number System"
+  },
+  {
+    "Option A": "13 ( 3 11 )",
+    "Option B": "17 ( 3 11 )",
+    "Option C": "19 ( 3 11 )",
+    "Option D": "13 ( 3 10 )",
+    "Answer": "13 ( 3 11 )",
+    "Solution": "Refer to common word problem scenarios",
+    "Question": "Q. 14 3 11 + 3 12 + 3 13 =",
+    "Topic": "Number System"
+  },
+  {
+    "Option A": "120",
+    "Option B": "60",
+    "Option C": "240",
+    "Option D": "30",
+    "Answer": "60",
+    "Solution": "Since “APPLE” has 5 letters, with the letter ‘P’ repeating twice, the number of distinct 5-letter words that can be formed is given by: 5 ! 2 ! = 120 2 = 60 Understand the difference between applying permutations and combinations.",
+    "Question": "Q. 1 How many unique 5-letter words can be created using the letters of the word “APPLE” such that no letter is repeated?",
+    "Topic": "Permutation Combination"
+  },
+  {
+    "Option A": "220",
+    "Option B": "84",
+    "Option C": "120",
+    "Option D": "286",
+    "Answer": "286",
+    "Solution": "This is a problem of distributing n identical items into r distinct groups, which is given by ( n + r – 1 r – 1 ) ( . ( 10 + 4 – 1 4 – 1 ) = ( 13 3 ) = 286 (",
+    "Question": "Q. 2 You have 10 identical balls and 4 unique boxes in front of you. How many ways can you distribute all the balls among the boxes? (Hint: Since the balls are identical, it’s the distribution that matters, not the arrangement)",
+    "Topic": "Permutation Combination"
+  },
+  {
+    "Option A": "4000",
+    "Option B": "4100",
+    "Option C": "3100",
+    "Option D": "3108",
+    "Answer": "3108",
+    "Solution": "Case 1: 3 women, 3 men: (73)×(83)= ( 7 3 ) × ( 8 3 ) = 35 × 56 = 1960 (  Case 2: 4 women, 2 men: (74)×(82)= ( 7 4 ) × ( 8 2 ) = 35 × 28 = 980 (  Case 3: 5 women, 1 man: (75)×(81)= ( 7 5 ) × ( 8 1 ) = 21 × 8 = 168 ( 1960 + 980 + 168 = 3108 1960",
+    "Question": "Q. 3 From a group of 8 men and 7 women, a committee of 6 members is to be formed. The only condition is that the committee must have at least 3 women. How many ways can this committee be chosen while meeting the requirement?",
+    "Topic": "Permutation Combination"
+  },
+  {
+    "Option A": "18000",
+    "Option B": "15000",
+    "Option C": "420",
+    "Option D": "1680",
+    "Answer": "420",
+    "Solution": "Treat all S’s as one unit. We then have: M, I, I, I, P, P, S block. The total number of arrangements is: 7 ! 3 ! × 2 ! = 5040 6 × 2 = 420",
+    "Question": "Q. 4 The word “MISSISSIPPI” has so many repeating letters! How many unique arrangements can you make if all the S’s must always stick together as a single block? (Hint: It’s like treating the S’s as one super letter—how does this change your possibilities?)",
+    "Topic": "Permutation Combination"
+  },
+  {
+    "Option A": "28",
+    "Option B": "56",
+    "Option C": "8",
+    "Option D": "20",
+    "Answer": "28",
+    "Solution": "If 2 particular people (the couple) are always included, we need to choose 2 more people from the remaining 8. This can be done in: ( 8 2 ) = 28 (",
+    "Question": "Q. 5 You need to form a committee of 4 members from a group of 10 employees. However, a stubborn couple among the employees insist on being included in every committee. With this condition in place, how many ways can you choose the remaining members to complete the group?",
+    "Topic": "Permutation Combination"
+  },
+  {
+    "Option A": "43200",
+    "Option B": "60480",
+    "Option C": "75600",
+    "Option D": "50400",
+    "Answer": "60480",
+    "Solution": "Treat the vowels (A, A, E, E) as a single unit, giving us 8 units. Then, 8 ! 2 ! × 2 ! × 4 ! 2 ! × 2 ! = 10080 × 6 = 60480",
+    "Question": "Q. 6 Using the letters of the word “ARRANGEMENT,” how many distinct arrangements can you make if all the vowels must always appear together as a single unit?",
+    "Topic": "Permutation Combination"
+  },
+  {
+    "Option A": "756",
+    "Option B": "630",
+    "Option C": "850",
+    "Option D": "1050",
+    "Answer": "1050",
+    "Solution": "Consider cases for the number of women: Total: 525 + 420 + 105 = 1050 525",
+    "Question": "Q. 7 An international committee of 5 people is to be formed from an elected group of 7 men and 6 women. However, the requirement is that at least 2 women must be included in the group to represent the diversity. How many different ways can this be achieved while adhering to the condition?",
+    "Topic": "Permutation Combination"
+  },
+  {
+    "Option A": "210",
+    "Option B": "1120",
+    "Option C": "120",
+    "Option D": "56",
+    "Answer": "1120",
+    "Solution": "This is a problem of distributing identical items among distinct groups with a total number of ways: ( 5 + 4 − 1 4 − 1 ) × ( 3 + 4 − 1 4 − 1 ) = ( 8 3 ) × ( 6 3 ) = 56 × 20 = 1120 (",
+    "Question": "Q. 8 Imagine you have 5 identical apples and 3 identical oranges, and you want to distribute them among 4 children. How many different ways can this distribution be carried out? (Hint: It’s the distribution that counts, not who gets which specific fruit.)",
+    "Topic": "Permutation Combination"
+  },
+  {
+    "Option A": "24",
+    "Option B": "48",
+    "Option C": "60",
+    "Option D": "120",
+    "Answer": "48",
+    "Solution": "We have 7 total ducks, including one adult male, one adult female, and one ugly duckling. We need to determine the number of ways the ducks can line up with the adult ducks at each end and the ugly duckling in the center. In the first spot, we have 2 choices (since it can be 1 of the 2 adult ducks). In the second spot, we have 4 choices (since it can be any 1 of the 4 non-ugly ducklings). In the third spot, we have 3 choices (since it can be any 1 of the 3 remaining non-ugly ducklings). In the fourth spot, i.e., the center spot, we have only 1 choice (since it must be the ugly duckling). In the fifth spot, we have 2 choices (since it can be any 1 of the 2 remaining non-ugly ducklings). In the six spot, we have 1 choice (since it must be the last remaining non-ugly duckling). In the seventh spot, i.e., the last position, we have 1 choice (since it must be the other adult duck). Thus, the number of ways the ducks can lineup with an adult duck at each end and the ugly duckling in the middle is 2 x 4 x 3 x 1 x 2 x 1 x 1 = 48.",
+    "Question": "Q. 10 Seven ducks , an adult male , an adult female , and 5 ducklings ( one of whom is particularly unattractive ) , are walking in a straight line from the barn to the pond . The line is led by and ended with an adult duck and the ugly duckling must be in the exact center of the line . How many different ways can this line be formed ?",
+    "Topic": "Permutation Combination"
+  },
+  {
+    "Option A": "453600",
+    "Option B": "378000",
+    "Option C": "1000000",
+    "Option D": "16800",
+    "Answer": "453600",
+    "Solution": "The word “INDEPENDENCE” has 12 letters: I, N (3 times), D (2 times), E (4 times), and C. So, 12 ! 3 ! × 2 ! × 4 ! × 1 ! = 479001600 6 × 2 × 24 × 1 = 453600",
+    "Question": "Q. 11 The word “INDEPENDENCE” is packed with repeating letters! If you were to arrange all its letters, how many unique ways could you come up with?",
+    "Topic": "Permutation Combination"
+  },
+  {
+    "Option A": "5",
+    "Option B": "10",
+    "Option C": "48",
+    "Option D": "72",
+    "Answer": "72",
+    "Solution": "To solve this problem, we can first calculate the total number of unrestricted seating arrangements and then subtract the number of arrangements where Anya and Xavier are sitting next to each other. 1. **Total number of unrestricted arrangements:** There are 5 people (Anya, Peter, Martha, Xavier, Ed). If there are no restrictions, any of the 5 people can sit in the first seat, any of the remaining 4 can sit in the second seat, and so on. This is a permutation of 5 people, calculated as: 5 ! = 5 × 4 × 3 × 2 × 1 = 120 5 2. **Arrangements where Anya and Xavier are sitting next to each other:** To simplify this, consider Anya and Xavier as a single unit. This effectively reduces the number of units to arrange from 5 to 4 (the unit “Anya-Xavier”, plus Peter, Martha, Ed). – The unit “Anya-Xavier” can be arranged in 2 ways (Anya can be first or Xavier can be first). – The total arrangement for the 4 units is 4 ! 4 , as there are now 4 units to arrange: 4 ! = 4 × 3 × 2 × 1 = 24 4 – Since the Anya-Xavier unit can be arranged in 2 ways, multiply their internal arrangements by the other possible arrangements of the units: 2 × 24 = 48 2 3. **Subtract the restricted arrangements from the total arrangements:** Subtract the number of arrangements where Anya and Xavier are next to each other from the total number of unrestricted arrangements: 120 – 48 = 72 120 Therefore, there are 72 different seating arrangements possible where Anya and Xavier are not sitting next to each other.",
+    "Question": "Q. 12 Anya, Peter, Martha, Xavier, and Ed are seated on a bench. How many different ways can they be arranged if Anya and Xavier must not sit adjacent to each other?",
+    "Topic": "Permutation Combination"
+  },
+  {
+    "Option A": "28",
+    "Option B": "49",
+    "Option C": "56",
+    "Option D": "64",
+    "Answer": "56",
+    "Solution": "To find the total number of matches played in the first round of the Indian Premier League with each team playing every other team exactly twice, we follow these steps: 1. **Calculate the Number of Matches if Each Team Played Every Other Team Once:** There are 8 teams, and each team plays every other team exactly once. The number of such matches can be calculated using the combination formula, which in this context is: C ( n , 2 ) = n ( n − 1 ) 2 where n n is the number of teams. Here, n = 8 , so: C ( 8 , 2 ) = 8 × 7 2 = 28 This means there would be 28 matches if each team played every other team exactly once. 2. **Each Team Plays Every Other Team Twice:** Since each match scenario is played twice, the total number of matches will be: 28 × 2 = 56 28 Therefore, the total number of matches played in the first round with each team playing every other team exactly twice is 56.",
+    "Question": "Q. 13 In the Indian Premier League, there are 8 teams and each team plays two matches against each of the other teams in the first round. How many matches will be played in total during this round?",
+    "Topic": "Permutation Combination"
+  },
+  {
+    "Option A": "<9!",
+    "Option B": "8 ! × 9",
+    "Option C": "9 ! × 8",
+    "Option D": "10 ! 2 !",
+    "Answer": "9 ! × 8",
+    "Solution": "We can calculate total number of arrangements without this constraint = 10! Now we can calculate total number of arrangements with Alex and Betty being together = 9!*2 Since Alex and Betty can be treated as one unit and arrangement between the two also matters. All the remaining cases re the ones we have been asked for = 10! = 9!*2 = 10*9! – 2*9! = 8*9!",
+    "Question": "Q. 14 During a party, Alex and Betty have a disagreement and choose not to speak to each other for the remainder of the event. A photographer is looking to take a group photo of all 10 attendees but faces a constraint: Betty refuses to stand next to Alex. How many different ways can the photographer arrange the 10 guests for the photo under this condition?",
+    "Topic": "Permutation Combination"
+  },
+  {
+    "Option A": "12312",
+    "Option B": "22536",
+    "Option C": "4320",
+    "Option D": "11268",
+    "Answer": "22536",
+    "Solution": "Since, one child cannot have more than two brands of chocolates, therefore, one child can get a maximum of six chocolates. When there are four winners, the winners can have the chocolates in the following possible way Case I One of them gets six chocolates and the other three get one each. The one who gets six chocolates can be selected in 4C1 ways and he will get any two brands out of three in 3C2 ways. The three chocolates of the same brand will be distributed among the other three in 3! ways. Hence, the total number of ways = 4 × 3 × 6 = 72 Case II One of them gets 5 chocolates, one of them gets 2 chocolates and the other two get 1 each. Kid with 5 chocolates: The one who gets five chocolates can be selected in 4C1 ways and he will get any two brands out of three in 3C2 ways. After choosing the two brands (say A & B), he can get all three chocolates of one brand in 2 ways (i.e. either A or B). The other two chocolates can be chosen from the second brand in 3 ways. Thus, there are 4 × 3 × 2 × 3 = 36 ways Kid with 2 chocolates: This person can be chosen in 3 ways. Now, he can either get two chocolates from the same brand or from two different brands. Thus, there are 6 × 3 = 18 ways Kids with 1 chocolate each The remaining chocolates can be distributed between the two remaining winners in 2 ways. Therefore, total number of ways = 36 × 18 × 2 = 1296 ways. Case III Similarly for four chocolates the following combinations are possible: a) 4 3 1 1 The number of ways = 4 × 3 × [{6 × 3(1 + ( 6 + 3))} + {1 × 9 × 3 (1 + 6)}] × 2 = 8856 b) 4 2 2 1 The number of ways = 4 × 3 × [{6 × 3(2 × 6 × 3 + (3 + 9))} + {9 × (9 + 9)}] = 12312 Since, the best of them can’t have less than 4 chocolates the above are the only cases applicable. Hence, the total number of ways = 72 + 1296 + (8856 + 12312) = 22536.",
+    "Question": "Q. 15 Five children were walking and stopped at a store displaying three different chocolate brands: Cadbury, Nestle, and Ferrero. Each brand offered three unique flavors of chocolate, yielding a total of nine chocolates. The children purchased all nine chocolates and decided that only game winners could receive them. The rule was established that no single winner could obtain chocolates from all three brands. Determine how many ways the nine chocolates can be distributed among four winners if the top winner receives at least four chocolates.",
+    "Topic": "Permutation Combination"
+  },
+  {
+    "Option A": "648",
+    "Option B": "300",
+    "Option C": "252",
+    "Option D": "225",
+    "Answer": "300",
+    "Solution": "The digit 6 is used once in 100~109 (only when 106). Similarly the digit 6 is used once in 110~119(only when 116), …. in 150~159(only when 156), in 170~179(only when 176), in 190~199(only when 196). On the other hand in 160~169 the digit 6 is used at unit digit(166) and at tenth digit(16□). So the digit 6 is used 11 times(=1 (unit digit)+10 (tenth digit)) in 160~169. That means the digit 6 is used 20 in 100~199. Similarly in 200~299 : 20 times 300~399 : 20 times …. 500~599 : 20 times 700~799 : 20 times …. 800~899 : 20 times 900~999 : 20 times On the other hand in 600~699 we should consider hundredth digit so 6 is 100 times more used. That means the digit 6 is used 120 in 600~699. So total number of digit 6 is 20*10 + 100= 300.",
+    "Question": "Q. 16 How many times digit 6 is used while writing numbers from 100 to 1000 ?",
+    "Topic": "Permutation Combination"
+  },
+  {
+    "Option A": "6400",
+    "Option B": "5888",
+    "Option C": "4438",
+    "Option D": "3120",
+    "Answer": "5888",
+    "Solution": "the profit earned is 64000. Now 20% of this profit will be 12800 taking 6% of 12800 will be 768 Now beyond 20% of 12800 means 80% of 128000. We will get 0.8 of 128000 as 51200. This amount 51200 is taxed at 10% 0.1 of 51200 = 5120 adding 1 and 2 768+ 5120 = 5888",
+    "Question": "Q. 1 When someone makes a profit from selling a house, they need to pay taxes on the difference between the selling price and the original purchase price. If the profit is 20% or less of the purchase price, the tax rate is 6%. Any profit exceeding 20% of the purchase price is subject to a 10% tax rate. A business family bought a house for 164,000 dollars and sold it 15 years later for 228,000 dollars. How much tax must they pay on the profit?",
+    "Topic": "Profit, Loss and Partnership"
+  },
+  {
+    "Option A": "25%",
+    "Option B": "50%",
+    "Option C": "66.67%",
+    "Option D": "75%",
+    "Answer": "50%",
+    "Solution": "Cost price (CP) of 1 pen = 50 / 40 = ₹1.25. Selling price (SP) of 1 pen = 50 / 30 = ₹1.6667. Profit % = [(SP – CP) / CP] × 100 = [(1.6667 – 1.25) / 1.25] × 100 = 33.33%.",
+    "Question": "Q. 2 A shopkeeper prides himself on offering the best deals. He purchases a batch of 40 pens for ₹50 and later sets a price where he sells 30 pens for ₹50. While doing this, he wonders: what is the percentage of profit he’s actually making on each pen?",
+    "Topic": "Profit, Loss and Partnership"
+  },
+  {
+    "Option A": "15,000",
+    "Option B": "14,000",
+    "Option C": "13,500",
+    "Option D": "12,000",
+    "Answer": "13,500",
+    "Solution": "The profit ratio of A and B = 50,000 : 40,000 = 5 : 4. Let total profit be P. Then, B’s share = 4/(5+4) × P = 4/9 × P. Given, 4/9 × P = 6,000. P = 6,000 × 9 / 4 = ₹13,500.",
+    "Question": "Q. 3 Two friends, A and B, partner up to start a business. A invests ₹50,000, and B contributes ₹40,000. After a few months, B notices he’s entitled to a profit share of ₹6,000. Curious about how their business is doing, they ask their accountant: what is the total profit generated by their venture?",
+    "Topic": "Profit, Loss and Partnership"
+  },
+  {
+    "Option A": "31.20/kg",
+    "Option B": "32.80/kg",
+    "Option C": "33.00/kg",
+    "Option D": "33.60/kg",
+    "Answer": "33.60/kg",
+    "Solution": "Cost price of the mixture = (1 × 24 + 2 × 30) / 3 = (24 + 60) / 3 = ₹28/kg. Selling price for 20% gain = 28 + 20% of 28 = ₹33.60/kg.",
+    "Question": "Q. 4 A merchant known for his clever pricing strategy mixes two types of sugar: one costing ₹24 per kg and the other ₹30 per kg. He blends them in the ratio of 1:2 and sets a selling price that gives him a 20% profit. Can you determine the selling price of his mixture per kg?",
+    "Topic": "Profit, Loss and Partnership"
+  },
+  {
+    "Option A": "12%",
+    "Option B": "15%",
+    "Option C": "16%",
+    "Option D": "18%",
+    "Answer": "16%",
+    "Solution": "Total CP = (20 × 50) + (30 × 60) = 1000 + 1800 = ₹2800 for 50 kg. SP = 50 × 65 = ₹3250. Profit % = [(SP – CP) / CP] × 100 = [(3250 – 2800) / 2800] × 100 ≈ 16.07%.",
+    "Question": "Q. 5 A neighbourhood shopkeeper purchases 20 kg of rice at ₹50 per kg and another 30 kg at ₹60 per kg. After mixing the two, he decides to sell the entire lot at ₹65 per kg. How much profit or loss percentage does he earn on this sale?",
+    "Topic": "Profit, Loss and Partnership"
+  },
+  {
+    "Option A": "5400",
+    "Option B": "6350",
+    "Option C": "7000",
+    "Option D": "7500",
+    "Answer": "6350",
+    "Solution": "Investment ratio of A and B = 40,000 : 50,000 = 4 : 5. B’s share = 5/(4+5) × 13,500 = 5/9 × 13,500 = ₹7,500.",
+    "Question": "Q.6 Two entrepreneurs, A and B, pool their resources to start a venture. A invests ₹40,000, while B invests ₹50,000. They agree to split profits in proportion to their investments. If their business earns a total profit of ₹13,500 in the first year, how much of this profit does B take home?",
+    "Topic": "Profit, Loss and Partnership"
+  },
+  {
+    "Option A": "No profit, no loss",
+    "Option B": "1% profit",
+    "Option C": "1% loss",
+    "Option D": "2% loss",
+    "Answer": "1% loss",
+    "Solution": "Let the CP of item 1 be ₹x, and for item 2, it is also ₹x. SP of item 1 = x + 10% of x = 1.1x. SP of item 2 = x – 10% of x = 0.9x. Net loss = (10% of 10%) = 1%.",
+    "Question": "Q. 7 Nandalal sells two identical Sarees for ₹990 each. However, he gains 10% on one Saree and incurs a 10% loss on the other. After totaling his transactions, he wonders if he’s made an overall profit or a loss—and by what percentage?",
+    "Topic": "Profit, Loss and Partnership"
+  },
+  {
+    "Option A": "180",
+    "Option B": "200",
+    "Option C": "220",
+    "Option D": "250",
+    "Answer": "200",
+    "Solution": "Let the CP for A be ₹x. After A sells to B at 20% profit: SP for B = 1.2x. After B sells to C at 10% loss: SP for C = 0.9 × 1.2x = 1.08x. 1.08x = 216, so x = 216 / 1.08 = ₹200.",
+    "Question": "Q. 8 Abha buys a gift item, sells it to Benny with a 20% profit, and Benny then sells it to Chandu at a 10% loss. If Chandu pays ₹216 for the item, what was the original cost price that Abha paid for it?",
+    "Topic": "Profit, Loss and Partnership"
+  },
+  {
+    "Option A": "5000",
+    "Option B": "8000",
+    "Option C": "7000",
+    "Option D": "6000",
+    "Answer": "6000",
+    "Solution": "A’s service share = 20% of 25,000 = ₹5,000. Remaining profit = 25,000 – 5,000 = ₹20,000. Investment ratio = 10,000 : 15,000 : 20,000 = 2 : 3 : 4. B’s share = 3/(2+3+4) × 20,000 = 3/9 × 20,000 = ₹6,000.",
+    "Question": "Q. 9 Three partners—Adani, Birla, and Clark—invest ₹10,000, ₹15,000, and ₹20,000 respectively in a business. Adani also takes on the role of a working partner and earns 20% of the total profit for his efforts. If the business generates ₹25,000 in profit, how much of the remaining profit does Birla receive?",
+    "Topic": "Profit, Loss and Partnership"
+  },
+  {
+    "Option A": "1700",
+    "Option B": "-700",
+    "Option C": "900",
+    "Option D": "700",
+    "Answer": "700",
+    "Solution": "Profit = Selling Price (SP) – Cost price (CP)",
+    "Question": "Q. 10 If Selling Price = 3200, Cost Price = 2500, then calculate Profit",
+    "Topic": "Profit, Loss and Partnership"
+  },
+  {
+    "Option A": "8750",
+    "Option B": "6490",
+    "Option C": "8550",
+    "Option D": "8450",
+    "Answer": "8750",
+    "Solution": "Cost price (CP) = Selling Price (SP) + Loss",
+    "Question": "Q. 11 Given Selling Price = 7620 and Loss = 1130, find out the Cost Price",
+    "Topic": "Profit, Loss and Partnership"
+  },
+  {
+    "Option A": "4000 loss",
+    "Option B": "3000 loss",
+    "Option C": "No profit or loss",
+    "Option D": "3000 profit",
+    "Answer": "3000 profit",
+    "Solution": "The company made a total of 400 x 80 = 32000 from the 400 units sold for 80 each. The company made a total of 500 x 50 = 25000 from the 500 units sold for 50 each. The total revenue from the 900 units sold is 32000 + 25000 = 57000. The total cost of producing the 900 units is 900 x 60 = 54000. The company made a profit of 57000 – 54000 = 3000 on the 900 units sold. So the answer is 3000",
+    "Question": "Q. 12 A manufacturing company sold 400 units of a part at Rs 80 per unit and another 5000 units at Rs 50 per unit to a German automobile company. The cost to produce each unit was Rs 60. What was the company’s total profit or loss after selling all 900 units?",
+    "Topic": "Profit, Loss and Partnership"
+  },
+  {
+    "Option A": "Loss of 5 dollars",
+    "Option B": "Loss of 7 dollars",
+    "Option C": "No gain no loss",
+    "Option D": "Gain of 5 dollars",
+    "Answer": "Loss of 5 dollars",
+    "Solution": "He sold the concompany ticket for 25 percent more than he paid for it, so he sold it for 156*1.25 = 195 He sold the mezzanine ticket for 25 percent less than he paid for it, so he sold it for 184*0.75 = 138 His total income from selling the tickets was 195+138 = 333 He paid 156+184 = 340 for the tickets, so he made a profit of 333-340 = -7 So the answer is -7",
+    "Question": "Q. 13 Luke purchased two tickets for a Concert: one corner ticket costing 156 dollars and one mezzanine ticket priced at 184 dollars. He later sold the corner ticket for 25% more than its purchase price and the mezzanine ticket for 25% less than what he originally paid. Calculate Luke’s overall profit or loss from these transactions.",
+    "Topic": "Profit, Loss and Partnership"
+  },
+  {
+    "Option A": "40",
+    "Option B": "50",
+    "Option C": "60",
+    "Option D": "80",
+    "Answer": "80",
+    "Solution": "Lets say there were x number of dresses in each shipment. And cost of the each dress is y. Then we can set up following equation: 70x – xy = 1600 90x -xy = 2400 20x = 800 x= 40 Therefore there are 80 dresses in both shipments",
+    "Question": "Q. 14 A clothing store owner purchased two equal-sized batches of dresses at identical costs. The owner sold every dress from the first batch for 70 each, making a profit of 1,600. The second batch was sold for 90 per dress, bringing in a profit of 2,400. How many dresses were there in total in both batches?",
+    "Topic": "Profit, Loss and Partnership"
+  },
+  {
+    "Option A": "2400",
+    "Option B": "4800",
+    "Option C": "5000",
+    "Option D": "6000",
+    "Answer": "5000",
+    "Solution": "Suppose selling price is x; Loss = 0.2x Cost price = x+0.2x = 6000 =>1.2x = 6000 x = 5000",
+    "Question": "Q. 15 A shopkeeper experiences a 20% loss on a defective mobile phone when compared to its selling price. If the phone originally cost 6000, what is the selling price?",
+    "Topic": "Profit, Loss and Partnership"
+  },
+  {
+    "Option A": "1.7",
+    "Option B": "3.3",
+    "Option C": "8.3",
+    "Option D": "13.3",
+    "Answer": "8.3",
+    "Solution": "1 km = 1000m and 1 h = 3600 s. So multiply the given speed by (1000/3600) to convert it into m/s",
+    "Question": "Q. 1 Convert given speed into m/s: Speed = 30 km/h",
+    "Topic": "Speed, Distance and Time"
+  },
+  {
+    "Option A": "2.5 hours",
+    "Option B": "3 hours",
+    "Option C": "3.5 hours",
+    "Option D": "4 hours",
+    "Answer": "3 hours",
+    "Solution": "Relative speed = 60 + 40 = 100 km/h. Time taken = Distance / Relative speed = 300 100 = 3 hours.",
+    "Question": "Q. 2 Two high-speed trains begin their journey from towns A and B, 300 km apart, rushing towards each other on parallel tracks. Train A races at a speed of 60 km/h, while Train B runs at 40 km/h. How much time will it take for the two trains to meet, assuming they started simultaneously?",
+    "Topic": "Speed, Distance and Time"
+  },
+  {
+    "Option A": "1 hour",
+    "Option B": "1.5 hours",
+    "Option C": "2 hours",
+    "Option D": "2.5 hours",
+    "Answer": "1 hour",
+    "Solution": "Distance = Speed × Time = 5 × 4 = 20 km. Time at new speed (7 km/h) = 20 7 ≈ 2.86 hours. Time saved = 4 – 2.86 = 1.14 hours (approximately 1 hour and 8 minutes).",
+    "Question": "Q. 3 A man enjoys a walk of 5 km/h and usually covers a certain distance in 4 hours. One day, inspired by a challenge, he decides to quicken his pace to 7 km/h. How much time does he save by walking faster?",
+    "Topic": "Speed, Distance and Time"
+  },
+  {
+    "Option A": "30 km/h",
+    "Option B": "36 km/h",
+    "Option C": "40 km/h",
+    "Option D": "54 km/h",
+    "Answer": "36 km/h",
+    "Solution": "Speed = Distance / Time = 150 15 = 10 m/s. Converting to km/h: 10 × 3.6 = 36 10 km/h.",
+    "Question": "Q. 4 A train, 150 meters in length, passes a pole in 15 seconds. What is the speed of the train in km/h?",
+    "Topic": "Speed, Distance and Time"
+  },
+  {
+    "Option A": "20 km/h",
+    "Option B": "21 km/h",
+    "Option C": "22 km/h",
+    "Option D": "24 km/h",
+    "Answer": "24 km/h",
+    "Solution": "Distance = Speed × Time = 18 × 40 60 = 12 km. New speed = Distance / New time = 12 30 60 = 12 0.5 = 24 km/h.",
+    "Question": "Q. 5 A cyclist covers a certain distance in 40 minutes at 18 km/h. Later, he decides to increase his pace, hoping to complete the same journey in just 30 minutes. What should be his required speed?",
+    "Topic": "Speed, Distance and Time"
+  },
+  {
+    "Option A": "2 km/h",
+    "Option B": "3 km/h",
+    "Option C": "4 km/h",
+    "Option D": "5 km/h",
+    "Answer": "2 km/h",
+    "Solution": "Downstream speed = 24 2 = 12 km/h, Upstream speed = 24 3 = 8 km/h. Speed of the stream = Downstream speed – Upstream speed 2 = 12 – 8 2 = 2 km/h.",
+    "Question": "Q. 6 Picture a boat navigating a serene river. It takes 2 hours to travel 24 km downstream, aided by the current, but requires 3 hours to cover the same distance upstream against the flow. Can you determine the speed of the river’s current?",
+    "Topic": "Speed, Distance and Time"
+  },
+  {
+    "Option A": "150 meters",
+    "Option B": "200 meters",
+    "Option C": "240 meters",
+    "Option D": "300 meters",
+    "Answer": "240 meters",
+    "Solution": "Train speed = 54 km/h = 15 m/s. Length of train = 15 × 18 = 270 meters. Total distance to cross platform = 15 × 36 = 540 meters. Length of platform = 540 – 270 = 270 meters.",
+    "Question": "Q. 7 If a train running at 54 km/h crosses a platform in 36 seconds and a pole in 18 seconds, what is the length of the platform?",
+    "Topic": "Speed, Distance and Time"
+  },
+  {
+    "Option A": "3 km/h",
+    "Option B": "4 km/h",
+    "Option C": "5 km/h",
+    "Option D": "6 km/h",
+    "Answer": "5 km/h",
+    "Solution": "Downstream speed = 12 2 = 6 km/h, Upstream speed = 12 3 = 4 km/h. Speed in still water = Downstream speed + Upstream speed 2 = 6 + 4 2 = 5 km/h.",
+    "Question": "Q. 8 A rower paddles downstream for 12 km, completing the journey in 2 hours. On the way back, against the current, the same distance takes 3 hours. Determine the speed of the rower’s boat in still water?",
+    "Topic": "Speed, Distance and Time"
+  },
+  {
+    "Option A": "100 m",
+    "Option B": "120 m",
+    "Option C": "150",
+    "Option D": "180 m",
+    "Answer": "150",
+    "Solution": "Convert speed to m/s: 10 × 1000 3600 = 25 9 m/s. Distance = Speed × Time = 25 9 × 54 = 150 meters.",
+    "Question": "Q. 9 A man running at 10 km/h crosses a bridge of length 120 meters in 54 seconds. What is the length of the bridge?",
+    "Topic": "Speed, Distance and Time"
+  },
+  {
+    "Option A": "4 seconds",
+    "Option B": "6 seconds",
+    "Option C": "8 seconds",
+    "Option D": "10 seconds",
+    "Answer": "4 seconds",
+    "Solution": "Relative speed = 72 – 54 = 18 km/h = 18 × 5 18 = 5 m/s. Total distance = 5 + 15 = 20 meters. Time taken = 20 5 = 4 seconds.",
+    "Question": "Q. 10 A car moving at 72 km/h overtakes a truck traveling at 54 km/h. If the car is 5 meters long and the truck is 15 meters long, how much time does the car take to pass the truck?",
+    "Topic": "Speed, Distance and Time"
+  },
+  {
+    "Option A": "47.2",
+    "Option B": "42.2",
+    "Option C": "37.2",
+    "Option D": "52.2",
+    "Answer": "47.2",
+    "Solution": "15 km = 1000m and 1 h = 3600 s. So multiply the given speed by (1000/3600) to convert it into m/s",
+    "Question": "Q. 11 Convert given speed into m/s: Speed = 170 km/h",
+    "Topic": "Speed, Distance and Time"
+  },
+  {
+    "Option A": "351",
+    "Option B": "366",
+    "Option C": "361",
+    "Option D": "451",
+    "Answer": "351",
+    "Solution": "Use the direct formula, Distance = Speed * Time",
+    "Question": "Q. 12 A ship traveled through space at 39 km/h for 9 hours. How many kilometers did it cover?",
+    "Topic": "Speed, Distance and Time"
+  },
+  {
+    "Option A": "364",
+    "Option B": "379",
+    "Option C": "374",
+    "Option D": "464",
+    "Answer": "364",
+    "Solution": "Use the direct formula, Distance = Speed * Time",
+    "Question": "Q. 13 A migrating bird flew south at 52 km/h for 7 hours. What distance did the bird travel?",
+    "Topic": "Speed, Distance and Time"
+  },
+  {
+    "Option A": "4",
+    "Option B": "5",
+    "Option C": "10",
+    "Option D": "20",
+    "Answer": "20",
+    "Solution": "Since the hoop has a radius of 12.5 inches, it has a circumference of: 2 x π x 12.5 = 25π = 25 x 3.14 = 78.5 inches Since 1 foot is 12 inches, 75 feet is equivalent to 75 x 12 = 900 inches. Thus, it will take 900/78.5 = 11.46 revolutions to roll the hoop 75 feet across the surface. Since each revolution takes 10 seconds, 11.46 revolutions will take 114.6 seconds, or approximately 2 minutes.",
+    "Question": "Q. 14 Sarah is sprinting straight ahead from Kartik at a speed of 20 feet per second. Meanwhile, Kartik is running after Maya, who is ahead by 100 feet, at a speed of 25 feet per second. How many seconds will it take for Kartik to catch up to Maya?",
+    "Topic": "Speed, Distance and Time"
+  },
+  {
+    "Option A": "1",
+    "Option B": "2",
+    "Option C": "3",
+    "Option D": "4",
+    "Answer": "2",
+    "Solution": "Let the distance run be x miles and the distance walked be y miles. We have, x + y = 8 …(i) Also, time taken = 3 hours Therefore, x/6 + y/2 = 3 …(ii) Solving (i) for y, we get y = 8 – x Substituting this value of y in (ii), we get x/6 + (8 – x)/2 = 3 ⇒ x/6 + 4 – x/2 = 3 ⇒ x/6 – x/2 = 3 – 4 ⇒ (x – 3x)/6 = -1 ⇒ -2x/6 = -1 ⇒ -2x = -6 ⇒ x = 3 Therefore, y = 8 – 3 = 5 Hence, the ratio of the distance walked to the distance traveled = y : (x + y) = 5 : (3 + 5) **= 5 : 8**",
+    "Question": "Q. 15 A hoop that has a 12.5-inch radius is rolled along a flat path. It takes the hoop 10 seconds to finish one full turn. How many minutes will it take for the hoop to roll a distance of 75 feet?",
+    "Topic": "Speed, Distance and Time"
+  },
+  {
+    "Option A": "3/8",
+    "Option B": "1/2",
+    "Option C": "5/6",
+    "Option D": "5/8",
+    "Answer": "5/8",
+    "Solution": "To solve this problem, let’s first understand Kendra’s current situation and the constraints she faces. Kendra hikes at a constant rate of 12 minutes per kilometer. She has already hiked 2.75 kilometers east, which means she took: 2.75  km × 12  minutes per km = 33  minutes 2.75 Now, Kendra realizes she needs to return to the start and has 45 minutes to do so. Since she needs time to get back, we have to figure out how much further she can hike east before she must turn back. When she turns back, she will retrace her path at the same rate. The total hiking time when going further east and then back to the start must equal 45 minutes. Since she has already spent 33 minutes hiking, she has: 45  minutes – 33  minutes = 12  minutes 45 left to hike back towards the starting point. **Determining maximum eastward distance before turning back:** Since Kendra uses 12 minutes to cover 1 kilometer, in 12 minutes she will be able to cover: 12  minutes 12  minutes per km = 1  kilometer Thus, she can continue hiking east for 0.5 kilometers before she would need to immediately turn around since it would take her 6 minutes to hike this extra 0.5 kilometers and another 6 minutes to get back to this point, totaling 12 minutes. **Total distance hiked east before turning back:** Adding this 0.5 kilometers to the initial 2.75 kilometers, she hiked a total distance of: 2.75  km + 0.5  km = 3.25  kilometers 2.75 So, Kendra hiked a total of 3.25 kilometers east.",
+    "Question": "Q. 16 Sarah covered 8 miles and took 3 hours, moving at either 6 miles per hour while running or 2 miles per hour while walking. How much of the distance did she walk compared to the total distance traveled?",
+    "Topic": "Speed, Distance and Time"
+  },
+  {
+    "Option A": "50%",
+    "Option B": "30%",
+    "Option C": "20%",
+    "Option D": "40%",
+    "Answer": "40%",
+    "Solution": "Rate of work = 1/ 10 Total work done = (1/10) * 4 * 100 %",
+    "Question": "Q. 1 Jack can complete a coding task in 10 hours. How much of the task will he finish in 4 hours?",
+    "Topic": "Time and Work"
+  },
+  {
+    "Option A": "24 days",
+    "Option B": "20 days",
+    "Option C": "40 days",
+    "Option D": "45 days",
+    "Answer": "24 days",
+    "Solution": "Total work = ( LCM ( 40 , 30 ) = 120 ) ( units. A and B’s rate = ( 120 40 + 120 30 = 3 + 4 = 7 ) units/day. In 10 days, A and B do ( 10 × 7 = 70 ) ( units. Remaining work = ( 120 – 70 = 50 ) ( units in 5 days. C’s rate = ( 50 5 = 10 ) units/day, so C alone takes ( 120 10 = 24 ) days. Have a look at common Time and Work Scenarios.",
+    "Question": "Q. 2 Two skilled workers, Aryan and Bhola, decide to take on a large task together. Aryan, with years of experience, can finish the job in 40 days, while the industrious Bhola can complete it in 30 days. They work together for 10 days when they realize they could use some extra help. Enter Chandru, who joins the team and helps them finish the remaining work in just 5 days. How long would it take Chandru to complete the entire work if left to do it alone?",
+    "Topic": "Time and Work"
+  },
+  {
+    "Option A": "25",
+    "Option B": "20",
+    "Option C": "30",
+    "Option D": "15",
+    "Answer": "30",
+    "Solution": "Total work = ( 10 × 15 = 150 ) ( woman-days. Required number of women = ( 150 5 = 30 ) .",
+    "Question": "Q. 3 10 women can complete a work in 15 days. Now, the deadline is suddenly shortened, and the work must be finished in just 5 days! How many women need to join the team to ensure the job is completed on time without compromising quality?",
+    "Topic": "Time and Work"
+  },
+  {
+    "Option A": "30 days",
+    "Option B": "24 days",
+    "Option C": "15 days",
+    "Option D": "28 days",
+    "Answer": "30 days",
+    "Solution": "Let total work be ( W ). Ayesha’s rate = ( W 20 ) , and combined rate (A + B) = ( W 12 ) . Bhoomi’s rate = ( W 12 – W 20 = 5 W – 3 W 60 = 2 W 60 = W 30 ) . So, Bhoomi should eb able to complete it alone in 30 days.",
+    "Question": "Q. 4 Ayesha and Bhoomi make a great team in college for every group project. Together, they can complete an assignment in just 12 days. However, if Ayesha were to work alone, it would take 20 days to finish the same. How many days would it take for Bhoomi to complete the project if she was to handle it single-handedly?",
+    "Topic": "Time and Work"
+  },
+  {
+    "Option A": "60 days",
+    "Option B": "70 days",
+    "Option C": "80 days",
+    "Option D": "90 days",
+    "Answer": "80 days",
+    "Solution": "Let 1 man’s work = ( x ) and 1 woman’s work = ( y ). ( 8 x + 6 y = 1 10 ) and ( 10 x + 8 y = 1 8 ) . Solving, ( x + y = 1 80 ) , so they take 80 days together.",
+    "Question": "Q. 5 Aravind Construction Site employs two groups: men and women. In one instance, a team of 8 men and 6 women manages to finish a task in 10 days. In another scenario, 10 men and 8 women accomplish the same task in just 8 days. If 1 man and 1 woman were to work together without any additional help, how long would it take for them to complete the same task?",
+    "Topic": "Time and Work"
+  },
+  {
+    "Option A": "20 days",
+    "Option B": "25 days",
+    "Option C": "30 days",
+    "Option D": "35 days",
+    "Answer": "25 days",
+    "Solution": "A’s 1-day work = ( 75 % 15 = 5 % ) . Remaining work = 25%, done by A and B in 5 days, so (A + B)’s daily work = ( 25 % 5 = 5 % ) . B’s work rate = ( 5 % – 5 % = 3 % ) ( , so B alone needs ( 100 5 = 25 ) days.",
+    "Question": "Q. 6 Worker A starts a project and impressively completes 75% of it in just 15 days. Realizing the deadline is approaching, they call in B to help finish the remaining 25% in 5 days. If B were to take on the entire project alone, how many days would it take them to complete it?",
+    "Topic": "Time and Work"
+  },
+  {
+    "Option A": "5 hours",
+    "Option B": "10 hours",
+    "Option C": "8 hours",
+    "Option D": "6 hours",
+    "Answer": "10 hours",
+    "Solution": "Total work = ( 1 ) tank (100%). A + B’s combined rate = ( 1 20 + 1 30 = 1 12 ) . In 10 hours, ( 10 12 = 5 6 ) of the tank is filled. Remaining work = ( 1 6 ) , with net rate ( 1 12 – 1 15 = 1 60 ) . Time = ( 1 6 ÷ 1 60 = 10 ) hours.",
+    "Question": "Q. 7 Three pipes—A, B, and C—are connected to a large tank. Pipes A and B can fill the tank in 20 and 30 hours, respectively, while pipe C, a drain, can empty the tank in 15 hours. Initially, pipes A and B were open for 10 hours. Then, for some reason, pipe C is opened. How much additional time will it take to fill the tank completely with all three pipes in operation?",
+    "Topic": "Time and Work"
+  },
+  {
+    "Option A": "6 days",
+    "Option B": "8 days",
+    "Option C": "10 days",
+    "Option D": "12 days",
+    "Answer": "8 days",
+    "Solution": "One day of A = ( 1 15 ) , B = ( 1 20 ) , C = ( 1 30 ) . Combined work of (A + B + C) in 2 days = ( 1 15 + 1 20 + 1 30 = 3 20 ) . In 8 days (4 cycles), work done = ( 12 15 = 1 ) . Common Time and Work Problems Guide",
+    "Question": "Q. 8 Three friends, A, B, and C, take on a unique task. A is the fastest and can finish it in 15 days, B in 20 days, and C in 30 days. To speed things up, they devise a plan: A starts the work, and B and C join him alternately each day. With this dynamic schedule, how many days will it take to complete the task?",
+    "Topic": "Time and Work"
+  },
+  {
+    "Option A": "9 days",
+    "Option B": "10 days",
+    "Option C": "12 days",
+    "Option D": "15 days",
+    "Answer": "12 days",
+    "Solution": "A’s work rate = ( 1 18 ) , and B’s work rate = ( 1 36 ) . Combined rate = ( 1 18 + 1 36 = 1 12 ) . Thus, they will finish in 12 days.",
+    "Question": "Q. 9 Anand Bhai is known for being twice as efficient as Balwir Paji. When Anand takes on a task alone, he can complete it in 18 days. How many days will it take if both Anand and Balwir work together, combining their efforts to finish the task?",
+    "Topic": "Time and Work"
+  }
+]
