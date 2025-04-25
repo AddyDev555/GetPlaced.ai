@@ -22,10 +22,10 @@ export default function RootLayout({ children }: RootLayoutProps) {
         <link rel="icon" href="/mainLogo.png" type="image/png" />
       </head>
       <body className={darkMode ? "dark overflow-y-hidden" : "overflow-y-hidden"}>
+        <Toaster position="top-center" reverseOrder={false} />
         {shouldShowNavbar && (
           <div className="shadow-[0_4px_4px_-2px_rgba(0,0,0,0.1)]">
             <Navbar onToggle={setDarkMode} />
-            <Toaster position="bottom-right" reverseOrder={false} />
           </div>
         )}
         {children}

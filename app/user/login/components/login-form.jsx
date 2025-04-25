@@ -1,9 +1,11 @@
-import React from 'react'
+"use client";
+import React, { useState } from 'react'
 import Image from 'next/image'
 import { Roboto } from 'next/font/google';
 import Input from "@/components/utils/input";
 import Button from "@/components/utils/button";
 import Link from 'next/link';
+import toast from 'react-hot-toast';
 
 const roboto = Roboto({
     subsets: ['latin'],
@@ -11,8 +13,36 @@ const roboto = Roboto({
 });
 
 export default function LoginForm() {
+    const [loginData, setLoginData] = useState({
+        email: "",
+        password: ""
+    })
+
+    const handleChange = (e) => {
+        const { name, value } = e.target;
+        setLoginData((prevData) => ({
+            ...prevData,
+            [name]: value
+        }));
+    };
+
+    function handleLogin(){
+        console.log("Button Clicked");
+        console.log('Email:', loginData.email);
+        console.log('Password:', loginData.password);
+        if(!loginData.email){
+            toast.error("Please Enter the Email");
+        }
+        else if(!loginData.password){
+            toast.error("Please Enter the Password");
+        }
+        else{
+            toast.success("Login Successful!");
+        }
+    }
+
     return (
-        <div className={`${roboto.className} p-14 pt-9`}>
+        <div className={`${roboto.className} p-24 pt-9`}>
             <div>
                 <Image
                     src="/mainLogo.png"
@@ -26,10 +56,12 @@ export default function LoginForm() {
 
             <div className='mt-6'>
                 <div>
-                    <Input Name="email" Label="Email" />
+                    <Input Name="email" Label="Email" value={loginData.email}
+                        onChange={handleChange} />
                 </div>
                 <div>
-                    <Input Name="password" Label="Password" />
+                    <Input Name="password" Label="Password" Password="password" value={loginData.password} 
+                    onChange={handleChange} />
                 </div>
                 <div>
                     <Link className="block text-sm text-blue-700 mb-4" href="/">
@@ -37,7 +69,7 @@ export default function LoginForm() {
                     </Link>
                 </div>
                 <div>
-                    <Button BtnName="Login" />
+                    <Button BtnName="Login" onClick={handleLogin}/>
                 </div>
                 <div>
                     <Link className='block text-sm text-center mt-4' href="/user/signup">Don't have an Account? <span className='text-blue-700 font-semibold'>Signup</span></Link>

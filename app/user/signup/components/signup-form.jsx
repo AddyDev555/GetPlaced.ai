@@ -12,7 +12,7 @@ const roboto = Roboto({
 
 export default function SignupForm() {
     return (
-        <div className={`${roboto.className} p-14 pt-9`}>
+        <div className={`${roboto.className} p-24 pt-9`}>
             <div>
                 <Image
                     src="/mainLogo.png"
@@ -33,7 +33,7 @@ export default function SignupForm() {
                     <Input Name="email" Label="Email" />
                 </div>
                 <div>
-                    <Input Name="password" Label="Password" />
+                    <Input Name="password" Label="Password" Password="password"/>
                 </div>
                 <div>
                     <Button BtnName="Create an Account"/>

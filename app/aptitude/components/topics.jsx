@@ -6,6 +6,7 @@ import backendApi from '@/config/Axios';
 import toast from 'react-hot-toast';
 import { Roboto } from 'next/font/google';
 import MainQuestion from "./main_question";
+import Input from "@/components/utils/input";
 
 const roboto = Roboto({
     subsets: ['latin'],
@@ -14,10 +15,17 @@ const roboto = Roboto({
 
 export default function Topics({ topic, setTopic, toggleTitle, setToggleTitle }) {
     const [aptitudeData, setAptitudeData] = useState([]);
+    const [searchTopic, setSearchTopic] = useState('');
+
     const uniqueTopics = aptitudeData.filter(
         (item, index, self) =>
             index === self.findIndex((t) => t.Topic === item.Topic)
     );
+
+    const filteredTopics = uniqueTopics.filter(item =>
+        item.Topic.toLowerCase().includes(searchTopic)
+    );
+
     const [topicCounts, setTopicCounts] = useState({});
 
     const fetchAptitude = () => {
@@ -66,12 +74,15 @@ export default function Topics({ topic, setTopic, toggleTitle, setToggleTitle })
                 </div>
             ) : toggleTitle === "Arithmetic" ? (
                 <div>
-                    <div className={`${roboto.className} flex items-center font-semibold text-lg relative bottom-3`}>
+                    <div className={`${roboto.className} flex items-center relative bottom-3`}>
                         <i className='fi text-yellow-400 relative top-0.5 fi-rs-integral mr-1'></i>
-                        <h1>{toggleTitle} Topics</h1>
+                        <h1 className='text-lg font-semibold'>{toggleTitle} Topics</h1>
+                        <div className='ml-auto w-[33%]'>
+                            <Input Name="search" value={searchTopic} Placeholder="search..." Search="search" onChange={(e) => setSearchTopic(e.target.value.toLowerCase())} />
+                        </div>
                     </div>
                     <div className="grid grid-cols-3 gap-2">
-                        {uniqueTopics.map((item, index) => (
+                        {filteredTopics.map((item, index) => (
                             <div
                                 onClick={() =>
                                     setTopic({

@@ -10,6 +10,23 @@ export default function MainQuestion({ aptData, topic, setTopic }) {
     const [selectedAnswers, setSelectedAnswers] = useState({});
     const [correctAnswers, setCorrectAnswers] = useState({});
     const [isSolution, setIsSolution] = useState({});
+    const [currentPage, setCurrentPage] = useState(1);
+    const questionsPerPage = 5;
+
+    const indexOfLastQuestion = currentPage * questionsPerPage;
+    const indexOfFirstQuestion = indexOfLastQuestion - questionsPerPage;
+    const currentQuestions = topicData.slice(indexOfFirstQuestion, indexOfLastQuestion);
+
+    const totalPages = Math.ceil(topicData.length / questionsPerPage);
+
+    const goToNextPage = () => {
+        if (currentPage < totalPages) setCurrentPage(currentPage + 1);
+    };
+
+    const goToPrevPage = () => {
+        if (currentPage > 1) setCurrentPage(currentPage - 1);
+    };
+
 
     function checkAns(questionIndex, clickedOption, actualAns) {
         const actual = actualAns?.toLowerCase();
@@ -25,7 +42,7 @@ export default function MainQuestion({ aptData, topic, setTopic }) {
                         [questionIndex]: [...prevWrongOptions, clickedOption]
                     };
                 }
-                return prev; // If already added, don't update
+                return prev;
             });
         }
     }
@@ -70,11 +87,13 @@ export default function MainQuestion({ aptData, topic, setTopic }) {
             </div>
 
             <div className="mt-2 space-y-2">
-                {topicData.length > 0 ? (
-                    topicData.map((item, index) => (
-                        <div key={index} className={`p-4 border rounded shadow ${roboto.className}`}>
+                {currentQuestions.length > 0 ? (
+                    currentQuestions.map((item, index) => {
+                        const actualIndex = indexOfFirstQuestion + index;
+                        return(
+                        <div key={actualIndex} className={`p-4 border rounded shadow ${roboto.className}`}>
                             <div className="text-[0.9rem] font-medium">
-                                Q{index + 1}. {renderFormattedFraction(item.Question)}
+                                Q{actualIndex + 1}. {renderFormattedFraction(item.Question)}
                             </div>
 
                             <div className="grid grid-cols-2 gap-2 mt-4 pl-6">
@@ -130,11 +149,32 @@ export default function MainQuestion({ aptData, topic, setTopic }) {
                                 </div>
                             }
                         </div>
-                    ))
+                        );
+                    })
                 ) : (
                     <p className="text-gray-500 text-sm">No questions for this topic.</p>
                 )}
             </div>
+            
+            {totalPages > 1 && (
+                <div className="flex justify-center items-center mt-6 gap-4">
+                    <button
+                        className="px-3 py-1 rounded bg-yellow-300 hover:bg-yellow-400 text-sm disabled:opacity-50"
+                        onClick={goToPrevPage}
+                        disabled={currentPage === 1}
+                    >
+                        Prev
+                    </button>
+                    <span className="text-sm font-medium">Page {currentPage} of {totalPages}</span>
+                    <button
+                        className="px-3 py-1 rounded bg-yellow-300 hover:bg-yellow-400 text-sm disabled:opacity-50"
+                        onClick={goToNextPage}
+                        disabled={currentPage === totalPages}
+                    >
+                        Next
+                    </button>
+                </div>
+            )}
         </div>
     );
 }
