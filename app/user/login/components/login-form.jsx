@@ -42,7 +42,7 @@ export default function LoginForm() {
     }
 
     return (
-        <div className={`${roboto.className} p-24 pt-9`}>
+        <div className={`${roboto.className} px-24 py-14`}>
             <div>
                 <Image
                     src="/mainLogo.png"
