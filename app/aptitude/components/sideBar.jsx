@@ -16,12 +16,14 @@ export default function SideBar({ topic, setTopic, toggleTitle, setToggleTitle }
         { title: "Logical Reasoning", subtitle: "Sharp analytical and deduction skills", logoClass: "fi-rr-lightbulb-on" },
         { title: "Current Affairs", subtitle: "Up-to-date with global events", logoClass: "fi-rr-hand-holding-usd" },
         { title: "General Knowledge", subtitle: "Broad awareness of various topics", logoClass: "fi-rs-brain-circuit" },
+        { title: "Company", subtitle: "Broad awareness of various topics", logoClass: "fi-rs-building" },
     ];
 
     return (
         <div className={`${roboto.className}`}>
-            <div className='shadow-sm pt-[2.5px] pb-4'>
-                <h1 className='mt-3.5 text-center font-semibold text-lg'>Aptitude Topics</h1>
+            <div className='shadow-sm flex items-center justify-center gap-2 pt-[2.5px] pb-4'>
+                <i className="fi fi-rr-book-bookmark text-lg text-yellow-400 mt-5"></i>
+                <h1 className='mt-3.5 font-semibold text-lg'>Aptitude Topics</h1>
             </div>
             <div className='p-6 pt-3'>
                 {card_data.map((card, index) => (

@@ -13,7 +13,7 @@ export default function Input({ Name, Label, Placeholder, Search, Password, valu
             
             <div className="relative">
                 {Search && (
-                    <div className="absolute left-3 top-8.5 transform -translate-y-1/2 text-gray-400">
+                    <div className="absolute left-3 top-5 transform -translate-y-1/2 text-gray-400">
                         <SearchIcon size={16} />
                     </div>
                 )}

@@ -1,5 +1,6 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect, useRef } from 'react'
 import { Roboto } from 'next/font/google';
+import Calculator from '@/components/calculatorUI/calculator';
 
 const roboto = Roboto({
     subsets: ['latin'],
@@ -11,6 +12,9 @@ export default function MainQuestion({ aptData, topic, setTopic }) {
     const [correctAnswers, setCorrectAnswers] = useState({});
     const [isSolution, setIsSolution] = useState({});
     const [currentPage, setCurrentPage] = useState(1);
+    const [isCalculator, isSetCalculator] = useState(false);
+    const calculatorRef = useRef(null);
+    const buttonRef = useRef(null);
     const questionsPerPage = 5;
 
     const indexOfLastQuestion = currentPage * questionsPerPage;
@@ -27,6 +31,9 @@ export default function MainQuestion({ aptData, topic, setTopic }) {
         if (currentPage > 1) setCurrentPage(currentPage - 1);
     };
 
+    const toggleCalculator = () => {
+        isSetCalculator((prev) => !prev);
+    };
 
     function checkAns(questionIndex, clickedOption, actualAns) {
         const actual = actualAns?.toLowerCase();
@@ -54,6 +61,24 @@ export default function MainQuestion({ aptData, topic, setTopic }) {
         );
     };
 
+    useEffect(() => {
+        const handleClickOutside = (event) => {
+            if (
+                calculatorRef.current &&
+                !calculatorRef.current.contains(event.target) &&
+                buttonRef.current &&
+                !buttonRef.current.contains(event.target)
+            ) {
+                isSetCalculator(false);
+            }
+        };
+
+        document.addEventListener('mousedown', handleClickOutside);
+        return () => {
+            document.removeEventListener('mousedown', handleClickOutside);
+        };
+    }, []);
+
     function renderFormattedFraction(text) {
         if (!text.includes('\n')) return text;
 
@@ -69,10 +94,10 @@ export default function MainQuestion({ aptData, topic, setTopic }) {
 
     return (
         <div>
-            <div className='flex'>
+            <div className="flex sticky top-0 z-10 pb-2 bg-white">
                 <div>
                     <div>
-                        <p className='text-sm cursor-pointer text-gray-400 mb-2'><span className='hover:text-yellow-400' onClick={() => setTopic(null)}>/Arithmetic</span>/{topic.name}</p>
+                        <p className='text-sm cursor-pointer pt-2 text-gray-400 mb-2'><span className='hover:text-yellow-400' onClick={() => setTopic(null)}>/Arithmetic</span>/{topic.name}</p>
                     </div>
                     <div className="flex items-center gap-2">
                         <i className={`fi ${topic.logo} relative top-0.5 text-xl text-yellow-400`}></i>
@@ -81,8 +106,11 @@ export default function MainQuestion({ aptData, topic, setTopic }) {
                     <p className="text-gray-400 my-1 text-sm">{topic.subTitle}</p>
                 </div>
 
-                <div className='ml-auto mr-4'>
-                    <i className="fi fi-rr-calculator text-2xl cursor-pointer"></i>
+                <div className='ml-auto mr-4 mt-4'>
+                    <i onClick={toggleCalculator} ref={buttonRef} className="fi fi-rr-calculator text-2xl cursor-pointer"></i>
+                    {isCalculator && <div ref={calculatorRef} className='absolute top-15 right-0'>
+                        <Calculator />
+                    </div>}
                 </div>
             </div>
 
@@ -90,72 +118,72 @@ export default function MainQuestion({ aptData, topic, setTopic }) {
                 {currentQuestions.length > 0 ? (
                     currentQuestions.map((item, index) => {
                         const actualIndex = indexOfFirstQuestion + index;
-                        return(
-                        <div key={actualIndex} className={`p-4 border rounded shadow ${roboto.className}`}>
-                            <div className="text-[0.9rem] font-medium">
-                                Q{actualIndex + 1}. {renderFormattedFraction(item.Question)}
-                            </div>
+                        return (
+                            <div key={actualIndex} className={`p-4 border rounded shadow ${roboto.className}`}>
+                                <div className="text-[0.9rem] font-medium">
+                                    Q{actualIndex + 1}. {renderFormattedFraction(item.Question)}
+                                </div>
 
-                            <div className="grid grid-cols-2 gap-2 mt-4 pl-6">
-                                {Object.entries(item)
-                                    .filter(([key, value]) => key.startsWith("Option") && value)
-                                    .map(([key, value]) => {
-                                        const optionKey = key.replace("Option ", "");
-                                        const optionKeyLower = optionKey.toLowerCase();
+                                <div className="grid grid-cols-2 gap-2 mt-4 pl-6">
+                                    {Object.entries(item)
+                                        .filter(([key, value]) => key.startsWith("Option") && value)
+                                        .map(([key, value]) => {
+                                            const optionKey = key.replace("Option ", "");
+                                            const optionKeyLower = optionKey.toLowerCase();
 
-                                        const isCorrect = correctAnswers[index] === optionKeyLower;
-                                        const isWrong = selectedAnswers[index]?.includes(optionKeyLower);
-                                        const isAnsweredCorrectly = !!correctAnswers[index];
+                                            const isCorrect = correctAnswers[actualIndex] === optionKeyLower;
+                                            const isWrong = selectedAnswers[actualIndex]?.includes(optionKeyLower);
+                                            const isAnsweredCorrectly = !!correctAnswers[actualIndex];
 
-                                        return (
-                                            <div
-                                                key={key}
-                                                className={`text-sm flex items-center cursor-pointer transition-all duration-200 ${isAnsweredCorrectly ? "pointer-events-none" : ""
-                                                    }`}
-                                                onClick={() =>
-                                                    !isAnsweredCorrectly &&
-                                                    checkAns(index, optionKeyLower, item.Answer)
-                                                }
-                                            >
-                                                <span className="font-semibold bg-yellow-100 rounded-3xl px-1.5 py-0.3 hover:bg-yellow-200 mr-2 border-2 border-gray-400">
-                                                    {optionKey}
-                                                </span>
-                                                <div className={`${isWrong ? "text-red-500" : ""}
+                                            return (
+                                                <div
+                                                    key={key}
+                                                    className={`text-sm flex items-center cursor-pointer transition-all duration-200 ${isAnsweredCorrectly ? "pointer-events-none" : ""
+                                                        }`}
+                                                    onClick={() =>
+                                                        !isAnsweredCorrectly &&
+                                                        checkAns(actualIndex, optionKeyLower, item.Answer)
+                                                    }
+                                                >
+                                                    <span className="font-semibold bg-yellow-100 rounded-3xl px-1.5 py-0.3 hover:bg-yellow-200 mr-2 border-2 border-gray-400">
+                                                        {optionKey}
+                                                    </span>
+                                                    <div className={`${isWrong ? "text-red-500" : ""}
                                                     ${isCorrect ? "text-green-600 font-semibold" : ""}
                                                 `}>{renderFormattedFraction(value)}</div>
 
-                                                {isCorrect && (
-                                                    <i className="fi fi-rr-check text-green-600 bg-green-200 rounded-3xl pt-1 px-1 ml-2"></i>
-                                                )}
-                                            </div>
-                                        );
-                                    })}
-                            </div>
-
-                            <div className="mt-6 pl-7">
-                                <i onClick={() =>
-                                    setIsSolution(prev => ({
-                                        ...prev,
-                                        [index]: !prev[index]
-                                    }))
-                                } className="fi fi-rs-book-alt cursor-pointer text-green-600"></i>
-                            </div>
-
-                            {isSolution[index] &&
-                                <div className='text-sm px-6.5 text-justify'>
-                                    <p className='mt-2'><span className='text-green-600 font-semibold'>Correct Answer:</span> <span className='font-semibold'>{item.Answer?.toUpperCase()}</span></p>
-                                    <p className='text-green-600 font-semibold'>Solution</p>
-                                    {formatBoldText(item.Solution)}
+                                                    {isCorrect && (
+                                                        <i className="fi fi-rr-check text-green-600 bg-green-200 rounded-3xl pt-1 px-1 ml-2"></i>
+                                                    )}
+                                                </div>
+                                            );
+                                        })}
                                 </div>
-                            }
-                        </div>
+
+                                <div className="mt-6 pl-7">
+                                    <i onClick={() =>
+                                        setIsSolution(prev => ({
+                                            ...prev,
+                                            [index]: !prev[index]
+                                        }))
+                                    } className="fi fi-rs-book-alt cursor-pointer text-green-600"></i>
+                                </div>
+
+                                {isSolution[index] &&
+                                    <div className='text-sm px-6.5 text-justify'>
+                                        <p className='mt-2'><span className='text-green-600 font-semibold'>Correct Answer:</span> <span className='font-semibold'>{item.Answer?.toUpperCase()}</span></p>
+                                        <p className='text-green-600 font-semibold'>Solution</p>
+                                        {formatBoldText(item.Solution)}
+                                    </div>
+                                }
+                            </div>
                         );
                     })
                 ) : (
                     <p className="text-gray-500 text-sm">No questions for this topic.</p>
                 )}
             </div>
-            
+
             {totalPages > 1 && (
                 <div className="flex justify-center items-center mt-6 gap-4">
                     <button

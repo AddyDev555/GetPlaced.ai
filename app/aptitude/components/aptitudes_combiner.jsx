@@ -13,7 +13,7 @@ export default function AptitudesCombiner() {
             <div className='w-[18.7%] h-screen overflow-y-hidden border-r-2 border-r-yellow-200'>
                 <SideBar topic={topic} setTopic={setTopic} toggleTitle={toggleTitle} setToggleTitle={setToggleTitle}/>
             </div>
-            <div className='p-6 mt-1 w-[80%] m-auto overflow-y-hidden'>
+            <div className='py-0 px-6 mt-1 w-[80%] m-auto overflow-y-hidden'>
                 <Topics topic={topic} setTopic={setTopic} toggleTitle={toggleTitle} setToggleTitle={setToggleTitle}/>
             </div>
         </div>

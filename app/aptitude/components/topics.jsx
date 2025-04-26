@@ -57,7 +57,7 @@ export default function Topics({ topic, setTopic, toggleTitle, setToggleTitle })
     }, []);
 
     return (
-        <div className='h-[75vh] p-2 overflow-y-scroll custom-scrollbar'>
+        <div className='h-[84vh] px-2 overflow-y-scroll custom-scrollbar'>
             {/* If a topic is selected, show MainQuestion regardless of toggleTitle */}
             {topic !== null ? (
                 <div className="h-full">
@@ -68,16 +68,16 @@ export default function Topics({ topic, setTopic, toggleTitle, setToggleTitle })
                     />
                 </div>
             ) : toggleTitle !== "Arithmetic" ? (
-                <div className="text-center">
+                <div className="text-center pt-2">
                     <h2 className="text-xl font-semibold">This is the {toggleTitle} Section</h2>
                     <p className="text-gray-500">Explore different {toggleTitle} questions and tips.</p>
                 </div>
             ) : toggleTitle === "Arithmetic" ? (
                 <div>
-                    <div className={`${roboto.className} flex items-center relative bottom-3`}>
+                    <div className={`${roboto.className} flex items-center relative bottom-3 pt-2`}>
                         <i className='fi text-yellow-400 relative top-0.5 fi-rs-integral mr-1'></i>
                         <h1 className='text-lg font-semibold'>{toggleTitle} Topics</h1>
-                        <div className='ml-auto w-[33%]'>
+                        <div className='ml-auto mt-4 w-[33%]'>
                             <Input Name="search" value={searchTopic} Placeholder="search..." Search="search" onChange={(e) => setSearchTopic(e.target.value.toLowerCase())} />
                         </div>
                     </div>
