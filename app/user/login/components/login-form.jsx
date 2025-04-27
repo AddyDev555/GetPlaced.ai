@@ -6,6 +6,7 @@ import Input from "@/components/utils/input";
 import Button from "@/components/utils/button";
 import Link from 'next/link';
 import toast from 'react-hot-toast';
+import backendApi from '@/config/Axios';
 
 const roboto = Roboto({
     subsets: ['latin'],
@@ -26,20 +27,40 @@ export default function LoginForm() {
         }));
     };
 
-    function handleLogin(){
-        console.log("Button Clicked");
-        console.log('Email:', loginData.email);
-        console.log('Password:', loginData.password);
-        if(!loginData.email){
+    async function handleLogin() {
+        if (!loginData.email) {
             toast.error("Please Enter the Email");
+            return;
         }
-        else if(!loginData.password){
+        if (!loginData.password) {
             toast.error("Please Enter the Password");
+            return;
         }
-        else{
-            toast.success("Login Successful!");
+
+        try {
+            const res = await backendApi.post('/login', loginData);
+
+            if (res && res.success) {
+                toast.success(res.message || "Login successful!");
+                setLoginData({
+                    email: "",
+                    password: ""
+                })
+                setTimeout(() => {
+                    window.location.href = '/';
+                }, 2000);
+                console.log('Login successful:', res);
+            } else {
+                toast.error(res ? res.error : "Login failed, try again later.");
+                console.log('Login failed:', res);
+            }
+
+        } catch (error) {
+            console.error("Login error:", error);
+            toast.error("Something went wrong!");
         }
     }
+
 
     return (
         <div className={`${roboto.className} px-24 py-14`}>
@@ -60,8 +81,8 @@ export default function LoginForm() {
                         onChange={handleChange} />
                 </div>
                 <div>
-                    <Input Name="password" Label="Password" Password="password" value={loginData.password} 
-                    onChange={handleChange} />
+                    <Input Name="password" Label="Password" Password="password" value={loginData.password}
+                        onChange={handleChange} />
                 </div>
                 <div>
                     <Link className="block text-sm text-blue-700 mb-4" href="/">
@@ -69,7 +90,7 @@ export default function LoginForm() {
                     </Link>
                 </div>
                 <div>
-                    <Button BtnName="Login" onClick={handleLogin}/>
+                    <Button BtnName="Login" onClick={handleLogin} />
                 </div>
                 <div>
                     <Link className='block text-sm text-center mt-4' href="/user/signup">Don't have an Account? <span className='text-blue-700 font-semibold'>Signup</span></Link>

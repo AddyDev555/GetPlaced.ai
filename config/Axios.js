@@ -5,7 +5,6 @@ const backendApi = {
         try {
             console.log("GET:", `${BASE_URL}${endpoint}`);
             const res = await fetch(`${BASE_URL}${endpoint}`);
-            if (!res.ok) throw new Error(`GET ${endpoint} failed`);
             return await res.json();
         } catch (err) {
             console.error("API Error:", err);
@@ -23,7 +22,6 @@ const backendApi = {
                 },
                 body: JSON.stringify(data),
             });
-            if (!res.ok) throw new Error(`POST ${endpoint} failed`);
             return await res.json();
         } catch (err) {
             console.error(err);
