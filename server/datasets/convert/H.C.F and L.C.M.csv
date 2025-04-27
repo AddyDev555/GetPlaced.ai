@@ -1,0 +1,3 @@
+Question,Option A,Option B,Answer,Option C,Option D,Solution
+"Find the H.C.F, if the numbers are in the ratio of 4 : 5 : 6 and their L.C.M. is 2400.",35,20,20,40,67,"Let the numbers be 3x, 4x and 5x.Then,their L.C.M. = 120x.So, 120x = 2400 or x = 20.=>The numbers are (4 x 20), (5 x 20) and (6 x 20).Hence, required H.C.F = 20."
+"The greatest number which on dividing 1657 and 2037 leaves remainders 6 and 5 respectively, is:",123,127,127,235,305,Required number = H.C.F. of (1657 - 6) and (2037 - 5)= H.C.F. of 1651 and 2032 = 127.

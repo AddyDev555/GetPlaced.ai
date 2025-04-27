@@ -1,0 +1,3 @@
+Question,Option A,Option B,Option C,Answer,Option D,Solution
+"The rate at which a sum becomes four times of itself in 25 years at S.I.,will be:",30%,25%,12%,12%,49%,"Let sum = x. Then, S.I. = 3xRate = `[100 ** (S.I.) / P**T] %`= `[100 ** (3x) / x ** 25]% = 12%`"
+What annual installment will discharge a debt of Rs 1092 due in 3 years at 12% simple interest?,325,545,560,325,550,"Let each instalment be Rs.x .Then, `[x + (x ** 12 ** 1)/100] + [ x + (x **12 ** 2)/100] + x =1092` `( (28x)/25 ) + ( (31x)/25 ) + x = 1092` `(28x + 31x + 25x) = (1092 ** 25)` `x = (1092 ** 25)/84= 325`Each instalment = Rs. 325"
