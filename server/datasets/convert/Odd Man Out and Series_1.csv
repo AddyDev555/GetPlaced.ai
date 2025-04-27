@@ -1,6 +1,0 @@
-Question,Option A,Option B,Option C,Answer,Option D,Solution
-"Find the odd man out?396, 462, 572, 427, 671, 264.",671,462,427,427,264,"In each number except 427, the middle digit is the sum of other two."
-"2, 12, 36, 80, 150,..",250,252,276,252,300,"The series is 13 + 12, 23 + 22, 33 + 32"
-"Find the odd man out:4, 9, 256, 529, 573",256,573,529,573,9,573 is not a perfect square
-"Find the odd number:2,3,5,19,25,31,37",5,25,19,25,31,Except 25 all other are prime numbers.
-"Find the odd number:1,1,2,3,3,4,5,9,8",9,8,2,9,3,Sum of Alternate number gives next alternate number.1+2=3;2+3=5;3+5=8;1+3=4;3+4=7;7 is the correct number in sequence not 9
