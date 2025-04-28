@@ -8,6 +8,7 @@ import Button from "@/components/utils/button";
 import Link from 'next/link';
 import backendApi from '@/config/Axios';
 import toast from 'react-hot-toast';
+import { useRouter } from 'next/navigation';
 
 const roboto = Roboto({
     subsets: ['latin'],
@@ -15,6 +16,7 @@ const roboto = Roboto({
 });
 
 export default function SignupForm() {
+    const router = useRouter();
     const [signupData, setSignupData] = useState({
         firstName: "",
         lastName: "",
@@ -59,9 +61,7 @@ export default function SignupForm() {
                     email: "",
                     password: ""
                 });
-                setTimeout(() => {
-                    window.location.href = '/user/login';
-                }, 2000);
+                setTimeout(() => router.push('/user/login'), 2000)
                 console.log('Signup successful:', res);
             } else {
                 toast.error(res ? res.error : "Registration Failed!, try again later.");

@@ -22,9 +22,10 @@ def signup():
 
         email = data.get('email')
         password = data.get('password')
+        fullName = f"{data.get('firstName', '').strip()} {data.get('lastName', '').strip()}"
 
-        if not email or not password:
-            return jsonify({"success": False, "error": "Email and Password are required."}), 400
+        if not email or not password or not fullName:
+            return jsonify({"success": False, "error": "Email, Password, Name are required."}), 400
 
         existing_user = users.find_one({'email': email})
         if existing_user:
@@ -34,7 +35,8 @@ def signup():
 
         users.insert_one({
             'email': email,
-            'password': hashed_password
+            'password': hashed_password,
+            'name': fullName,
         })
 
         return jsonify({"success": True, "message": "Registration successful!"}), 200
@@ -57,7 +59,7 @@ def login():
         user = users.find_one({'email': email})
 
         if user and check_password_hash(user['password'], password):
-            return jsonify({"success": True, "message": "Login successful!"}), 200
+            return jsonify({"success": True, "message": "Login successful!", "data": {"name": user['name'], "email": user['email']}}), 200
         else:
             return jsonify({"success": False, "error": "Invalid email or password."}), 401
 

@@ -1,11 +1,12 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Roboto, Lobster } from 'next/font/google';
 import Switch from "./switch";
 import Link from "next/link";
 import RegisterCard from "./register-card";
 import { usePathname } from 'next/navigation'
+import Avatar from "@/components/utils/avatar";
 
 const roboto = Roboto({
     subsets: ['latin'],
@@ -19,6 +20,14 @@ const lobster = Lobster({
 
 export default function Navbar({ onToggle }) {
     const pathname = usePathname();
+    const [sessionData, setSessionData] = useState(null);
+
+    useEffect(() => {
+        const storedData = sessionStorage.getItem("user");
+        if (storedData) {
+            setSessionData(JSON.parse(storedData));
+        }
+    }, []);
 
     const menuItems = [
         { name: "Aptitude", href: "/aptitude" },
@@ -47,8 +56,9 @@ export default function Navbar({ onToggle }) {
                     </ul>
                 </div>
                 <div className="ml-auto flex items-center">
-                    <RegisterCard />
+                    {!sessionData && <RegisterCard />}
                     <Switch onToggle={onToggle} />
+                    {sessionData && <Avatar sessionData={sessionData} />}
                 </div>
             </div>
         </div>
