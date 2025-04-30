@@ -7,7 +7,8 @@
     "Option C": "175%",
     "Option D": "110%",
     "Solution": "Let the edge = `a` cm So increase by `50%` = `a+a/2 = 3a/2`Total surface Area of original cube = `6a^2`TSA of new cube = `6(3a/2)^2``6 xx 9a^2/4 = 13.5a^2`Increase in area = `13.5a^2 - 6a^2 = 7.5a^2` `7.5a^2` Increase % = `(7.5a^2)/(6a^2) xx 100 = 125%`",
-    "Topic": "Area"
+    "Topic": "Area",
+    "Subtitle": "Find areas of 2D shapes like triangles, circles, and quadrilaterals."
   },
   {
     "Question": "The diagonal of a rectangle is  cm and its area is 20 sq. cm. Theperimeter of the rectangle must be:",
@@ -17,7 +18,8 @@
     "Option C": "38",
     "Option D": "48",
     "Solution": "`sqrt(l^2+b^2) = sqrt(41)` (or) `l^2+b^2 = 41`Also, `lb = 20``(l+b)^2 = l^2 + b^2 + 2lb`",
-    "Topic": "Area"
+    "Topic": "Area",
+    "Subtitle": "Find areas of 2D shapes like triangles, circles, and quadrilaterals."
   },
   {
     "Question": "An error 2% in excess is made while measuring the side of a square. What is the percentage of error in the calculated area of the square?",
@@ -26,8 +28,9 @@
     "Option B": "2.02 %",
     "Option C": "4 %",
     "Option D": "2 %",
-    "Solution": "Error = 2% while measuring the side of a square.Let the correct value of the side of the square = 100Then the measured value = 100 + (2% of 100) = 100 +2 = 102 (\u2235 error 2% in excess)Correct Value of the area of the square = 100 \u00d7 100 = 10000Calculated Value of the area of the square = 102 \u00d7 102 = 10404Error = 10404 - 10000 = 404Percentage Error=4.04%ErrorActual Value\u00d7100=40410000\u00d7100=4.04%",
-    "Topic": "Area"
+    "Solution": "Error = 2% while measuring the side of a square.Let the correct value of the side of the square = 100Then the measured value = 100 + (2% of 100) = 100 +2 = 102 (∵ error 2% in excess)Correct Value of the area of the square = 100 × 100 = 10000Calculated Value of the area of the square = 102 × 102 = 10404Error = 10404 - 10000 = 404Percentage Error=4.04%ErrorActual Value×100=40410000×100=4.04%",
+    "Topic": "Area",
+    "Subtitle": "Find areas of 2D shapes like triangles, circles, and quadrilaterals."
   },
   {
     "Question": "A towel, when bleached, lost 20% of its length and 10% of its breadth. What is the percentage of decrease in area?",
@@ -36,8 +39,9 @@
     "Option B": "28 %",
     "Option C": "32 %",
     "Option D": "26 %",
-    "Solution": "Solution 1:Let original length = 100 and original breadth = 100Then original area = 100 \u00d7 100 = 10000Lost 20% of length=> New length = Original length - (20% of Original Length)100- (20% of 100) = 100-20 = 80Lost 10% of breadth=> New breadth= Original breadth - (10% of original breadth)= 100 - (10% of 100) = 100-10 = 90New area = 80 \u00d7 90 = 7200Decrease in area= Original Area - New Area= 10000 - 7200 = 2800Percentage of decrease in area = `(2800/10000) * 100 = 28%`",
-    "Topic": "Area"
+    "Solution": "Solution 1:Let original length = 100 and original breadth = 100Then original area = 100 × 100 = 10000Lost 20% of length=> New length = Original length - (20% of Original Length)100- (20% of 100) = 100-20 = 80Lost 10% of breadth=> New breadth= Original breadth - (10% of original breadth)= 100 - (10% of 100) = 100-10 = 90New area = 80 × 90 = 7200Decrease in area= Original Area - New Area= 10000 - 7200 = 2800Percentage of decrease in area = `(2800/10000) * 100 = 28%`",
+    "Topic": "Area",
+    "Subtitle": "Find areas of 2D shapes like triangles, circles, and quadrilaterals."
   },
   {
     "Question": "The length of a room is 5.5 m and width is 3.75 m. What is the cost of paying the floor by slabs at the rate of Rs. 800 per sq. metre.",
@@ -46,8 +50,9 @@
     "Option B": "Rs.16000",
     "Option C": "Rs.18000",
     "Option D": "Rs.16500",
-    "Solution": "Area = 5.5 \u00d7 3.75 sq. metre.Cost for 1 sq. metre. = Rs. 800Hence total cost = 5.5 \u00d7 3.75 \u00d7 800 = 5.5 \u00d7 3000 = Rs. 16500",
-    "Topic": "Area"
+    "Solution": "Area = 5.5 × 3.75 sq. metre.Cost for 1 sq. metre. = Rs. 800Hence total cost = 5.5 × 3.75 × 800 = 5.5 × 3000 = Rs. 16500",
+    "Topic": "Area",
+    "Subtitle": "Find areas of 2D shapes like triangles, circles, and quadrilaterals."
   },
   {
     "Question": "The length of a rectangle is twice its breadth. If its length is decreased by 5 cm and breadth is increased by 5 cm, the area of the rectangle is increased by 75 sq.cm. What is the length of the rectangle?",
@@ -56,8 +61,9 @@
     "Option B": "16 cm",
     "Option C": "40 cm",
     "Option D": "20 cm",
-    "Solution": "Let breadth = x cmThen length = 2x cmArea = lb = x \u00d7 2x = 2x2New length = (2x - 5)New breadth = (x + 5)New Area = lb = (2x - 5)(x + 5)But given that new area = initial area + 75 sq.cm.=> (2x - 5)(x + 5) = 2x2 + 75=> 2x2 + 10x - 5x - 25 = 2x2 + 75=> 5x - 25 = 75=> 5x = 75 + 25 = 100=> x =1005= 20 cmLength = 2x = 2 \u00d7 20 = 40cm",
-    "Topic": "Area"
+    "Solution": "Let breadth = x cmThen length = 2x cmArea = lb = x × 2x = 2x2New length = (2x - 5)New breadth = (x + 5)New Area = lb = (2x - 5)(x + 5)But given that new area = initial area + 75 sq.cm.=> (2x - 5)(x + 5) = 2x2 + 75=> 2x2 + 10x - 5x - 25 = 2x2 + 75=> 5x - 25 = 75=> 5x = 75 + 25 = 100=> x =1005= 20 cmLength = 2x = 2 × 20 = 40cm",
+    "Topic": "Area",
+    "Subtitle": "Find areas of 2D shapes like triangles, circles, and quadrilaterals."
   },
   {
     "Question": "If the difference between the length and breadth of a rectangle is 23 m and its perimeter is 206 m, what is its area?",
@@ -66,8 +72,9 @@
     "Option B": "2740 m2",
     "Option C": "2520 m2",
     "Option D": "2200 m2",
-    "Solution": "l - b = 23 ....(Equation 1)perimeter = 2(l + b) = 206=> l + b = 103 ....(Equation 2)(Equation 1) + (Equation 2) => 2l = 23 + 103 = 126=> l = 1262 = 63 metreSubstituting this value of l in (Equation 1), we get63 - b = 23=> b = 63 - 23 = 40 metreArea = lb = 63 \u00d7 40 = 2520 m2",
-    "Topic": "Area"
+    "Solution": "l - b = 23 ....(Equation 1)perimeter = 2(l + b) = 206=> l + b = 103 ....(Equation 2)(Equation 1) + (Equation 2) => 2l = 23 + 103 = 126=> l = 1262 = 63 metreSubstituting this value of l in (Equation 1), we get63 - b = 23=> b = 63 - 23 = 40 metreArea = lb = 63 × 40 = 2520 m2",
+    "Topic": "Area",
+    "Subtitle": "Find areas of 2D shapes like triangles, circles, and quadrilaterals."
   },
   {
     "Question": "What is the least number of squares tiles required to pave the floor of a room 15 m 17 cm long and 9 m 2 cm broad?",
@@ -76,8 +83,9 @@
     "Option B": "802",
     "Option C": "836",
     "Option D": "900",
-    "Solution": "l = 15 m 17 cm = 1517 cmb = 9 m 2 cm = 902 cmArea = 1517 \u00d7 902 cm2Now we need to find out HCF(Highest Common Factor) of 1517 and 902.Hence, HCF of 1517 and 902 = 41Hence, side length of largest square tile we can take = 41 cmArea of each square tile = 41 \u00d7 41 `\"cm\"^2`Number of tiles required = `(1517 * 902)/(41 * 41) = 37 * 22 = 814` ",
-    "Topic": "Area"
+    "Solution": "l = 15 m 17 cm = 1517 cmb = 9 m 2 cm = 902 cmArea = 1517 × 902 cm2Now we need to find out HCF(Highest Common Factor) of 1517 and 902.Hence, HCF of 1517 and 902 = 41Hence, side length of largest square tile we can take = 41 cmArea of each square tile = 41 × 41 `\"cm\"^2`Number of tiles required = `(1517 * 902)/(41 * 41) = 37 * 22 = 814` ",
+    "Topic": "Area",
+    "Subtitle": "Find areas of 2D shapes like triangles, circles, and quadrilaterals."
   },
   {
     "Question": "The length of a room is 5.5 m and width is 3.75 m. Find the cost of paving the floor by slabs at the rate of Rs.800 per sq. metre.",
@@ -87,7 +95,8 @@
     "Option C": "Rs.15,000",
     "Option D": "Rs.16,500",
     "Solution": "Area of the floor = (5.5 x 3.75) m2 = 20.625 m2.Cost of paving = Rs. (800 x 20.625) = Rs.16500.",
-    "Topic": "Area"
+    "Topic": "Area",
+    "Subtitle": "Find areas of 2D shapes like triangles, circles, and quadrilaterals."
   },
   {
     "Question": "A rectangular parking space is marked out by painting three of its sides. If the length of the unpainted side is 9 feet, and the sum of the lengths of the painted sides is 37 feet, then what is the area of the parking space in square feet?",
@@ -97,7 +106,8 @@
     "Option C": "46",
     "Option D": "252",
     "Solution": "Clearly, we have : length(l) = 9 ft.and l+2b = 37 ft.i.e., 9+2b = 37        2b = 37-9       2b = 28       So, the breadth(b) = 14 ft.Area = (l x b) = (9 x 14) sq.ft. =126 sq.ft.",
-    "Topic": "Area"
+    "Topic": "Area",
+    "Subtitle": "Find areas of 2D shapes like triangles, circles, and quadrilaterals."
   },
   {
     "Question": "The difference between the length and breadth of a rectangle is 23 m. If its perimeter is 206 m, then its area in m2 is",
@@ -107,7 +117,8 @@
     "Option C": "2520",
     "Option D": "1520",
     "Solution": "The difference between the length and breadth is = 23 m.i.e., (l - b) = 23-------- eq.(1)And perimeter = 206 m.i.e., 2(l + b) = 206       l + b = 103---------eq.(2)By solving eq.(1) and (2), we get length(l) = 63 and breadth(b) = 40.So, Area = ( l x b ) = (63 x 40) m2 = 2520 m2.",
-    "Topic": "Area"
+    "Topic": "Area",
+    "Subtitle": "Find areas of 2D shapes like triangles, circles, and quadrilaterals."
   },
   {
     "Question": "What will be the cost of gardening 1 meter broad boundary around a rectangular plot having perimeter of 340 meters at the rate of Rs.10 per square meter?",
@@ -117,7 +128,8 @@
     "Option C": "Rs.1700",
     "Option D": "None of these",
     "Solution": "Perimeter of the boundary = 2(L + b) = 340Area of the boundary = [(L + 2)(b + 2) - Lb]                                    = [Lb + 2L + 2b + 4 - Lb]                                    = 2(L + b) + 4                                    = 340 + 4                                     =344.Cost of gardening = Rs. (344 X 10)                                = Rs.3440",
-    "Topic": "Area"
+    "Topic": "Area",
+    "Subtitle": "Find areas of 2D shapes like triangles, circles, and quadrilaterals."
   },
   {
     "Question": "2 meters broad pathway is to be constructed around a rectangular plot on the inside. The area of the plot is 96 sq.m. The rate of construction is Rs.50 per square meter. Find the total cost of the construction?",
@@ -127,7 +139,8 @@
     "Option C": "Data inadequate",
     "Option D": "Rs.2400",
     "Solution": "Area of the plot = Lb = 96 sq. m.Area of pathway = [(L - 4)(b - 4) - Lb]                            = [Lb - 4L - 4b +16 - Lb]                            = 16 - 4(L + b)And here we don not have value of (L + b)So,Data is inadequate.",
-    "Topic": "Area"
+    "Topic": "Area",
+    "Subtitle": "Find areas of 2D shapes like triangles, circles, and quadrilaterals."
   },
   {
     "Question": "The average of five numbers is 27. If one number is excluded, the average becomes 25. The excluded number is ?",
@@ -137,7 +150,8 @@
     "Option C": "45",
     "Option D": "55",
     "Solution": "(27*5)-(25*4)135-10035",
-    "Topic": "Average"
+    "Topic": "Average",
+    "Subtitle": "Calculate mean values and apply average-based logic."
   },
   {
     "Question": "The average temperature for Wednesday, Thursday and Friday was 40oC. The average for Thursday, Friday and Saturday was 41oC. If temperature on Saturday was 42oC, what was the temperature on Wednesday?",
@@ -147,7 +161,8 @@
     "Option C": "38 degree celsius",
     "Option D": "41 degree celsius",
     "Solution": "Average temperature for Wednesday, Thursday and Friday = 40oCTotal temperature = 3*40 = 120oCAverage temperature for Thursday, Friday and Saturday = 41oCTotal temperature = 41*3 = 123oCTemperature on Saturday = 42oCNow,(Thursday + Friday + Saturday) - (Wednesday + Thursday + Friday) = 123-120;Saturday - Wednesday = 3Wednesday = 42-3 = 39oC.",
-    "Topic": "Average"
+    "Topic": "Average",
+    "Subtitle": "Calculate mean values and apply average-based logic."
   },
   {
     "Question": "Three numbers are in the ratio 4 : 5 : 6 and their average is 25. The largest number is :",
@@ -157,7 +172,8 @@
     "Option C": "50",
     "Option D": "60",
     "Solution": "Let the numbers be 4x, 5x and 6x.Then, `(4x + 5x + 6x ) / 3 = 25`  => 5x = 25=> x = 5.Largest number  6x = 30.",
-    "Topic": "Average"
+    "Topic": "Average",
+    "Subtitle": "Calculate mean values and apply average-based logic."
   },
   {
     "Question": "The avergae of weight of 8 persons increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg.What might be the weight of new person?",
@@ -167,7 +183,8 @@
     "Option C": "85 kg",
     "Option D": "None of these",
     "Solution": "Let Average of the 7 people who are same be 'X'The person who is replaced is of 65kg.Then, given problem is:`('X' + 65)/8 + 2.5 = ('X' + 'New Person')/8``('X' + 85)/8 =  ('X' + 'New Person')/8`Therefore, 'New Person' = 85;",
-    "Topic": "Average"
+    "Topic": "Average",
+    "Subtitle": "Calculate mean values and apply average-based logic."
   },
   {
     "Question": "The captain of a cricket team of 11 players is 26 years old and the wicket keeper is 3 years older. If the ages of these two are excluded the average age of remaining players is one year less than the average age whole team. What is the average age of the team?",
@@ -177,7 +194,8 @@
     "Option C": "25 Years",
     "Option D": "None of these",
     "Solution": "Let the average age of the team is x years.11x - (26+29) = 9(x-1)x = 23",
-    "Topic": "Average"
+    "Topic": "Average",
+    "Subtitle": "Calculate mean values and apply average-based logic."
   },
   {
     "Question": "Find the speed of the boat in still water, if a boat covers a certain distance upstream in 2 hours, while it comes back in 1`1/2` hours. If the speed of the stream be 3 kmph.",
@@ -187,7 +205,8 @@
     "Answer": "c",
     "Option D": "24 Kmph",
     "Solution": "Let the speed of the boat in still water be x kmph. Then,Speed downstream = (x + 3) kmph,Speed upstream = (x - 3)kmph.`(x - 3) * 2 = (x + 3) * 3/2`4x - 12 = 3x + 9x = 21kmph.",
-    "Topic": "Boats and Streams"
+    "Topic": "Boats and Streams",
+    "Subtitle": "Solve upstream and downstream speed problems."
   },
   {
     "Question": "Mayur takes thrice as long to row a distance against the stream as to row the same distance in favor of the stream. The ratio of the speed of the boat(in still water) and the stream is:",
@@ -197,7 +216,8 @@
     "Answer": "c",
     "Option D": "1:1",
     "Solution": "Let speed in still water be x and speed of stream be y(Speed in still water) : (Speed of stream)=x:yDistance is same, then time taken downstream is t, and time taken to travel upstream is 3t.d=d`[(x+y) / t] = [(x-y) / (3t)]` x+y= 3x-3y2x = 4y`x/y = 4/2 = 2/1`x:y = 2:1",
-    "Topic": "Boats and Streams"
+    "Topic": "Boats and Streams",
+    "Subtitle": "Solve upstream and downstream speed problems."
   },
   {
     "Question": "Today it is Thursday.After 132 days,it will be",
@@ -207,7 +227,8 @@
     "Answer": "c",
     "Option D": "Thursday",
     "Solution": "Answer: Option CExplanation:Since each day of the week is repeated after 7 days.After 133 days,it will be thursday.So one day before that would be Wednesday.",
-    "Topic": "Calendar"
+    "Topic": "Calendar",
+    "Subtitle": "Determine days, dates, and calendar-based patterns."
   },
   {
     "Question": "If 9th of the month falls on the day preceding Sunday, then on what day will 1st of the month fall?",
@@ -217,7 +238,8 @@
     "Answer": "a",
     "Option D": "Monday",
     "Solution": "As per the question 9th of the Month=Saturday. (Day preceding Sunday)Day name repeats after 7 days.Therefore 9 minus 7=2nd of the given month is also Saturday.Then 1st of the given month= Saturday Minus one day = Friday",
-    "Topic": "Calendar"
+    "Topic": "Calendar",
+    "Subtitle": "Determine days, dates, and calendar-based patterns."
   },
   {
     "Question": "On 5th December 1993, Nirmala and Raju celebrated their anniversary on Sunday. What will be the day of their anniversary in 1997 ?",
@@ -227,7 +249,8 @@
     "Answer": "c",
     "Option D": "Tuesday",
     "Solution": "Normal year jump +1 gain; Leap year jump +2 gain.Years Day Gain1994 11995 11996 (leap year) 21997 1Total days 5Sunday plus five daysMondayTueWedThursdayFriday",
-    "Topic": "Calendar"
+    "Topic": "Calendar",
+    "Subtitle": "Determine days, dates, and calendar-based patterns."
   },
   {
     "Question": "Today is Monday. After 63 days, it will be :",
@@ -237,7 +260,8 @@
     "Answer": "b",
     "Option D": "Saturday",
     "Solution": "Each day of the week is repeated after 7 days.`63/7`=`9`, Remainder:0So, after 63 days, it will be Monday.",
-    "Topic": "Calendar"
+    "Topic": "Calendar",
+    "Subtitle": "Determine days, dates, and calendar-based patterns."
   },
   {
     "Question": "If 6th March, 2005 is Monday, what was the day of the week on 6th March, 2004?",
@@ -247,7 +271,8 @@
     "Answer": "a",
     "Option D": "Wednesday",
     "Solution": "The year 2004 is a leap year. So, it has 2 odd days.But, Feb 2004 not included because we are calculating from March 2004 to March 2005.So it has 1 odd day only.The day on 6th March, 2005 will be 1 day beyond the day on 6th March, 2004.Given that, 6th March, 2005 is Monday.6th March, 2004 is Sunday (1 day before to 6th March, 2005).",
-    "Topic": "Calendar"
+    "Topic": "Calendar",
+    "Subtitle": "Determine days, dates, and calendar-based patterns."
   },
   {
     "Question": "The maximum gap between two successive leap year is?",
@@ -257,7 +282,8 @@
     "Answer": "b",
     "Option D": "1",
     "Solution": "This can be illustrated with an example.Ex: 1896 is a leap year.The next leap year comes in 1904 (1900 is not a leap year).To eliminate this error, the Gregorian calendar stipulates that a year that is evenly divisible by 100 (for example, 1900) is a leap year only if it is also evenly divisible by 400. This is because they are evenly divisible by 100 but not by 400.",
-    "Topic": "Calendar"
+    "Topic": "Calendar",
+    "Subtitle": "Determine days, dates, and calendar-based patterns."
   },
   {
     "Question": "What was the day of the week on 20 may, 1985 ?",
@@ -267,7 +293,8 @@
     "Answer": "a",
     "Option D": "Tuesday",
     "Solution": "Here Number of odd days in 1600 years = 0Number of odd days in 300 years from 1600 to 1900 = 5*3 = 2 week + 1 odd day= 1 odd dayNumber of odd days in 84 years= 21 leap year + 63 days = 21*2 + 63*1 = 105 days = 0 odd daysNumber of odd days in 20 may = 31 days of Jan. + 28 days of feb + 31 days of mar. + 30 days in april + 20 days in may = 140 days = 0 odd daySo total number of odd days = 0+1+0+0=1 = Monday",
-    "Topic": "Calendar"
+    "Topic": "Calendar",
+    "Subtitle": "Determine days, dates, and calendar-based patterns."
   },
   {
     "Question": "What day of the week does May 28 2006 fall on ?",
@@ -277,7 +304,8 @@
     "Answer": "c",
     "Option D": "Thursday",
     "Solution": "28th May 2006 = (2005 years + period from 1-Jan-2006 to 28-May-2006)We know that number of odd days in 400 years = 0Hence the number of odd days in 2000 years = 0 (Since 2000 is a perfect multiple of 400)Number of odd days in the period 2001-2005= 4 normal years + 1 leap year= 4 x 1 + 1 x 2 = 6Days from 1-Jan-2006 to 28-May-2006 = 31 (Jan) + 28 (Feb) + 31 (Mar) + 30 (Apr) + 28(may)= 148148 days = 21 weeks + 1 day = 1 odd dayTotal number of odd days = (0 + 6 + 1) = 7 odd days = 0 odd day0 odd day = SundayHence May 28 2006 is Sunday.",
-    "Topic": "Calendar"
+    "Topic": "Calendar",
+    "Subtitle": "Determine days, dates, and calendar-based patterns."
   },
   {
     "Question": "How many days are there in x weeks x days ?",
@@ -286,8 +314,9 @@
     "Option C": "`7x^2`",
     "Answer": "b",
     "Option D": "7",
-    "Solution": "x weeks x days = (7\u00d7x)+x=7x+x= 8x days",
-    "Topic": "Calendar"
+    "Solution": "x weeks x days = (7×x)+x=7x+x= 8x days",
+    "Topic": "Calendar",
+    "Subtitle": "Determine days, dates, and calendar-based patterns."
   },
   {
     "Question": "The calendar for the year 2007 will be the same for the year",
@@ -297,7 +326,8 @@
     "Answer": "b",
     "Option D": "2016",
     "Solution": "Take the year 2014 given in the choice.Total odd days in the period 2007-2013 = 5 normal years + 2 leap year= 5 x 1 + 2 x 2 = 9 odd days= 2 odd day (As we can reduce multiples of 7 from odd days which will not change anything)Take the year 2016 given in the choice.Number of odd days in the period 2007-2015 = 7 normal years + 2 leap year= 7 x 1 + 2 x 2 = 11 odd days= 4 odd days(Even if the odd days were 0, calendar of 2007 will not be same as the calendar of 2016 because 2007 is not a leap year whereas 2016 is a leap year. In fact, you can straight away ignore this choice due to this fact without even bothering to check the odd days)Take the year 2017 given in the choice.Number of odd days in the period 2007-2016 = 7 normal years + 3 leap year= 7 x 1 + 3 x 2 = 13 odd days= 6 odd daysTake the year 2018 given in the choice.Number of odd days in the period 2007-2017 = 8 normal years + 3 leap year= 8 x 1 + 3 x 2 = 14 odd days= 0 odd day (As we can reduce multiples of 7 from odd days which will not change anything)Also, both 2007 and 2018 are not leap years.Since total odd days in the period 2007-2017 = 0 and both 2007 and 2018 are of same type, 2018 will have the same calendar as that of 2007",
-    "Topic": "Calendar"
+    "Topic": "Calendar",
+    "Subtitle": "Determine days, dates, and calendar-based patterns."
   },
   {
     "Question": "Arun went for a movie nine days ago. He goes to watch movies only on Thursdays. What day of the week is today?",
@@ -307,7 +337,8 @@
     "Answer": "c",
     "Option D": "Sunday",
     "Solution": "Clearly it can be understood from the question that 9 days ago was a ThursdayNumber of odd days in 9 days = 2 (As 9-7 = 2, reduced perfect multiple of 7 from total days)Hence today = (Thursday + 2 odd days) = Saturday",
-    "Topic": "Calendar"
+    "Topic": "Calendar",
+    "Subtitle": "Determine days, dates, and calendar-based patterns."
   },
   {
     "Question": "If the seventh day of a month is three days earlier than Friday, What day will it be on the nineteenth day of the month?",
@@ -317,7 +348,8 @@
     "Answer": "c",
     "Option D": "Wednesday",
     "Solution": "Given that seventh day of a month is three days earlier than FridaySeventh day is Tuesday14th is Tuesday19th is Sunday",
-    "Topic": "Calendar"
+    "Topic": "Calendar",
+    "Subtitle": "Determine days, dates, and calendar-based patterns."
   },
   {
     "Question": "Given that 27th February 2003 is a Thursday. What day of the week was 27th February 1603?",
@@ -327,7 +359,8 @@
     "Answer": "c",
     "Option D": "Tuesday",
     "Solution": "After every 400 years, the same day occurs.Thus, if 27th February 2003 is Thursday, before 400 years i.e., on 27th February 1603 has to be Thursday.",
-    "Topic": "Calendar"
+    "Topic": "Calendar",
+    "Subtitle": "Determine days, dates, and calendar-based patterns."
   },
   {
     "Question": "How many days are there in a leap year?",
@@ -337,7 +370,8 @@
     "Answer": "c",
     "Option D": "363",
     "Solution": "Leap year Contains 366 days.",
-    "Topic": "Calendar"
+    "Topic": "Calendar",
+    "Subtitle": "Determine days, dates, and calendar-based patterns."
   },
   {
     "Question": "If birthday of Raj was celebrated on 5th January, Tuesday 1993 what would be the day when he celebrates his 21st birthday?",
@@ -347,7 +381,8 @@
     "Answer": "c",
     "Option D": "Wednesday",
     "Solution": "5th Jan 1993 is Tuesday1993+21=2014He will celebrate his 21st birthday on 5th Jan 2014.Number of leap years: 5 (1996,2000,2004,2008,2012)Number of non-leap years: 16We add 2 days for a leap year and 1 day for non-leap years.Therefore (2*5)+16 = 26A day repeats itself in 7 days. Therefore, we do 26/7 whose remainder is 5 days.Add 5 days after Tuesday.Tuesday + 5 = Sunday.Answer: Sunday ",
-    "Topic": "Calendar"
+    "Topic": "Calendar",
+    "Subtitle": "Determine days, dates, and calendar-based patterns."
   },
   {
     "Question": "Today is 29th November,2015 is a sunday. What would be 364th day from now?",
@@ -357,7 +392,8 @@
     "Answer": "c",
     "Option D": "Friday",
     "Solution": "Today is 29th November, 2015 falls on Sunday.Now 2016 is a leap year. February will have 29 days.That is a year from 29th November 2015 to 29th November 2016 will have 366 days.Therefore, after 364 days, the day will be 27th November, 2016.Therefore, if 29th November 2015 is Sunday,then, 29th November 2016 will Tuesday. (As for a leap year, we add two days)Therefore, the day on 27th November 2016 will be Sunday.",
-    "Topic": "Calendar"
+    "Topic": "Calendar",
+    "Subtitle": "Determine days, dates, and calendar-based patterns."
   },
   {
     "Question": "What would be the person's age after 180 months if his current age is 28 years?",
@@ -367,7 +403,8 @@
     "Answer": "c",
     "Option D": "40 years",
     "Solution": "There are 12 months in a year. Hence, 180 months is 15 years. If the person's current age is 28 years, then his age after 15 years would be 43 years which is the required answer.",
-    "Topic": "Calendar"
+    "Topic": "Calendar",
+    "Subtitle": "Determine days, dates, and calendar-based patterns."
   },
   {
     "Question": "January 1, 1992 was a Wednesday. What day of the week will it be on January 1, 1993 ?",
@@ -377,7 +414,8 @@
     "Answer": "c",
     "Option D": "Sunday",
     "Solution": "1992 being a leap year, it has 2 odd days. So, the first day of the year 1993 will be two days beyond Wednesday. ie it will be Friday",
-    "Topic": "Calendar"
+    "Topic": "Calendar",
+    "Subtitle": "Determine days, dates, and calendar-based patterns."
   },
   {
     "Question": "A clock loses 1% time during the first week and then gains 2% time during the next one week. If the clock was set right at 12 noon on a Sunday, what will be the time shown by the clock exactly 14 days from the time it was set right?",
@@ -387,7 +425,8 @@
     "Option C": "1:41:24",
     "Option D": "10:19:12",
     "Solution": "The clock loses 1% time during the first week.In a day there are 24 hours and in a week there are 7 days. Therefore, there are 7 * 24 = 168 hours in a week.If the clock loses 1% time during the first week, then it will show a time which is 1% of 168 hours less than 12 Noon at the end of the first week = 1.68 hours less.Subsequently, the clock gains 2% during the next week. The second week has 168 hours and the clock gains 2% time = 2% of 168 hours = 3.36 hours more than the actual time.As it lost 1.68 hours during the first week and then gained 3.36 hours during the next week, the net result will be a -1.68 + 3.36 = 1.68 hour net gain in time.So the clock will show a time which is 1.68 hours more than 12 Noon two weeks from the time it was set right.1.68 hours = 1 hour and 40.8 minutes = 1 hour + 40 minutes + 48 seconds.i.e. 1 : 40 : 48 P.M.",
-    "Topic": "Clock"
+    "Topic": "Clock",
+    "Subtitle": "Solve problems involving angles and positions of clock hands."
   },
   {
     "Question": "if it takes 60 seconds to complete one round around the clock what would be the time required to complete 1200 rounds of the same clock",
@@ -397,7 +436,8 @@
     "Option C": "42000 secs",
     "Option D": "45000 secs",
     "Solution": "1 round takes 60 seconds.1200 rounds will take ? seconds.? = 1200 * 60 seconds = 72000 seconds.Not in option. So we check for minutes.`(1200 * 60) / 60 = 1200 min`",
-    "Topic": "Clock"
+    "Topic": "Clock",
+    "Subtitle": "Solve problems involving angles and positions of clock hands."
   },
   {
     "Question": "A sum of money placed at compound interest doubles itself in 4 years. In how many years will it amount to 8 times?",
@@ -407,7 +447,8 @@
     "Option D": "12 years",
     "Answer": "d",
     "Solution": "Let,Principal = Rs. 100.Amount = Rs. 200.Rate = r%Time = 4 years.Now,`A = P*[1+ (r/100)]^n`;`200 = 100*[1+(r/100)]^4`;`2 = [1+(r/100)]^4`; ........... (i)If sum become 8 times in the time n years,then,`8 = (1+(r/100))^n`;`2^3 = (1+(r/100))^n`; ........(ii)Using eqn (i) in (ii), we get;`([1+(r/100)]^4)^3 = (1+(r/100))^n`;`[1+(r/100)]^12 = (1+(r/100))^n`;Thus, n = 12 years.",
-    "Topic": "Compound Interest"
+    "Topic": "Compound Interest",
+    "Subtitle": "Calculate interest earned on interest over time using compounding."
   },
   {
     "Question": "The difference between simple and compound interest for the fourth year is Rs. 7280 at 20% p.a. What is the principal sum?",
@@ -416,8 +457,9 @@
     "Option C": "50000",
     "Option D": "55000",
     "Answer": "c",
-    "Solution": "Difference between CI and SI for nth year,= `((Pr) /100) *[(1 +(r /100))^(n-1) -1]`\u2192 `7280 = ((P*20)/100) *[(1.2)^3-1]`\u2192 P = 50000.",
-    "Topic": "Compound Interest"
+    "Solution": "Difference between CI and SI for nth year,= `((Pr) /100) *[(1 +(r /100))^(n-1) -1]`→ `7280 = ((P*20)/100) *[(1.2)^3-1]`→ P = 50000.",
+    "Topic": "Compound Interest",
+    "Subtitle": "Calculate interest earned on interest over time using compounding."
   },
   {
     "Question": "When 0.36 is written in simplest form, the sum of the numerator and the denominator is :",
@@ -427,7 +469,8 @@
     "Option C": "64",
     "Option D": "13",
     "Solution": "0.36 = 36/100 = 9/25.Sum of the numerator and denominator is 9 + 25 = 34",
-    "Topic": "Decimal Fraction"
+    "Topic": "Decimal Fraction",
+    "Subtitle": "Work with decimal-based numbers and their arithmetic operations."
   },
   {
     "Question": "Functions f and g are defined by:f(x) = 1/x + 3x and g(x) = -1/x + 6x - 4The domain  of (f+g)(x) is:",
@@ -437,7 +480,8 @@
     "Option C": "(-infinity , 0) U (0 , 9)",
     "Option D": "None of these",
     "Solution": "(f + g)(x) = f(x) + g(x) = (1/x + 3x) + (-1/x + 6x - 4)(f + g)(x) = 9 x - 4 Domain of f + g is given by the interval (-infinity , 0) U (0 , + infinity)",
-    "Topic": "Functions"
+    "Topic": "Functions",
+    "Subtitle": "Understand mappings and relationships between input and output values."
   },
   {
     "Question": "The range of the function f(x)= x2 - 4x + 9 is:",
@@ -447,7 +491,8 @@
     "Option C": "[5 , + infinity)",
     "Option D": "None of these",
     "Solution": "h(x) = x 2 - 4 x + 9 = x 2 - 4 x + 4 - 4 + 9 = (x - 2) 2 + 5(x - 2) 2 >= 0(x - 2) 2 + 5 >= 5Hence minimum value h(x) can have is 5 and maximum can go upto + infinity. So the range is [5 , + infinity)",
-    "Topic": "Functions"
+    "Topic": "Functions",
+    "Subtitle": "Understand mappings and relationships between input and output values."
   },
   {
     "Question": "Find the H.C.F, if the numbers are in the ratio of 4 : 5 : 6 and their L.C.M. is 2400.",
@@ -457,7 +502,8 @@
     "Option C": "40",
     "Option D": "67",
     "Solution": "Let the numbers be 3x, 4x and 5x.Then,their L.C.M. = 120x.So, 120x = 2400 or x = 20.=>The numbers are (4 x 20), (5 x 20) and (6 x 20).Hence, required H.C.F = 20.",
-    "Topic": "H.C.F and L.C.M"
+    "Topic": "H.C.F and L.C.M",
+    "Subtitle": "Find highest common factor and least common multiple of numbers."
   },
   {
     "Question": "The greatest number which on dividing 1657 and 2037 leaves remainders 6 and 5 respectively, is:",
@@ -467,7 +513,8 @@
     "Option C": "235",
     "Option D": "305",
     "Solution": "Required number = H.C.F. of (1657 - 6) and (2037 - 5)= H.C.F. of 1651 and 2032 = 127.",
-    "Topic": "H.C.F and L.C.M"
+    "Topic": "H.C.F and L.C.M",
+    "Subtitle": "Find highest common factor and least common multiple of numbers."
   },
   {
     "Question": "The interger value of x at which inequality fails,3x + 12 18",
@@ -477,7 +524,8 @@
     "Option D": "2",
     "Answer": "d",
     "Solution": "For x=2, 3(2)+ 12 = 06+12=18 so 18<18 is not possible since 18=18 and hence inequality fails",
-    "Topic": "Inequalities"
+    "Topic": "Inequalities",
+    "Subtitle": "Solve and interpret mathematical inequalities involving variables."
   },
   {
     "Question": "Find the product of `(8.77 xx 8.77xx 8.77+ 4.23xx 4.23 xx 4.23)/(8.77 xx 8.77 -8.77 xx 4.23+ 4.23 xx 4.23)`   ?",
@@ -487,7 +535,8 @@
     "Option D": "13",
     "Answer": "d",
     "Solution": "   = `((8.77)^3 + (4.23)^3) / ((8.77)^2 - (8.77 xx 4.23)+ (4.23)^2)`   = `(a^3 + b^3)/ (a^2 - ab+ b^2)`   = `(a+b)`   = `8.77+4.23 `   = `13`   ",
-    "Topic": "Numbers"
+    "Topic": "Numbers",
+    "Subtitle": "Understand number theory basics including types and properties of numbers."
   },
   {
     "Question": "What is the unit digit in 2^30?",
@@ -497,7 +546,8 @@
     "Option D": "2",
     "Answer": "b",
     "Solution": "Cyclicity of 2 = 4D = d * Q + R30 = 4 * 7 + 230/4 = Remainder 2, 22 = 4Notes:Cyclicity of 2, 3, 7, 8 => 4Cyclicity of 4, 9 => 2Cyclicity of 1, 5, 6 => 1",
-    "Topic": "Numbers"
+    "Topic": "Numbers",
+    "Subtitle": "Understand number theory basics including types and properties of numbers."
   },
   {
     "Question": "Find the remainder when 6799 is divided by 7.",
@@ -507,7 +557,8 @@
     "Option D": "2",
     "Answer": "c",
     "Solution": "Remainder of `((67^99)/7)`==R==>`((63+4)^99)/7`63 is divisible by 7 for any power, so required remainder will depend on the power of 4.Require remainder:`(4^99)/7==R==>(4^(96+3))/7``4^3/7==> 64/7==> (63+1)/7==R==>1`",
-    "Topic": "Numbers"
+    "Topic": "Numbers",
+    "Subtitle": "Understand number theory basics including types and properties of numbers."
   },
   {
     "Question": "The remainder when 1010+ 10100+101000+ . . . . . . + 101000000000 is divided by 7 is",
@@ -517,7 +568,8 @@
     "Option D": "5",
     "Answer": "b",
     "Solution": "Number of terms in the series = 10.(We can get it easily by pointing the number of zeros in power of terms.In 1st term number of zero is 1, 2nd term 2, and 3rd term 3 and so on.)1010/7, Written as,(7+3)(4*2+2)/7The remainder will depend on,32/7So, remainder will be 2.10100/7, Can be written as,3100/7.Or, 325*4/7Or, 34/7.Remainder = 1101000/7, Remainder = 21010000/7, Remainder = 1So, we get alternate 2 and 1 as remainder, five times each.So, required remainder is given by(2+1+2+1+2+1+2+1+2+1)/7= 15/7Remainder: 1",
-    "Topic": "Numbers"
+    "Topic": "Numbers",
+    "Subtitle": "Understand number theory basics including types and properties of numbers."
   },
   {
     "Question": "In a two-digit number, the digit in the unit's place is more than twice the digit in ten's place by 1. If the digits in the unit's place and the ten's place are interchanged, difference between the newly formed number and the original number is less than the original number by 1. What is the original number ?",
@@ -527,7 +579,8 @@
     "Option D": "39",
     "Answer": "c",
     "Solution": "Let the ten's digit be x. Then, unit's digit = 2x + 1.[10x + (2x + 1)] - [{10 (2x + 1) + x} - {10x + (2x + 1)}] = 1<=> (12x + 1) - (9x + 9) = 1 <=> 3x = 9, x =  3.So, ten's digit = 3 and unit's digit = 7. Hence, original number = 37.",
-    "Topic": "Numbers"
+    "Topic": "Numbers",
+    "Subtitle": "Understand number theory basics including types and properties of numbers."
   },
   {
     "Question": "Let N be the greatest number that will divide 1305, 4665 and 6905, leaving the same remainder in each case. The sum of the digits in N is :",
@@ -537,7 +590,8 @@
     "Option D": "8",
     "Answer": "a",
     "Solution": "N = H.C.F of (4655-1305), (6905-4655) and (6905-1305) = H.C.F of 3360, 2240 and 5600N= 1120, hence sum of digits in N= (1+1+2+0)= 4",
-    "Topic": "Numbers"
+    "Topic": "Numbers",
+    "Subtitle": "Understand number theory basics including types and properties of numbers."
   },
   {
     "Question": "Find the odd man out?396, 462, 572, 427, 671, 264.",
@@ -547,7 +601,8 @@
     "Answer": "c",
     "Option D": "264",
     "Solution": "In each number except 427, the middle digit is the sum of other two.",
-    "Topic": "Odd Man Out and Series"
+    "Topic": "Odd Man Out and Series",
+    "Subtitle": "Identify the element that breaks the pattern in a sequence."
   },
   {
     "Question": "2, 12, 36, 80, 150,..",
@@ -557,7 +612,8 @@
     "Answer": "b",
     "Option D": "300",
     "Solution": "The series is 13 + 12, 23 + 22, 33 + 32",
-    "Topic": "Odd Man Out and Series"
+    "Topic": "Odd Man Out and Series",
+    "Subtitle": "Identify the element that breaks the pattern in a sequence."
   },
   {
     "Question": "Find the odd man out:4, 9, 256, 529, 573",
@@ -567,7 +623,8 @@
     "Answer": "b",
     "Option D": "9",
     "Solution": "573 is not a perfect square",
-    "Topic": "Odd Man Out and Series"
+    "Topic": "Odd Man Out and Series",
+    "Subtitle": "Identify the element that breaks the pattern in a sequence."
   },
   {
     "Question": "Find the odd number:2,3,5,19,25,31,37",
@@ -577,7 +634,8 @@
     "Answer": "b",
     "Option D": "31",
     "Solution": "Except 25 all other are prime numbers.",
-    "Topic": "Odd Man Out and Series"
+    "Topic": "Odd Man Out and Series",
+    "Subtitle": "Identify the element that breaks the pattern in a sequence."
   },
   {
     "Question": "Find the odd number:1,1,2,3,3,4,5,9,8",
@@ -587,7 +645,8 @@
     "Answer": "a",
     "Option D": "3",
     "Solution": "Sum of Alternate number gives next alternate number.1+2=3;2+3=5;3+5=8;1+3=4;3+4=7;7 is the correct number in sequence not 9",
-    "Topic": "Odd Man Out and Series"
+    "Topic": "Odd Man Out and Series",
+    "Subtitle": "Identify the element that breaks the pattern in a sequence."
   },
   {
     "Question": "What is the value of c , If 8 is 4% of a, and 4 is 8% of b. c equals b/a.",
@@ -596,8 +655,9 @@
     "Answer": "b",
     "Option C": "0.155",
     "Option D": "None of these",
-    "Solution": "Let be the 4% of a is 4a/100.Since this equals 8, we have 4a/100=8.Solving for a yields a=8\u00d7`(100/4)`=200.Also, 8% of b equals 8b/100, and this equals 4. Hence, we have `(8/100)`\u00d7b=4. Solving for b yields  b = 50.Now, c=`b/a`=`50/200`=`1/4.`",
-    "Topic": "Percentage"
+    "Solution": "Let be the 4% of a is 4a/100.Since this equals 8, we have 4a/100=8.Solving for a yields a=8×`(100/4)`=200.Also, 8% of b equals 8b/100, and this equals 4. Hence, we have `(8/100)`×b=4. Solving for b yields  b = 50.Now, c=`b/a`=`50/200`=`1/4.`",
+    "Topic": "Percentage",
+    "Subtitle": "Convert and calculate values using percentage increases and decreases."
   },
   {
     "Question": "Half percent, written as a decimal, is",
@@ -607,7 +667,8 @@
     "Option C": "0.005",
     "Option D": "0.05",
     "Solution": "As we know, 1% = 1/100Hence, (1/2)% = (1/2 * 1/100) = 1/200 = 0.005",
-    "Topic": "Percentage"
+    "Topic": "Percentage",
+    "Subtitle": "Convert and calculate values using percentage increases and decreases."
   },
   {
     "Question": "Fresh fruit contains 68% water and dry fruit contains 20% water. How much dry fruit can be obtained from 100 kg of fresh fruits ?",
@@ -617,7 +678,8 @@
     "Option C": "40",
     "Option D": "50",
     "Solution": "The fruit content in both the fresh fruit and dry fruit is the same.Given, fresh fruit has 68% water. So remaining 32% is fruit content. Weight of fresh fruits is 100kgDry fruit has 20% water. So remaining 80% is fruit content. Let weight of dry fruit be y kg.Fruit % in freshfruit = Fruit% in dryfruit`(32/100) ** 100 = (80/100 ) ** y`We get, y = 40 kg",
-    "Topic": "Percentage"
+    "Topic": "Percentage",
+    "Subtitle": "Convert and calculate values using percentage increases and decreases."
   },
   {
     "Question": "A shepherd has 1 million sheep at the beginning of Year 2000. The numbers grow by x during the year. A famine hits his village in the next year and many of his sheep die. The sheep population decreases by y during 2001 and at the beginning of 2002 the shepherd finds that he is left with 1 million sheep. Which of the following is correct? ",
@@ -627,7 +689,8 @@
     "Option C": "x=y",
     "Option D": "cannot be determined",
     "Solution": "Let us assume the value of x to be 10%Therefore, the number of sheep in the herd at the beginning of year 2001 (end of 2000) will be 1 million + 10% of 1 million = 1.1 millionIn 2001, the numbers decrease by y% and at the end of the year the number sheep in the herd = 1 million.i.e., 0.1 million sheep have died in 2001.In terms of the percentage of the number of sheep alive at the beginning of 2001,it will be `(0.1/1.1) ** 100% = 9.09%`From the above illustration it is clear that x>yx",
-    "Topic": "Percentage"
+    "Topic": "Percentage",
+    "Subtitle": "Convert and calculate values using percentage increases and decreases."
   },
   {
     "Question": "X and Y invest Rs.21000 and Rs.17500 respectively in a business. At the end of the year, they make a profit of Rs.26400. What is the share of X in the profit?",
@@ -637,7 +700,8 @@
     "Option C": "12000",
     "Option D": "12500",
     "Solution": "Ratio of the investment = `21000 : 17500 = 210 : 175 = 42 : 35 = 6 : 5`Share of X in the profit = `26400 ** (6/11) = 2400 ** 6 = 14400`",
-    "Topic": "Percentage"
+    "Topic": "Percentage",
+    "Subtitle": "Convert and calculate values using percentage increases and decreases."
   },
   {
     "Question": "Kamal started a business with Rs.25000 and after 4 months, Kiran joined him with Rs.60000. Kamal received Rs.58000 including 10% of profit as commission for managing the business. What amount did Kiran receive?",
@@ -647,7 +711,8 @@
     "Option C": "72000",
     "Option D": "78000",
     "Solution": "Ratio of the profits = 25000*12 : 60000*8= 25*12 : 60*8 = 5*3 : 12:2 = 5 : 4*2= 5:8Let the total profit = x.Then Kamal received `(10x)/100 = x/10` as commission for managing the businessRemaining profit = `x- x/10 = (9x)/10` which is shared in the ration 5:8Kamal's share = `x/10 + ((9x)/10) * (5/13) = 58000`=> `x + 9x(5/13) = 580000`=> `x(1 + 45/13) = 580000`=> `x ( 58/13) = 580000`=> `x ( 1/13) = 10000`=> `x = 130000`Kiran's share = 130000 - 58000 = 72000",
-    "Topic": "Percentage"
+    "Topic": "Percentage",
+    "Subtitle": "Convert and calculate values using percentage increases and decreases."
   },
   {
     "Question": "A & B partner in a business , A contribute 1/4 of the capital for 15 months & B received 2/3 of the profit . For how long B's money was used ?",
@@ -656,8 +721,9 @@
     "Answer": "b",
     "Option C": "14 months",
     "Option D": "16 months",
-    "Solution": "B received 2/3 of the profit=> A : B = `1/3 : 2/3 = 1:2`Let the total capital = xThen A's capital = `x/4`B's capital = `x \u2013 x/4 = (3x)/4`Assume B's money was used for b monthsThen A:B = `(x/4)**15 : ((3x)/4)**b = 1 : 2`=> `15/4 : (3b)/4 = 1 : 2`=> `15 : 3b = 1 : 2`=> `5 : b = 1 : 2`=> `5/b = 1/ 2`=> `b = 5**2 = 10`",
-    "Topic": "Percentage"
+    "Solution": "B received 2/3 of the profit=> A : B = `1/3 : 2/3 = 1:2`Let the total capital = xThen A's capital = `x/4`B's capital = `x – x/4 = (3x)/4`Assume B's money was used for b monthsThen A:B = `(x/4)**15 : ((3x)/4)**b = 1 : 2`=> `15/4 : (3b)/4 = 1 : 2`=> `15 : 3b = 1 : 2`=> `5 : b = 1 : 2`=> `5/b = 1/ 2`=> `b = 5**2 = 10`",
+    "Topic": "Percentage",
+    "Subtitle": "Convert and calculate values using percentage increases and decreases."
   },
   {
     "Question": "What is 12 percent of 80 percent of 50?",
@@ -667,7 +733,8 @@
     "Option C": "4.8",
     "Option D": "3.6",
     "Solution": "12% of 80% of 50= 12% of `(80/100 ** 50)`= 12% of 40= `12/100 ** 40`= 4.8 ",
-    "Topic": "Percentage"
+    "Topic": "Percentage",
+    "Subtitle": "Convert and calculate values using percentage increases and decreases."
   },
   {
     "Question": "I forgot the last digit of a 7 digit telephone number. If one randomly dial the final three digits after correctly dialling the four, then what is the chance of dialling the correct number?",
@@ -677,7 +744,8 @@
     "Option C": "`1/999`",
     "Option D": "`1/990`",
     "Solution": "It is given that last three digits are randomly dialled. Then each of the digit can be selected out of 10 digits in 10 ways.Hence required probability= `1/10 * 1/10 * 1/10`= `1/1000`",
-    "Topic": "Probability"
+    "Topic": "Probability",
+    "Subtitle": "Calculate the likelihood of events occurring using basic probability."
   },
   {
     "Question": "A person starting with 64 rupees and making 6 bets, wins three times and loses three times, the wins and loses occurring in random order. The chance for a win is equal to the chance for a loss. If each wager is for half the money remaining at the time of the bet, then the final result is:",
@@ -687,7 +755,8 @@
     "Option C": "Neither gain or a loss",
     "Option D": "A gain or a loss depending upon the order in which the wins and losses occur",
     "Solution": "As the win leads to multiplying the amount by 1.5 and loss leads to multiplying the amount by 0.5, we will multiply initial amount by 1.5 thrice and by 0.5 thrice (in any order).The overall resultant will remain same.So final amount with the person will be (in all cases):=64(1.5)(1.5)(1.5)(0.5)(0.5)(0.5)=Rs27Hence the final result is: 64-27 =37",
-    "Topic": "Probability"
+    "Topic": "Probability",
+    "Subtitle": "Calculate the likelihood of events occurring using basic probability."
   },
   {
     "Question": "A magician holds one six-sided die in his left hand and two in his right. What is the probability the number on the dice in his left hand is greater than the sum of the dice in his right?",
@@ -696,8 +765,9 @@
     "Option B": "5/54",
     "Option C": "1/9",
     "Option D": "2/17",
-    "Solution": "The only way to roll higher on one die is if the magicians rolls between 2 and 5, inclusive, with two dice. Where he to roll a six with two dice than there is no way he could eclipse that number by rolling one die.Below is the probability of rolling a certain number with two dice.\u20182\u2019 \u2013 1/36\u20183\u2019 \u2013 2/36\u20184\u2019 \u2013 3/36\u20185\u2019-  4/36Now the only numbers a magician can roll with the one die and win is between 3 and 6, inclusive. The chances of rolling any are always 1/6.Next, we have to combine the probability distribution relating to two dice with that relating to the one.The chances of a magician rolling any given number with one die are 1/6. So let\u2019s start with the lowest number he can roll: a \u20183.\u2019 To win with this roll, he will have to roll a \u20182\u2019 with two dice, the odds of which are 1/36. So .So the chances of him rolling a \u20183\u2019 with one die and winning are 1/216.Let\u2019s repeat this logic for the next roll, \u20184.\u2019 Chances of rolling are 1/6. Only way a \u20184\u2019 wins is if he rolls a \u20182\u2019 or a \u20183\u2019 with two dice.Odds of rolling a \u20182\u2019 with two dice  + odds of rolling a \u20183\u2019 with two dice = . Combine this with the odds of rolling a \u20184\u2019 ( which is 1/6): .If he rolls a \u20185\u2019 with one die, he can win if he rolls a \u20184\u2019 with two dice, the probability is 3/36. He can also win if he rolls a \u20182\u2019 or a \u20183\u2019 with two dice, the number outcomes we just found: 3/36. So we addNext, if he rolls a \u20186\u2019 on one die, he can beat \u20182\u2019 through \u20185\u2019 with the two dice. Number of ways to roll a \u20185\u2019 = 4/36. Combining this with the odds of rolling a \u20186\u2019 on one die with the odds or rolling \u20182\u2019, \u20183\u2019, \u20184\u2019, or \u20185\u2019 with the two dice we get: 10/216.You may be wondering why I left the denominator as 216. Well, this allows us to add up all the instances he can possibly win:",
-    "Topic": "Probability"
+    "Solution": "The only way to roll higher on one die is if the magicians rolls between 2 and 5, inclusive, with two dice. Where he to roll a six with two dice than there is no way he could eclipse that number by rolling one die.Below is the probability of rolling a certain number with two dice.‘2’ – 1/36‘3’ – 2/36‘4’ – 3/36‘5’-  4/36Now the only numbers a magician can roll with the one die and win is between 3 and 6, inclusive. The chances of rolling any are always 1/6.Next, we have to combine the probability distribution relating to two dice with that relating to the one.The chances of a magician rolling any given number with one die are 1/6. So let’s start with the lowest number he can roll: a ‘3.’ To win with this roll, he will have to roll a ‘2’ with two dice, the odds of which are 1/36. So .So the chances of him rolling a ‘3’ with one die and winning are 1/216.Let’s repeat this logic for the next roll, ‘4.’ Chances of rolling are 1/6. Only way a ‘4’ wins is if he rolls a ‘2’ or a ‘3’ with two dice.Odds of rolling a ‘2’ with two dice  + odds of rolling a ‘3’ with two dice = . Combine this with the odds of rolling a ‘4’ ( which is 1/6): .If he rolls a ‘5’ with one die, he can win if he rolls a ‘4’ with two dice, the probability is 3/36. He can also win if he rolls a ‘2’ or a ‘3’ with two dice, the number outcomes we just found: 3/36. So we addNext, if he rolls a ‘6’ on one die, he can beat ‘2’ through ‘5’ with the two dice. Number of ways to roll a ‘5’ = 4/36. Combining this with the odds of rolling a ‘6’ on one die with the odds or rolling ‘2’, ‘3’, ‘4’, or ‘5’ with the two dice we get: 10/216.You may be wondering why I left the denominator as 216. Well, this allows us to add up all the instances he can possibly win:",
+    "Topic": "Probability",
+    "Subtitle": "Calculate the likelihood of events occurring using basic probability."
   },
   {
     "Question": "In a single throw of two dice , find the probability that neither a doublet nor a total of 8 will appear.",
@@ -707,7 +777,8 @@
     "Option C": "13/18",
     "Option D": "3/16",
     "Solution": "n(S) = 36A = {(1, 1), (2, 2), (3, 3), (4, 4), (5, 5), (6, 6)}B = { (2, 6), (3, 5), (4, 4), (5, 3), (6, 2) } Required probability = `10/36 = 5/18` Note: (4,4) occurs in both. Count once.",
-    "Topic": "Probability"
+    "Topic": "Probability",
+    "Subtitle": "Calculate the likelihood of events occurring using basic probability."
   },
   {
     "Question": "A division of a company consists of seven men and five women.  If two of these twelve employees are randomly selected as representatives of the division, what is the probability that both representatives will be female?",
@@ -716,8 +787,9 @@
     "Option B": "2/5",
     "Option C": "2/9",
     "Option D": "5/33",
-    "Solution": "First, the denominator. We have twelve different people, and we want a combination of two selected from these twelve.  We will use the formula :`nC2 = (n(n-1))/2`which, for profound mathematical reasons we need not address here, is also the formula for the sum of the first (n \u2013 1) positive integers.  Here`12C2 = (12*(11))/2 = 6 * 11 = 66`That\u2019s the total number of pairs we could pick from the twelve employees.  That\u2019s our denominator.For the numerator, we want every combination of two from the five female employees.  That\u2019s`5C2 = (5*(4))/2 = 5 * 2 = 10`That\u2019s the  number of pairs of female employees we could pick from the five.  That\u2019s our numerator.probability = `10/66 = 5/33`Answer = Option D",
-    "Topic": "Probability"
+    "Solution": "First, the denominator. We have twelve different people, and we want a combination of two selected from these twelve.  We will use the formula :`nC2 = (n(n-1))/2`which, for profound mathematical reasons we need not address here, is also the formula for the sum of the first (n – 1) positive integers.  Here`12C2 = (12*(11))/2 = 6 * 11 = 66`That’s the total number of pairs we could pick from the twelve employees.  That’s our denominator.For the numerator, we want every combination of two from the five female employees.  That’s`5C2 = (5*(4))/2 = 5 * 2 = 10`That’s the  number of pairs of female employees we could pick from the five.  That’s our numerator.probability = `10/66 = 5/33`Answer = Option D",
+    "Topic": "Probability",
+    "Subtitle": "Calculate the likelihood of events occurring using basic probability."
   },
   {
     "Question": "There are 10 items in a box, out of which 3 are defective. 2 items are taken one after the other. What is the probability that both of them are defective?",
@@ -727,27 +799,30 @@
     "Option C": "2/60",
     "Option D": "Both A and B",
     "Solution": "probability = `3C2/10C2 = ((3!) / (2! * 1!))/((10!) / (8! * 2!)) = 1/15``1/15 * 4/4 = 4/60`",
-    "Topic": "Probability"
+    "Topic": "Probability",
+    "Subtitle": "Calculate the likelihood of events occurring using basic probability."
   },
   {
-    "Question": "Sum of present ages of A, B and C is 92 years. If 4 years ago, the ratio of their ages were 1:2:3 respectively, find A\u2019s present age.",
+    "Question": "Sum of present ages of A, B and C is 92 years. If 4 years ago, the ratio of their ages were 1:2:3 respectively, find A’s present age.",
     "Option A": "18.5 year",
     "Option B": "14.8 years",
     "Option C": "17.3 years",
     "Answer": "c",
     "Option D": "20.3 years",
-    "Solution": "Sum of present ages of A, B and C is = 92 yearsTherefore , Sum of their ages 4 years ago = 92 \u2013 (4 * 3)= 80 years.4 years ago ratio of the ages of A , B and C was = 1:2:3Therefore, A\u2019s age four years ago = `1/6` * 80 = 13.3 years.So , A\u2019s present age =13.3 + 4 = 17.3 years",
-    "Topic": "Problems on Ages"
+    "Solution": "Sum of present ages of A, B and C is = 92 yearsTherefore , Sum of their ages 4 years ago = 92 – (4 * 3)= 80 years.4 years ago ratio of the ages of A , B and C was = 1:2:3Therefore, A’s age four years ago = `1/6` * 80 = 13.3 years.So , A’s present age =13.3 + 4 = 17.3 years",
+    "Topic": "Problems on Ages",
+    "Subtitle": "Use logical equations to determine present, past, or future ages."
   },
   {
-    "Question": "2 years ago A\u2019s age was 6 times of B\u2019s age. 6 years after the ratio between the ages of A and B becomes 10 : 3. What is A\u2019s present age?",
+    "Question": "2 years ago A’s age was 6 times of B’s age. 6 years after the ratio between the ages of A and B becomes 10 : 3. What is A’s present age?",
     "Option A": "44",
     "Option B": "38",
     "Option C": "42",
     "Answer": "a",
     "Option D": "34",
-    "Solution": "Older ratio = 6:1Newer ratio = 10:3Let 2 years ago ages of B and A were x and 6x respectively.`[ (6x+8)/ (x+8)] = 10/3``18x +24 = 10x + 80``8x = 56` `x=7 years`Therefore , 2 years ago , A\u2019s age was 6 * 7 = 42 yearsTherefore, A\u2019s present age = 42 + 2 = 44",
-    "Topic": "Problems on Ages"
+    "Solution": "Older ratio = 6:1Newer ratio = 10:3Let 2 years ago ages of B and A were x and 6x respectively.`[ (6x+8)/ (x+8)] = 10/3``18x +24 = 10x + 80``8x = 56` `x=7 years`Therefore , 2 years ago , A’s age was 6 * 7 = 42 yearsTherefore, A’s present age = 42 + 2 = 44",
+    "Topic": "Problems on Ages",
+    "Subtitle": "Use logical equations to determine present, past, or future ages."
   },
   {
     "Question": "3 years back average age of A and B was 32. Today average age of A,B and C is 30. What is the age of C?",
@@ -757,7 +832,8 @@
     "Answer": "d",
     "Option D": "20",
     "Solution": "3 years back average age of A and B is`((A-3)+(B-3))/2 = 32`Hence A+B=70Today average of A,B and C is 30 i.e.`(A+B+C)/3=30`A+B+C=90Hence C=A+B+C-A-B=20",
-    "Topic": "Problems on Ages"
+    "Topic": "Problems on Ages",
+    "Subtitle": "Use logical equations to determine present, past, or future ages."
   },
   {
     "Question": "The total age of A and B is 12 years more than the total age of B and C. C is how many years younger than A ?",
@@ -767,7 +843,8 @@
     "Answer": "a",
     "Option D": "15",
     "Solution": "(A+B) - (B+C) = 12A - C = 12.C is younger than A by 12 years.",
-    "Topic": "Problems on Ages"
+    "Topic": "Problems on Ages",
+    "Subtitle": "Use logical equations to determine present, past, or future ages."
   },
   {
     "Question": "The average age of a class of 22 students is 21 years. The average increased by 1 when the teacher's age also included. What is the age of the teacher?",
@@ -776,8 +853,9 @@
     "Option C": "43",
     "Answer": "d",
     "Option D": "44",
-    "Solution": "`\"Total age of all students\" /22 = 21 `Total age of all students= 22 *21`\"Total age of all students + age of the teacher\"/(22+1) = 21+1`Total age of all students + age of the teacher = 22 * 23Age of the teacher = 23\u00d722 \u2013 22\u00d721 = 22(23-21) = 22\u00d72 = 44",
-    "Topic": "Problems on Ages"
+    "Solution": "`\"Total age of all students\" /22 = 21 `Total age of all students= 22 *21`\"Total age of all students + age of the teacher\"/(22+1) = 21+1`Total age of all students + age of the teacher = 22 * 23Age of the teacher = 23×22 – 22×21 = 22(23-21) = 22×2 = 44",
+    "Topic": "Problems on Ages",
+    "Subtitle": "Use logical equations to determine present, past, or future ages."
   },
   {
     "Question": "Ayisha's age is 1/6th of her father's age. Ayisha's father's age will be twice the age of Shankar's age after 10 years. If Shankar's eighth birthday was celebrated two years before, then what is Ayisha 's present age.?",
@@ -787,7 +865,8 @@
     "Answer": "d",
     "Option D": "5 years",
     "Solution": "Consider Ayisha's present age = xThen her father's age = 6xGiven that Ayisha 's father's age will be twice the age of Shankar's age after 10 years=> Shankar's age after 10 years = `1/2`(6x + 10) = 3x + 5Also given that Shankar's eight birthdays was celebrated two years beforeSo his current age is 8 + 2 = 10 years old=> Shankar's age after 10 years = 10 + 10 = 20=> 3x + 5 = 20=> x = 5Therefore, Ayisha 's present age = 5 years",
-    "Topic": "Problems on Ages"
+    "Topic": "Problems on Ages",
+    "Subtitle": "Use logical equations to determine present, past, or future ages."
   },
   {
     "Question": "My brother is 3 years elder to me. My father was 28 years of age when my sister was born while my mother was 26 years of age when I was born. If my sister was 4 years of age when my brother was born, then what was the age my father when my brother was born?",
@@ -796,8 +875,9 @@
     "Option C": "33 years",
     "Answer": "d",
     "Option D": "32 years",
-    "Solution": "Let my age = xThen,My brother's age = x + 3My mother's age = x + 26My sister's age = (x + 3) + 4 = x + 7My father's age = (x + 7) + 28 = x + 35=> age my father when my brother was born = x + 35 \u2013 (x + 3) = 32",
-    "Topic": "Problems on Ages"
+    "Solution": "Let my age = xThen,My brother's age = x + 3My mother's age = x + 26My sister's age = (x + 3) + 4 = x + 7My father's age = (x + 7) + 28 = x + 35=> age my father when my brother was born = x + 35 – (x + 3) = 32",
+    "Topic": "Problems on Ages",
+    "Subtitle": "Use logical equations to determine present, past, or future ages."
   },
   {
     "Question": "A is as much younger than B as he is older than C. If the sum of the ages of B and C is 50 years, what is exactly the difference between B and A's age?",
@@ -806,8 +886,9 @@
     "Option C": "5 years",
     "Answer": "a",
     "Option D": "2 years",
-    "Solution": "Age of C < Age of A < Age of BGiven that sum of the ages of B and C is 50 years.Let's take B's age = x and C's age = 50-xNow we need to find out B's age \u2013 A's age. But we cannot find out this with the given data.",
-    "Topic": "Problems on Ages"
+    "Solution": "Age of C < Age of A < Age of BGiven that sum of the ages of B and C is 50 years.Let's take B's age = x and C's age = 50-xNow we need to find out B's age – A's age. But we cannot find out this with the given data.",
+    "Topic": "Problems on Ages",
+    "Subtitle": "Use logical equations to determine present, past, or future ages."
   },
   {
     "Question": "Sobha's father was 38 years of age when she was born while her mother was 36 years old when her brother four years younger to her was born. What is the difference between the ages of her parents?",
@@ -816,8 +897,9 @@
     "Option C": "4 years",
     "Answer": "a",
     "Option D": "3 years",
-    "Solution": "Let Sobha's age = x and her brother's age = x-4Sobha's father's age = x + 38Sobha's mother's age = (x - 4) + 36=> Sobha's father's age - Sobha's mother's age= (x + 38) \u2013 [(x - 4) + 36]= x + 38 \u2013 x + 4 \u2013 36= 6",
-    "Topic": "Problems on Ages"
+    "Solution": "Let Sobha's age = x and her brother's age = x-4Sobha's father's age = x + 38Sobha's mother's age = (x - 4) + 36=> Sobha's father's age - Sobha's mother's age= (x + 38) – [(x - 4) + 36]= x + 38 – x + 4 – 36= 6",
+    "Topic": "Problems on Ages",
+    "Subtitle": "Use logical equations to determine present, past, or future ages."
   },
   {
     "Question": "My father was 30 years of age when my sister was born. My mother was 38 years of age when I was born. My sister was 6 years of age when my brother was born who is 3 years elder to me. What was the age of my father and my mother during the birth of my brother?",
@@ -826,8 +908,9 @@
     "Option C": "28,24",
     "Answer": "d",
     "Option D": "36,35",
-    "Solution": "My brother was born 6 years after my sister was born and 3 years before I was born.Age of father during my brother\u2019s birth = (30 + 6) = 36 years.Age of mother during my brother\u2019s birth = (38 \u2013 3) = 35 years.Hence, during the birth of my brother, my father was 36 years old and my mother was 35 years old.",
-    "Topic": "Problems on Ages"
+    "Solution": "My brother was born 6 years after my sister was born and 3 years before I was born.Age of father during my brother’s birth = (30 + 6) = 36 years.Age of mother during my brother’s birth = (38 – 3) = 35 years.Hence, during the birth of my brother, my father was 36 years old and my mother was 35 years old.",
+    "Topic": "Problems on Ages",
+    "Subtitle": "Use logical equations to determine present, past, or future ages."
   },
   {
     "Question": "The ratio of the current ages of Ajay and Vijay is 7:4. The ratio between Ajay's age 6 years ago and Vijay's age 6 years from now is 1:1. Find the ratio between Ajay's age after 12 years  and Vijay's age 12 years ago.",
@@ -836,8 +919,9 @@
     "Option C": "10:1",
     "Answer": "1:1",
     "Option D": "None of these",
-    "Solution": "Let the current age of Ajay and Vijay be 7x and 4x respectively.`(7x \u2013 6) / (4x + 6) = 1/1`7x \u2013 6 = 4x + 63x = 12x = 4Therefore, `(7x + 12) / (4x \u2013 12) = (7**4 + 12) / (4 ** 4 -12) = 40/4 = 10/1`",
-    "Topic": "Problems on Ages"
+    "Solution": "Let the current age of Ajay and Vijay be 7x and 4x respectively.`(7x – 6) / (4x + 6) = 1/1`7x – 6 = 4x + 63x = 12x = 4Therefore, `(7x + 12) / (4x – 12) = (7**4 + 12) / (4 ** 4 -12) = 40/4 = 10/1`",
+    "Topic": "Problems on Ages",
+    "Subtitle": "Use logical equations to determine present, past, or future ages."
   },
   {
     "Question": "A train 120 meters long is running with a speed of 60 km/hr. In what time will it pass a boy who is running at 6 km/hr in the direction opposite to that in which the train is going?",
@@ -847,7 +931,8 @@
     "Option C": "55 sec",
     "Option D": "30.2 sec",
     "Solution": "Speed of train relative to boy= `(60 + 6)` km/hr = 66 km/hr`= [66 xx 5/18]` m/sec = `[55/3]` m/sec.Time taken to pass the boy=` [120 xx 3/55]` sec = 6.54 seconds",
-    "Topic": "Problems On Trains"
+    "Topic": "Problems On Trains",
+    "Subtitle": "Calculate train speeds, times, and distances including platform/passenger problems."
   },
   {
     "Question": "Find the speed of the train, if a train 142 m long passes a pole in 6 seconds.",
@@ -857,7 +942,8 @@
     "Option C": "84.9 km/hr",
     "Option D": "79.2 km/hr",
     "Solution": "Speed = `[142/6]` m/sec= `[23.6 ** 18/5]` km/hr = 84.9 km/hr",
-    "Topic": "Problems On Trains"
+    "Topic": "Problems On Trains",
+    "Subtitle": "Calculate train speeds, times, and distances including platform/passenger problems."
   },
   {
     "Question": "The driver of a maruti car driving at a speed of 68km/h locates a bus 40m ahead of him. After 10sec the bus is 60m behind. The speed of the bus is",
@@ -866,8 +952,9 @@
     "Option B": "32km/hr",
     "Option C": "25km/hr",
     "Option D": "38km/hr",
-    "Solution": "Let the speed of the bus be x m/sspeed of the car = 68km/hr (or) `170/9` m/sin 10s the car covers a distance of 100m (40m + 60m = 100m) at a speed of (`170/9` \u2013 x)m/sdistance = speed*time`100 = (170/9 -x) **10`x = `80/9` m/sNow convert it to km/hr which is 32 km/hr",
-    "Topic": "Problems On Trains"
+    "Solution": "Let the speed of the bus be x m/sspeed of the car = 68km/hr (or) `170/9` m/sin 10s the car covers a distance of 100m (40m + 60m = 100m) at a speed of (`170/9` – x)m/sdistance = speed*time`100 = (170/9 -x) **10`x = `80/9` m/sNow convert it to km/hr which is 32 km/hr",
+    "Topic": "Problems On Trains",
+    "Subtitle": "Calculate train speeds, times, and distances including platform/passenger problems."
   },
   {
     "Question": "A train 150 m long is running with a speed of 68 kmph. In what time will it pass a man who is running at 8 kmph in the same direction in which the train is going?",
@@ -877,7 +964,8 @@
     "Option C": "10s",
     "Option D": "12s",
     "Solution": "Speed of the train relative to man = (68 - 8) kmph = (60* `5/18`) m/sec = (`50/3`)m/secTime taken by the train to cross the man I = Time taken by It to cover 150 m at `50/3` m / sec= 150 *`3/ 50` sec = 9 sec",
-    "Topic": "Problems On Trains"
+    "Topic": "Problems On Trains",
+    "Subtitle": "Calculate train speeds, times, and distances including platform/passenger problems."
   },
   {
     "Question": "A guy bought 10 pencils for Rs. 50 and sold them for Rs. 60.What is his gain in terms of percentage?",
@@ -887,7 +975,8 @@
     "Answer": "c",
     "Option D": "12%",
     "Solution": "`\"Gain%\"=(\"Gain\"/\"C.P\")*100=20%`",
-    "Topic": "Profit and Loss"
+    "Topic": "Profit and Loss",
+    "Subtitle": "Compute profit or loss from selling items at given prices."
   },
   {
     "Question": "The cost of setting up a magazine is Rs. 2800. The cost of paper and ink etc is Rs. 80 per 100 copies and printing cost is Rs. 160 per 100 copies. In last month 2000 copies were printed but only 1500 copies could be sold at Rs. 5 each. Total 25% profit on the sale price was realized. There is one more resource of income from magazine which is advertising. What sum of money obtained from the advertising in magazine?",
@@ -897,7 +986,8 @@
     "Answer": "d",
     "Option D": "Rs.1975",
     "Solution": "Set up cost = Rs. 2800Paper etc = Rs. 1600Printing cost = Rs. 3200Total cost = Rs. 7600Total sale price = 1500*5 = 7500Let amount obtained from advertising be x then,(7500+x)-7600 = 25 % of 7500x = 1975.",
-    "Topic": "Profit and Loss"
+    "Topic": "Profit and Loss",
+    "Subtitle": "Compute profit or loss from selling items at given prices."
   },
   {
     "Question": "A vendor sold the item at Rs. 500 with a profit margin of 25%. What is the cost price of the item?",
@@ -907,7 +997,8 @@
     "Answer": "a",
     "Option D": "350",
     "Solution": "We know,`Profit % = ((Selli ng Price - Cost Price))/(Cost Price) * 100` `=>25 = ((500-x))/(x)*100` => 125x = 50000=> x = 400",
-    "Topic": "Profit and Loss"
+    "Topic": "Profit and Loss",
+    "Subtitle": "Compute profit or loss from selling items at given prices."
   },
   {
     "Question": "A shopkeeper bought a box of 100 toffees for Rs. 200. His son ate 10 toffees (ofcourse, without paying!). At what S.P should each toffee be sold so shopkeeper makes an overall profit of 20%?",
@@ -917,7 +1008,8 @@
     "Answer": "c",
     "Option D": "Rs. 3",
     "Solution": "C.P for shopkeeper = Rs.200Required Profit % = 20%=> Required Total S.P = 1.2 * 200 = Rs. 240Toffees Left = 100 - 10 = 90S.P for Each Toffee = 240/90 = Rs. 2.67",
-    "Topic": "Profit and Loss"
+    "Topic": "Profit and Loss",
+    "Subtitle": "Compute profit or loss from selling items at given prices."
   },
   {
     "Question": "A petrol pump owner mixes 1 litre of solvent in 9 litres of Petrol. The cost price of solvent is Rs. 10 per litre and that of petrol is Rs.70 per litre. The selling price of the mixture is Rs. 76.8 per litre. What is the profit percentage?",
@@ -927,7 +1019,8 @@
     "Answer": "a",
     "Option D": "7.5%",
     "Solution": "C.P. of 10 litres of Mixture = 10*1+70*9 = Rs.640S.P. of 10 litres of Mixture = 76.8 * 10 = Rs. 768Thus Profit % = `((768-640)/640)*100`=> Profit % = 20%",
-    "Topic": "Profit and Loss"
+    "Topic": "Profit and Loss",
+    "Subtitle": "Compute profit or loss from selling items at given prices."
   },
   {
     "Question": "P and Q take part in 100 m race. P runs at 6kmph. P gives Q a start of 8 m and still beats him by 8 seconds. The speed of Q is:",
@@ -937,7 +1030,8 @@
     "Option D": "4.86 kmph",
     "Answer": "d",
     "Solution": "`speed =( 6**5/18)m/sec) = (30/18) m/sec`Time taken by P to cover 100 m = `(100 ** 18/30)`m/sec =60 secTime taken by Q to cover 92 m = (60 + 8) = 68 sec.Q's speed =`(\"Distance\"/\"Time\"**18/5) kmph =(92/68 ** 18/5)` kmph = 4.86kmph.",
-    "Topic": "Races and Games"
+    "Topic": "Races and Games",
+    "Subtitle": "Analyze time and distance in competitive scenarios."
   },
   {
     "Question": "The number of oranges in three basket are in the ratio 3 : 4 : 5. In which ratio the no. of oranges in first two basket must be increased so that the new ratio becomes 5 : 4 : 3 ?",
@@ -946,8 +1040,9 @@
     "Answer": "b",
     "Option C": "2:3",
     "Option D": "1:3",
-    "Solution": "Let,B1 : B2 : B3 = 3x : 4x : 5xAgain,B1 : B2 : B3 = 5y : 4y : 3yNumber of oranges remain constant in third basket as increase in oranges takes place only in first two baskets.Hence, 5x = 3y`x=(3y)/5`and,3x : 4x : 5x\u2192 `(9y) /5 : (12y) /5 : (15y) /5 = 9y : 12y : 15y`And,5y : 4y : 3y \u2192 25y : 20y : 15yTherefore, Increment in first basket = 16.Increment in second basket = 8.Thus, Required ratio = 16 /8 = 2 : 1",
-    "Topic": "Ratio and Proportion"
+    "Solution": "Let,B1 : B2 : B3 = 3x : 4x : 5xAgain,B1 : B2 : B3 = 5y : 4y : 3yNumber of oranges remain constant in third basket as increase in oranges takes place only in first two baskets.Hence, 5x = 3y`x=(3y)/5`and,3x : 4x : 5x→ `(9y) /5 : (12y) /5 : (15y) /5 = 9y : 12y : 15y`And,5y : 4y : 3y → 25y : 20y : 15yTherefore, Increment in first basket = 16.Increment in second basket = 8.Thus, Required ratio = 16 /8 = 2 : 1",
+    "Topic": "Ratio and Proportion",
+    "Subtitle": "Solve problems involving comparative quantities and scaling."
   },
   {
     "Question": "A mixture contains alcohol and water in the ratio 4 : 3. If 5 liters of water is added to the mixture, the ratio becomes 4: 5. Find the quantity of alcohol in the given mixture.",
@@ -957,7 +1052,8 @@
     "Option C": "15",
     "Option D": "18",
     "Solution": "Let the quantity of alcohol and water be 4x litres and 3x litres respectively20x = 4(3x+5)8x = 20x = 2.5Quantity of alcohol = (4 x 2.5) litres = 10 litres.",
-    "Topic": "Ratio and Proportion"
+    "Topic": "Ratio and Proportion",
+    "Subtitle": "Solve problems involving comparative quantities and scaling."
   },
   {
     "Question": "The rate at which a sum becomes four times of itself in 25 years at S.I.,will be:",
@@ -967,7 +1063,8 @@
     "Answer": "c",
     "Option D": "49%",
     "Solution": "Let sum = x. Then, S.I. = 3xRate = `[100 ** (S.I.) / P**T] %`= `[100 ** (3x) / x ** 25]% = 12%`",
-    "Topic": "Simple Interest"
+    "Topic": "Simple Interest",
+    "Subtitle": "Calculate interest earned over time using the simple interest formula."
   },
   {
     "Question": "What annual installment will discharge a debt of Rs 1092 due in 3 years at 12% simple interest?",
@@ -977,7 +1074,8 @@
     "Answer": "a",
     "Option D": "550",
     "Solution": "Let each instalment be Rs.x .Then, `[x + (x ** 12 ** 1)/100] + [ x + (x **12 ** 2)/100] + x =1092` `( (28x)/25 ) + ( (31x)/25 ) + x = 1092` `(28x + 31x + 25x) = (1092 ** 25)` `x = (1092 ** 25)/84= 325`Each instalment = Rs. 325",
-    "Topic": "Simple Interest"
+    "Topic": "Simple Interest",
+    "Subtitle": "Calculate interest earned over time using the simple interest formula."
   },
   {
     "Question": "Devesh can cover a certain distance in 1 hour 24 minutes by covering two-third of the distance at 6 km/hour and the rest at 7 km/hr. Calculate total distance.",
@@ -987,7 +1085,8 @@
     "Answer": "c",
     "Option D": "7/5 km",
     "Solution": " Let the total distance be x , then`[{(2/3) x }/6 ] + [{(1/3) x }/7 ] = 7/5``=> x/9 + x/21 = 7/5``=> 7x = 63``=> x = 9` Therefore , total distance = `6 km`",
-    "Topic": "Time And Distance"
+    "Topic": "Time And Distance",
+    "Subtitle": "Solve problems on motion, speed, and time relationships."
   },
   {
     "Question": "In covering a distance of 40 km, Kamlesh takes 2 hours more than Pankaj. If Kamlesh doubles his speed, then he would take 1 hour less than Pankaj. Then what is Kamlesh's speed?",
@@ -996,8 +1095,9 @@
     "Option C": "9 Kmph",
     "Answer": "b",
     "Option D": "6 Kmph",
-    "Solution": "Let Kamlesh\u2019s speed be x km/hr.Then, `40/x - 40/(2x) = 4`8x = 40x = 5 km/hr",
-    "Topic": "Time And Distance"
+    "Solution": "Let Kamlesh’s speed be x km/hr.Then, `40/x - 40/(2x) = 4`8x = 40x = 5 km/hr",
+    "Topic": "Time And Distance",
+    "Subtitle": "Solve problems on motion, speed, and time relationships."
   },
   {
     "Question": "If 120 km is done by train and the rest by car, then it takes 8 hours for a 600 km journey. Of 200 km is done by train and the rest by car, then it takes 20 minutes more. Then what would be the ratio of the speed of the train to that of the car?",
@@ -1007,7 +1107,8 @@
     "Answer": "a",
     "Option D": "3:5",
     "Solution": "Let speed of the train be x km/hr and of the car be y km/hr.Then, `120/x + 480/y = 8`=> `1/x + 4/y = 1/5`    --- (i)And, `200/x + 400/y = 25/3`=> `1/x + 2/y = 1/24`    --- (ii)Solving (i) and (ii), we get x = 60 and y = 80.Ratio of speeds = 60: 80 = 3:4",
-    "Topic": "Time And Distance"
+    "Topic": "Time And Distance",
+    "Subtitle": "Solve problems on motion, speed, and time relationships."
   },
   {
     "Question": "I walk a certain distance and ride the car back taking a total time of 33 Minutes. I could walk both sides in 45 min. How long would it take me to ride both ways?",
@@ -1017,7 +1118,8 @@
     "Answer": "c",
     "Option D": "22 mins",
     "Solution": "Time taken in walking a certain distance from X and Y = 22 `1/2` MinTime taken in riding the same distance = 33 - 22 `1/2` = 10 `1/2` MinIt will take 21 Min (10 `1/2` * 2) to ride both ways.",
-    "Topic": "Time And Distance"
+    "Topic": "Time And Distance",
+    "Subtitle": "Solve problems on motion, speed, and time relationships."
   },
   {
     "Question": "Avinash covers a distance of 8km in 50 minutes. If he covers 3km distance in 2/5th of time then, What speed should he maintain to cover the remaining distance in the remaining time?",
@@ -1027,7 +1129,8 @@
     "Answer": "c",
     "Option D": "11 Kmph",
     "Solution": "Total distance = 8 KmTotal time = 50 minutesTime taken to cover the distence of 3 Km = `50**(2/5) = 20 min = 1/3 hours`Remaining distance = 8 - 3 = 5 KmRequired speed = `5/((1/3)) = 15 Kmph`",
-    "Topic": "Time And Distance"
+    "Topic": "Time And Distance",
+    "Subtitle": "Solve problems on motion, speed, and time relationships."
   },
   {
     "Question": "Jack takes 20 minutes to jog around the race course one time, and 25 minutes to jog around a second time. What is his average speed in miles per hour for the whole jog if the course is 3 miles long?",
@@ -1037,7 +1140,8 @@
     "Answer": "b",
     "Option D": "10",
     "Solution": "Average speed = total distance / total timeTotal distance covered = 6 miles; total time = 45 minutes = 0.75 hoursAverage speed = 6/ 0.75 = 8 miles/hour",
-    "Topic": "Time And Distance"
+    "Topic": "Time And Distance",
+    "Subtitle": "Solve problems on motion, speed, and time relationships."
   },
   {
     "Question": "A runs 25% faster than B and is able to allow B a lead of 7 meters to end a race in dead heat. What is the length of the race?",
@@ -1047,7 +1151,8 @@
     "Answer": "c",
     "Option D": "5 meters",
     "Solution": "A runs 25% as fast as B.That is, if B runs 100m in a given time, then A will run 125m in the same timeIn other words, if A runs 5m in a given time, then B will run 4m in the same time.Therefore, if the length of a race is 5m, then A can give B a start of 1m so that they finish the race in a dead heat.Start : length of race :: 1 : 5In this question, we know that the start is 7m.Hence, the length of the race will be 7 * 5 = 35m.",
-    "Topic": "Time And Distance"
+    "Topic": "Time And Distance",
+    "Subtitle": "Solve problems on motion, speed, and time relationships."
   },
   {
     "Question": "Two trains running in opposite directions cross a man standing on the platform in 27 seconds and 17 seconds respectively and they cross each other in 23 seconds. The ratio of their speeds is:",
@@ -1057,7 +1162,8 @@
     "Answer": "c",
     "Option D": "None of these",
     "Solution": "Let the speeds of the two trains be x m/sec and y m/sec respectively.Then, length of the first train = 27x metres, and length of the second train = 17y metres.`(27x+17y)/(x+y) = 23`27x + 17y = 23x + 23y4x = 6y`x/y = 3/2`",
-    "Topic": "Time And Distance"
+    "Topic": "Time And Distance",
+    "Subtitle": "Solve problems on motion, speed, and time relationships."
   },
   {
     "Question": "A person walks at 5kmph for 6hr and at 4km/h for 12hr. His average speed is ?",
@@ -1067,7 +1173,8 @@
     "Answer": "a",
     "Option D": "9 km/hr",
     "Solution": "Answer : 1.`\"Avg speed\" = \"total distance\"/\"total time\"`= `((5*6) + (4*12)) / 18`=`4 1/3` km/h",
-    "Topic": "Time And Distance"
+    "Topic": "Time And Distance",
+    "Subtitle": "Solve problems on motion, speed, and time relationships."
   },
   {
     "Question": "A man can cover a distance in 1hr 24min by covering 2/3 of the distance at 4 km/h and the rest at 5km/h. The total distance is",
@@ -1077,7 +1184,8 @@
     "Answer": "d",
     "Option D": "6km",
     "Solution": "Answer : 4Total time = 1hr 24min = 60min + 24 min = 84 min = `84/60`hoursLet total distance be S.`\"Time\" = \"Distance\" / \"Speed\"``84/64 = ((2S)/3)/4 + (S/3)/5``84/64 = (S/6) + (S/15)``84/64 = (21S)/(6*15)``S = (84 * 6 * 15)/(64 * 21)` S = 6km",
-    "Topic": "Time And Distance"
+    "Topic": "Time And Distance",
+    "Subtitle": "Solve problems on motion, speed, and time relationships."
   },
   {
     "Question": "In covering a distance of 30 km, A takes 2 hours more than B. If A doubles his speed, then he would take 1 hour less than B. A's speed is:",
@@ -1087,7 +1195,8 @@
     "Answer": "c",
     "Option D": "6km/hr",
     "Solution": "Answer : 2.Let A's speed be X km/hr.Then, 30/x - 30/2x = 36x = 30x = 5 km/hr. ",
-    "Topic": "Time And Distance"
+    "Topic": "Time And Distance",
+    "Subtitle": "Solve problems on motion, speed, and time relationships."
   },
   {
     "Question": "Walking at the rate of 4kmph a man cover certain distance in 2hr 45 min. Running at a speed of 16.5 kmph the man will cover the same distance in.",
@@ -1097,7 +1206,8 @@
     "Answer": "c",
     "Option D": "41min.",
     "Solution": "Answer : 3.Time= 2hr 45min = `2 45/60 hr = 2 3/4 hr = 11/4 hr`Distance = Speed * time`4*11/4 = 11km`New Speed = 16.5 kmphTherefore `\"time\" = \"Distance\"/\"Speed\" = 11/16.5 = 40min`",
-    "Topic": "Time And Distance"
+    "Topic": "Time And Distance",
+    "Subtitle": "Solve problems on motion, speed, and time relationships."
   },
   {
     "Question": "Two monkeys starting from the same place walk at a rate of 5kmph and 5.5kmph respectively. What time will they take to be 8.5km apart, if they walk in the same direction?",
@@ -1106,8 +1216,9 @@
     "Option C": "17hrs.",
     "Answer": "17 1/30hrs.",
     "Option D": "16hrs.",
-    "Solution": "Answer : 1.The relative speed of the boys = 5.5kmph \u2013 5kmph= 0.5 kmphDistance between them is 8.5 kmTime= `\"8.5km\"/\"0.5 kmph\" = 17 hrs`",
-    "Topic": "Time And Distance"
+    "Solution": "Answer : 1.The relative speed of the boys = 5.5kmph – 5kmph= 0.5 kmphDistance between them is 8.5 kmTime= `\"8.5km\"/\"0.5 kmph\" = 17 hrs`",
+    "Topic": "Time And Distance",
+    "Subtitle": "Solve problems on motion, speed, and time relationships."
   },
   {
     "Question": "A man covers a distance on scooter. Had he moved 3kmph faster he would have taken 40 min less. If he had moved 2kmph slower, he would have taken 40min more. The distance is?",
@@ -1116,8 +1227,9 @@
     "Option C": "40km.",
     "Answer": "35km.",
     "Option D": "39km.",
-    "Solution": "Answer : 1.Let distance = x mUsual rate = y kmph`x/y \u2013 x/(y+3) = 40/60 hr` 2y(y+3) = 9x ---------------------------------(1)`x/(y-2) \u2013 x/y = 40/60 hr`y(y-2) = 3x -----------(2)divide 1 & 2 equationsby solving we get x = 40 km",
-    "Topic": "Time And Distance"
+    "Solution": "Answer : 1.Let distance = x mUsual rate = y kmph`x/y – x/(y+3) = 40/60 hr` 2y(y+3) = 9x ---------------------------------(1)`x/(y-2) – x/y = 40/60 hr`y(y-2) = 3x -----------(2)divide 1 & 2 equationsby solving we get x = 40 km",
+    "Topic": "Time And Distance",
+    "Subtitle": "Solve problems on motion, speed, and time relationships."
   },
   {
     "Question": "A motorist covers a distance of 39km in 45min by moving at a speed of x kmph for the first 15min, then moving at double the speed for the next 20 min, and then again moving at his original speed for the rest of the journey. Find x.?",
@@ -1127,7 +1239,8 @@
     "Answer": "c",
     "Option D": "34km/hr.",
     "Solution": "Answer : 1.Total distance = 39 kmTotal time = 45 minD = S*T`x * 15/60 + 2x * 20/60 + x * 10/60 = 39 km `x = 36 kmph",
-    "Topic": "Time And Distance"
+    "Topic": "Time And Distance",
+    "Subtitle": "Solve problems on motion, speed, and time relationships."
   },
   {
     "Question": "A & B are two towns. A person covers the distance from A to B on cycle at 17kmph and returns to A by a boat running at a uniform speed of 8kmph. His average speed for the whole journey is?",
@@ -1137,7 +1250,8 @@
     "Answer": "a",
     "Option D": "12.33kmph.",
     "Solution": "Answer : 1.When same distance is covered with different speeds, then the average speed = `(2 * x * y) / (x + y)` = 10.88kmph",
-    "Topic": "Time And Distance"
+    "Topic": "Time And Distance",
+    "Subtitle": "Solve problems on motion, speed, and time relationships."
   },
   {
     "Question": "A car covers 4 successive 3km stretches at speed of 10kmph, 20kmph, 30kmph & 60kmph resp. Its average speed is?",
@@ -1147,7 +1261,8 @@
     "Answer": "a",
     "Option D": "27kmph.",
     "Solution": "Average speed = total distance / total timetotal distance = 4 * 3 = 12 kmtotal time = `3/10 + 3/20 + 3/30 + 3/60` = `36/60` hrspeed =`12/(36 / 60)` = 20 kmph",
-    "Topic": "Time And Distance"
+    "Topic": "Time And Distance",
+    "Subtitle": "Solve problems on motion, speed, and time relationships."
   },
   {
     "Question": "A man can do a piece of work in 60 hours. If he takes his son with him and both work together then the work is finished in 40 hours. How many hours will the son take to do the same job, if he worked alone on the job?",
@@ -1157,6 +1272,7 @@
     "Option D": "120",
     "Answer": "d",
     "Solution": "If the man takes 60 hours to complete the work, then he will finish (1/60)thof the work in 1 hour.Let us assume that his son takes x hours to finish the same work.If they work together for 1 hour they will finish `1/60 + 1/x = 1/40` of the work.Therefore,x=120The son, working alone would take 120 hours to complete the work.",
-    "Topic": "Time and Work"
+    "Topic": "Time and Work",
+    "Subtitle": "Determine work done by individuals or groups over time."
   }
 ]
